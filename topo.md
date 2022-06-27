@@ -10,6 +10,8 @@
 
 И ячейки уложены модульно (что собсно у @nukeykt на картинках видно - каунтер отдельно, регистры отдельно и проч.)
 
-Ну а САМЫЙ прикол хотите??? VDP - CMOS с одним слоем металла!
+VDP - CMOS с одним слоем металла.
 
 ![image](https://user-images.githubusercontent.com/5828819/175983002-4df8cd5c-90a1-49fe-9fc4-dbe16c287375.png)
+
+https://www.icreversing.com/chips/315-5313a
