@@ -48,7 +48,7 @@
 
 ## Ячейка 11 - "ещё такая"
 
-![image](https://user-images.githubusercontent.com/5828819/175828452-8c775e5b-4ce9-42d6-8fa5-1cf6cc9a549f.png)
+![image](https://user-images.githubusercontent.com/5828819/175959809-c1862af9-696c-46fe-9019-12709208eeb8.png)
 
 ## Ячейка 12 - "среднее месиво"
 
