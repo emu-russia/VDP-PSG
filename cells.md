@@ -6,13 +6,15 @@
 
 Пока не понятно что за ячейки, просто собираем зоопарк. Только кодовые имена. Как будет содрана "шкура" с чипа, можно будет делать схемы ячеек.
 
-## Ячейка 1 - "писюн"
+## Ячейка 1 - not
 
-![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)
+|![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)|![image](https://user-images.githubusercontent.com/5828819/175990984-975273f8-2a89-4d94-b011-9debb02e246c.png)|
+|---|---|
 
-## Ячейка 2 - "писюн с отвисшым яйцом"
+## Ячейка 2 - nor
 
-![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)
+|![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)|![image](https://user-images.githubusercontent.com/5828819/175991051-58ec69fc-5cba-4535-9912-0df355219707.png)|
+|---|---|
 
 ## Ячейка 3 - "99% not"
 
