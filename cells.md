@@ -32,21 +32,34 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/175828255-fcc3b21d-1581-41ae-8568-4f52225abaf9.png)
 
-## Ячейка 7 - "чел"
+## Ячейка 7 - or
 
-![image](https://user-images.githubusercontent.com/5828819/175828343-ca770b7b-c711-4926-9c7d-ecec5fb66e1b.png)
+|![image](https://user-images.githubusercontent.com/5828819/175828343-ca770b7b-c711-4926-9c7d-ecec5fb66e1b.png)|![image](https://user-images.githubusercontent.com/5828819/176018358-e445fd72-a8ca-4356-9f05-3e22aa7e1689.png)|
+|---|---|
 
-## Ячейка 8 - "квадратные скобки"
+## Ячейка 8 - notif0
 
-![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)
+Управляемый инвертор с инверсным управлением.
+
+|![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)|![image](https://user-images.githubusercontent.com/5828819/176018237-bffd9aed-79f7-4be7-835f-edf27a565b64.png)|![image](https://user-images.githubusercontent.com/5828819/176018267-0b7643de-d56e-43f9-88f1-686f33d86382.png)|![image](https://user-images.githubusercontent.com/5828819/176018287-d56c1a19-cee0-4df7-8e19-1636e6f89323.png)|
+|---|---|---|---|
 
 ## Ячейка 9 - "большая 2"
 
 ![image](https://user-images.githubusercontent.com/5828819/175958669-7aa6f479-e25a-481c-abe2-32311ec462e9.png)
 
-## Ячейка 10 - "mux?"
+## Ячейка 10 - SRBit
 
-![image](https://user-images.githubusercontent.com/5828819/175828434-def8dd3c-53b6-4d24-a516-ee5cc95f0329.png)
+Разряд регистра сдвига. Дикая магия CMOS. Если убрать P-MOS часть, то ячейка принимает знакомый вид N-MOS разряда сдвигателя:
+
+![image](https://user-images.githubusercontent.com/5828819/176033538-51ae5998-eaa3-4a6f-afd0-77f932a2fa79.png)
+
+|![image](https://user-images.githubusercontent.com/5828819/175828434-def8dd3c-53b6-4d24-a516-ee5cc95f0329.png)|![image](https://user-images.githubusercontent.com/5828819/176033676-29be2ee5-71db-433f-bd14-1f58dde82434.png)|![image](https://user-images.githubusercontent.com/5828819/176033844-dfea478a-1031-477b-9ae1-519eba22c462.png)|
+|---|---|---|
+
+Анализ работы:
+
+![image](https://user-images.githubusercontent.com/5828819/176033609-a2666229-4ae3-45be-bd83-4faa5e3da96f.png)
 
 ## Ячейка 11 - "ещё такая"
 
