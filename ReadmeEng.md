@@ -12,6 +12,8 @@ Not so long ago we received a VDP of a Sega for analysis. The chip was damaged d
 
 Sega chips are basically designed with standard cell technology. 2 layers of metal. That is the typical approach of the mid-90s.
 
+EDIT: VDP (and PSG) is built with CMOS technology, 1 layer of metal.
+
 The project promises to be uncomplicated and interesting.
 
 The broken off piece has already been photographed at 40x, the first thing to do is stitch the slides together:
