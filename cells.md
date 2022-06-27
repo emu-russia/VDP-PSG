@@ -87,3 +87,9 @@
 ![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)
 
 В единственном экземпляре в правом нижнем углу.
+
+## Ячейка 20 - "мощный писюн"
+
+![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)
+
+В единственном экземпляре в правом верхнем углу.
