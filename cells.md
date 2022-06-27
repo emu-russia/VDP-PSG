@@ -2,11 +2,9 @@
 
 Библиотека стандартных ячеек, применяемых в PSG.
 
-Стандартные ячейки используют группу симметрии Z2 ("зиг-загом" по рядам, но это пока не точно. Ещё может быть и флип, то есть S2).
+Стандартные ячейки используют группу симметрии S2 (налево-направо + флип).
 
 Пока не понятно что за ячейки, просто собираем зоопарк. Только кодовые имена. Как будет содрана "шкура" с чипа, можно будет делать схемы ячеек.
-
-TBD: Возможно упустил что-то, как буду изучать схемы - всё станет понятно.
 
 ## Ячейка 1 - "писюн"
 
@@ -24,9 +22,9 @@ TBD: Возможно упустил что-то, как буду изучать
 
 ![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)
 
-## Ячейка 5 - "большая 1"
+## Ячейка 5 - "99% DFF"
 
-![image](https://user-images.githubusercontent.com/5828819/175828239-c4f8dc3a-8edf-471a-a879-37b529590145.png)
+![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)
 
 ## Ячейка 6 - "писюн + ворота"
 
@@ -36,15 +34,13 @@ TBD: Возможно упустил что-то, как буду изучать
 
 ![image](https://user-images.githubusercontent.com/5828819/175828343-ca770b7b-c711-4926-9c7d-ecec5fb66e1b.png)
 
-## Ячейка 8 - "часть большой 1"
+## Ячейка 8 - "квадратные скобки"
 
-![image](https://user-images.githubusercontent.com/5828819/175828362-c3d6bba2-c845-4323-b47e-8d90ba819662.png)
-
-(возможно "большая 1" - это две ячейки)
+![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)
 
 ## Ячейка 9 - "большая 2"
 
-![image](https://user-images.githubusercontent.com/5828819/175828403-8db0e707-4e2a-42f3-85b3-970427e74ed7.png)
+![image](https://user-images.githubusercontent.com/5828819/175958669-7aa6f479-e25a-481c-abe2-32311ec462e9.png)
 
 ## Ячейка 10 - "mux?"
 
@@ -73,3 +69,21 @@ TBD: Возможно упустил что-то, как буду изучать
 ![image](https://user-images.githubusercontent.com/5828819/175828586-a9f2d510-197e-467b-a42a-39891fc2ff49.png)
 
 Пока в единственном экземпляре (нижний левый угол). Немного отличается от Ячейки 14.
+
+## Ячейка 16 - "C"
+
+![image](https://user-images.githubusercontent.com/5828819/175958334-d19d87ae-733f-43b7-aa7c-a20700d82527.png)
+
+## Ячейка 17 - "длинный чел"
+
+![image](https://user-images.githubusercontent.com/5828819/175958473-c3b2788c-d1af-4d75-8925-04c54ab030c2.png)
+
+## Ячейка 18 - "большая 3"
+
+![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)
+
+## Ячейка 19
+
+![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)
+
+В единственном экземпляре в правом нижнем углу.
