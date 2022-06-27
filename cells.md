@@ -32,13 +32,17 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/175828255-fcc3b21d-1581-41ae-8568-4f52225abaf9.png)
 
-## Ячейка 7 - "чел"
+## Ячейка 7 - or
 
-![image](https://user-images.githubusercontent.com/5828819/175828343-ca770b7b-c711-4926-9c7d-ecec5fb66e1b.png)
+|![image](https://user-images.githubusercontent.com/5828819/175828343-ca770b7b-c711-4926-9c7d-ecec5fb66e1b.png)|![image](https://user-images.githubusercontent.com/5828819/176018358-e445fd72-a8ca-4356-9f05-3e22aa7e1689.png)|
+|---|---|
 
-## Ячейка 8 - "квадратные скобки"
+## Ячейка 8 - notif0
 
-![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)
+Управляемый инвертор с инверсным управлением.
+
+|![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)|![image](https://user-images.githubusercontent.com/5828819/176018237-bffd9aed-79f7-4be7-835f-edf27a565b64.png)|![image](https://user-images.githubusercontent.com/5828819/176018267-0b7643de-d56e-43f9-88f1-686f33d86382.png)|![image](https://user-images.githubusercontent.com/5828819/176018287-d56c1a19-cee0-4df7-8e19-1636e6f89323.png)|
+|---|---|---|---|
 
 ## Ячейка 9 - "большая 2"
 
