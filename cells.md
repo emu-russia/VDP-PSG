@@ -8,12 +8,12 @@
 
 ## Ячейка 1 - not
 
-|![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)|![image](https://user-images.githubusercontent.com/5828819/175990984-975273f8-2a89-4d94-b011-9debb02e246c.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)|![image](https://user-images.githubusercontent.com/5828819/175999883-90b013b2-fc58-4027-9236-9763d79340f4.png)|
 |---|---|
 
-## Ячейка 2 - nor
+## Ячейка 2 - nand
 
-|![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)|![image](https://user-images.githubusercontent.com/5828819/175991051-58ec69fc-5cba-4535-9912-0df355219707.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)|![image](https://user-images.githubusercontent.com/5828819/175999920-ba876784-3b6e-4314-ab34-8da8cb6cd6b2.png)|
 |---|---|
 
 ## Ячейка 3 - "99% not"
