@@ -61,6 +61,12 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/176033609-a2666229-4ae3-45be-bd83-4faa5e3da96f.png)
 
+Ещё поли:
+
+![image](https://user-images.githubusercontent.com/5828819/176114115-4355ba98-e814-454e-9c3f-baf2cafca8f8.png)
+
+После получения поли стало понятно что верхняя часть не соединяется с VDD (как видно там обрубок), в остальном угадали.
+
 ## Ячейка 11 - "ещё такая"
 
 ![image](https://user-images.githubusercontent.com/5828819/175959809-c1862af9-696c-46fe-9019-12709208eeb8.png)
