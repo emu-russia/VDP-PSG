@@ -146,7 +146,8 @@
 
 ## Ячейка 23 - "что-то там по середине закрашено"
 
-![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)
+|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|
+|---|---|
 
 В единственном экземпляре, по середине ряда `H`.
 
