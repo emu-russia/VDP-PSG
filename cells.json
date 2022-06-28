@@ -1,7 +1,8 @@
 {
 	"info":
 	{
-		"descr": "JSON contains all the information about the PSG cells."
+		"descr": "JSON contains all the information about the PSG cells.",
+		"url": "https://github.com/emu-russia/VDP-PSG/blob/main/cells.md"
 	},
 
 	"map":
@@ -10,37 +11,37 @@
 		"rows":
 		[
 			[
-				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3",
+				"not", "nand", "nand", "Cell3", "Cell3", "Cell3",
 				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
-				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3", 
+				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
 				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
-				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3", 
+				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
 				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
-				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3", 
+				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
 				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand"
 			],
 
 			[
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp",
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp",
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp",
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp", "Cell20"
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp", "Cell20"
 			],
 
 			[
-				"DLatch", "or", "or", "comp", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "or", "not",
-				"DLatch", "or", "or", "DLatch", "or", "or", "DLatch", "or", "or", "comp",
+				"dlatch", "or", "or", "comp", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
+				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp",
 				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "not", "or", "or", "not", "Cell16", "Cell17", "or", "or",
 				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "or", "not", "Cell16", "Cell17",
 				"Cell17", "Cell16", "not", "Cell17", "Cell16", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
 			],
 
 			[
-				"DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch",
+				"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
 				"comp", "comp", "comp",
-				"DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch",
+				"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
 				"comp", "comp", "comp",
-				"or", "or", "or", "or", "DLatch", "DLatch", "DLatch", "comp"
+				"or", "or", "or", "or", "dlatch", "dlatch", "dlatch", "comp"
 			],
 
 			[
@@ -64,7 +65,7 @@
 			],
 
 			[
-				"not", "Cell14", "Cell15", "Cell11",
+				"not", "Cell14_15", "Cell11",
 				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
 				"Cell24", "nand", "Cell11", "sr_bit", "Cell11", "not", "Cell20", "3-nand",
@@ -84,13 +85,13 @@
 
 		"Cell3":
 		{
-			"notes": "99% not"
+			"notes": "99% not - нет. На самом деле получается из двух половинок стоящих рядом"
 		},
 
 		"3-nand":
 		{},
 
-		"DLatch":
+		"dlatch":
 		{},
 
 		"comp":
@@ -127,11 +128,10 @@
 			"notes": "Обычный супер-буфер"
 		},
 
-		"Cell14":
-		{},
-
-		"Cell15":
-		{},
+		"Cell14_15":
+		{
+			"notes": "Было решено объединить их в одну, т.к. судя по всему это действительно одна мега-ячейка. Занимается скорее всего клоковым доменом (CLK Distribution)."
+		},
 
 		"Cell16":
 		{
@@ -149,7 +149,9 @@
 		},
 
 		"Cell19":
-		{},
+		{
+			"notes": "ктулху"
+		},
 
 		"Cell20":
 		{
