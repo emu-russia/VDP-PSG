@@ -121,7 +121,8 @@
 
 ## Ячейка 19 - "ктулху"
 
-![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)
+|![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)|![image](https://user-images.githubusercontent.com/5828819/176203046-43f896aa-574d-455b-9ce8-fea1b477f5df.png)|
+|---|---|
 
 В единственном экземпляре в правом нижнем углу.
 
