@@ -1,0 +1,179 @@
+{
+	"info":
+	{
+		"descr": "JSON contains all the information about the PSG cells."
+	},
+
+	"map":
+	{
+		"row_names": [ "A", "B", "C", "D", "E", "F", "G", "H" ],
+		"rows":
+		[
+			[
+				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3",
+				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
+				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3", 
+				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
+				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3", 
+				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
+				"not", "nand", "nand", "not", "Cell3", "not", "Cell3", "not", "Cell3", 
+				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand"
+			],
+
+			[
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6",
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6",
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6",
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6", "Cell20"
+			],
+
+			[
+				"DLatch", "or", "or", "Cell6", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "or", "not",
+				"DLatch", "or", "or", "DLatch", "or", "or", "DLatch", "or", "or", "Cell6",
+				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "not", "or", "or", "not", "Cell16", "Cell17", "or", "or",
+				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "or", "not", "Cell16", "Cell17",
+				"Cell17", "Cell16", "not", "Cell17", "Cell16", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
+			],
+
+			[
+				"DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch",
+				"Cell6", "Cell6", "Cell6",
+				"DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch",
+				"Cell6", "Cell6", "Cell6",
+				"or", "or", "or", "or", "DLatch", "DLatch", "DLatch", "Cell6"
+			],
+
+			[
+				"Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9",
+				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "3-nand", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
+			],
+
+			[
+				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
+				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
+				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
+				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
+				"nand", "or", "Cell18", "or", "Cell18", "or", "Cell18", "or", "Cell18", "3-nand", "3-nand", "not"
+			],
+
+			[
+				"or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21",
+				"Cell22",
+				"Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12",
+				"nand", "nand", "3-nand"
+			],
+
+			[
+				"not", "Cell14", "Cell15", "Cell11",
+				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
+				"Cell13", "not", "Cell13", "nand", "not", "Cell13", "Cell13", 
+				"Cell24", "nand", "Cell11", "sr_bit", "Cell11", "not", "Cell20", "3-nand",
+				"Cell24", "Cell11", "nand", "not", "nand", "Cell20", "Cell20", "nand", "3-nand", "or", "not", "sr_bit", "Cell19",
+				"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
+			]
+		]
+	},
+
+	"cells":
+	{
+		"not":
+		{},
+
+		"nand":
+		{},
+
+		"Cell3":
+		{
+			"notes": "99% not"
+		},
+
+		"3-nand":
+		{},
+
+		"DLatch":
+		{},
+
+		"Cell6":
+		{
+			"notes": "писюн + ворота"
+		},
+
+		"or":
+		{},
+
+		"notif0":
+		{},
+
+		"Cell9":
+		{
+			"notes": "большая 2"
+		},
+
+		"sr_bit":
+		{},
+
+		"Cell11":
+		{
+			"notes": "ещё такая"
+		},
+
+		"Cell12":
+		{
+			"notes": "среднее месиво"
+		},
+
+		"Cell13":
+		{
+			"notes": "телега"
+		},
+
+		"Cell14":
+		{},
+
+		"Cell15":
+		{},
+
+		"Cell16":
+		{
+			"notes": "C"
+		},
+
+		"Cell17":
+		{
+			"notes": "длинный чел"
+		},
+
+		"Cell18":
+		{
+			"notes": "большая 3"
+		},
+
+		"Cell19":
+		{},
+
+		"Cell20":
+		{
+			"notes": "мощный писюн"
+		},
+
+		"Cell21":
+		{
+			"notes": "дошик. Встречается в ряду G."
+		},
+
+		"Cell22":
+		{
+			"notes": "xor? В единственном экземпляре, по середине ряда G."
+		},
+
+		"Cell23":
+		{
+			"notes": "что-то там по середине закрашено. В единственном экземпляре, по середине ряда H."
+		},
+
+		"Cell24":
+		{
+			"notes": "В двух экземплярах, ряд H."
+		}
+	}
+}
