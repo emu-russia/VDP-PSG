@@ -115,3 +115,9 @@
 ![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)
 
 В единственном экземпляре в правом верхнем углу.
+
+## Ячейка 21 - "дошик"
+
+![image](https://user-images.githubusercontent.com/5828819/176142680-64b77b8c-6504-4125-8328-b580dd110bef.png)
+
+Встречается в ряду `G`.
