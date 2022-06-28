@@ -31,9 +31,9 @@
 			[
 				"dlatch", "or", "or", "comp", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
 				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp",
-				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "not", "or", "or", "not", "Cell16", "Cell17", "or", "or",
-				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "or", "not", "Cell16", "Cell17",
-				"Cell17", "Cell16", "not", "Cell17", "Cell16", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
+				"not", "aoi21", "Cell17", "not", "aoi21", "Cell17", "or", "not", "or", "or", "not", "aoi21", "Cell17", "or", "or",
+				"not", "aoi21", "Cell17", "not", "aoi21", "Cell17", "or", "or", "not", "aoi21", "Cell17",
+				"Cell17", "aoi21", "not", "Cell17", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
 			],
 
 			[
@@ -133,9 +133,9 @@
 			"notes": "Было решено объединить их в одну, т.к. судя по всему это действительно одна мега-ячейка. Занимается скорее всего клоковым доменом (CLK Distribution)."
 		},
 
-		"Cell16":
+		"aoi21":
 		{
-			"notes": "C"
+			"notes": "2-AND into 2-NOR gate"
 		},
 
 		"Cell17":
