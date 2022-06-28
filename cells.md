@@ -121,3 +121,9 @@
 ![image](https://user-images.githubusercontent.com/5828819/176142680-64b77b8c-6504-4125-8328-b580dd110bef.png)
 
 Встречается в ряду `G`.
+
+## Ячейка 22 - "xor?"
+
+![image](https://user-images.githubusercontent.com/5828819/176143304-03e4979f-e4ea-472a-bd6b-024e2db7229c.png)
+
+В единственном экземпляре, по сердеине ряда `G`.
