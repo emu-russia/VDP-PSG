@@ -32,7 +32,7 @@
 |![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)|![image](https://user-images.githubusercontent.com/5828819/176125415-f76623ef-382e-403c-807a-b7bc2bb4f5f4.png)|![image](https://user-images.githubusercontent.com/5828819/176121734-2aa7369c-96d0-4490-bcc4-e194179e0b00.png)|
 |---|---|---|
 
-## Ячейка 5 - DLatch
+## Ячейка 5 - dlatch
 
 |![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/5828819/176176744-37845b69-c7ca-467a-ad32-f080a0a57765.png)|![image](https://user-images.githubusercontent.com/5828819/176163672-2ecf4a9a-1797-4467-aa3d-549cbe394303.png)|
 |---|---|---|
@@ -63,7 +63,7 @@
 |![image](https://user-images.githubusercontent.com/5828819/176184878-66d954e8-904c-4c26-ba89-6aa4cc9622ac.png)|![image](https://user-images.githubusercontent.com/5828819/176185240-6fbb4eab-6d60-42c9-829d-e9196145f510.png)|
 |---|---|
 
-## Ячейка 10 - SRBit
+## Ячейка 10 - sr_bit
 
 Разряд регистра сдвига. Дикая магия CMOS. Если убрать P-MOS часть, то ячейка принимает знакомый вид N-MOS разряда сдвигателя:
 
