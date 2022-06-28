@@ -41,7 +41,7 @@
 
 ## Ячейка 7 - or
 
-|![image](https://user-images.githubusercontent.com/5828819/175828343-ca770b7b-c711-4926-9c7d-ecec5fb66e1b.png)|![image](https://user-images.githubusercontent.com/5828819/176018358-e445fd72-a8ca-4356-9f05-3e22aa7e1689.png)|
+|![image](https://user-images.githubusercontent.com/5828819/176176522-3a7d5767-a98e-496b-8528-05f6b4369565.png)|![image](https://user-images.githubusercontent.com/5828819/176018358-e445fd72-a8ca-4356-9f05-3e22aa7e1689.png)|
 |---|---|
 
 ## Ячейка 8 - notif0
