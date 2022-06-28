@@ -21,15 +21,15 @@
 			],
 
 			[
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6",
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6",
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6",
-				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "Cell6", "Cell20"
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp",
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp",
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp",
+				"notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "notif0", "or", "DLatch", "comp", "Cell20"
 			],
 
 			[
-				"DLatch", "or", "or", "Cell6", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "or", "not",
-				"DLatch", "or", "or", "DLatch", "or", "or", "DLatch", "or", "or", "Cell6",
+				"DLatch", "or", "or", "comp", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "DLatch", "DLatch", "or", "or", "not",
+				"DLatch", "or", "or", "DLatch", "or", "or", "DLatch", "or", "or", "comp",
 				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "not", "or", "or", "not", "Cell16", "Cell17", "or", "or",
 				"not", "Cell16", "Cell17", "not", "Cell16", "Cell17", "or", "or", "not", "Cell16", "Cell17",
 				"Cell17", "Cell16", "not", "Cell17", "Cell16", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
@@ -37,10 +37,10 @@
 
 			[
 				"DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch",
-				"Cell6", "Cell6", "Cell6",
+				"comp", "comp", "comp",
 				"DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch", "DLatch",
-				"Cell6", "Cell6", "Cell6",
-				"or", "or", "or", "or", "DLatch", "DLatch", "DLatch", "Cell6"
+				"comp", "comp", "comp",
+				"or", "or", "or", "or", "DLatch", "DLatch", "DLatch", "comp"
 			],
 
 			[
@@ -66,7 +66,7 @@
 			[
 				"not", "Cell14", "Cell15", "Cell11",
 				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
-				"Cell13", "not", "Cell13", "nand", "not", "Cell13", "Cell13", 
+				"buf", "not", "buf", "nand", "not", "buf", "buf", 
 				"Cell24", "nand", "Cell11", "sr_bit", "Cell11", "not", "Cell20", "3-nand",
 				"Cell24", "Cell11", "nand", "not", "nand", "Cell20", "Cell20", "nand", "3-nand", "or", "not", "sr_bit", "Cell19",
 				"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
@@ -93,9 +93,9 @@
 		"DLatch":
 		{},
 
-		"Cell6":
+		"comp":
 		{
-			"notes": "писюн + ворота"
+			"notes": "Поскольку шнуровка для комплемента находится снаружи ячеек, для превращения одиночного `Enable` в два комплементарных сигнала используется этот комплементарный буфер."
 		},
 
 		"or":
@@ -122,9 +122,9 @@
 			"notes": "среднее месиво"
 		},
 
-		"Cell13":
+		"buf":
 		{
-			"notes": "телега"
+			"notes": "Обычный супер-буфер"
 		},
 
 		"Cell14":
