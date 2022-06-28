@@ -153,7 +153,3 @@
 ![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png)
 
 В двух экземплярах, ряд `H`.
-
-## Ячейка 25 - "длинный чел на другом боку"
-
-![image](https://user-images.githubusercontent.com/5828819/176191424-15e8dcfa-36dd-4f30-8620-6b89f5f9ae0f.png)
