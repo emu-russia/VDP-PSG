@@ -113,7 +113,8 @@
 
 ## Ячейка 17 - "длинный чел"
 
-![image](https://user-images.githubusercontent.com/5828819/176190699-3541d3df-5827-4a84-bb0a-913818436337.png)
+|![image](https://user-images.githubusercontent.com/5828819/176190699-3541d3df-5827-4a84-bb0a-913818436337.png)|![image](https://user-images.githubusercontent.com/5828819/176204233-07d70da0-d0ae-457c-802b-b3fdbe04417b.png)|
+|---|---|
 
 ## Ячейка 18 - "большая 3"
 
