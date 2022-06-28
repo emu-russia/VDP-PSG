@@ -22,7 +22,7 @@
 
 ## Ячейка 4 - 3-nand
 
-|![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)|![image](https://user-images.githubusercontent.com/5828819/176121671-94208b82-965d-4180-82ee-f0f1d3b5cfc0.png)|![image](https://user-images.githubusercontent.com/5828819/176121734-2aa7369c-96d0-4490-bcc4-e194179e0b00.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)|![image](https://user-images.githubusercontent.com/5828819/176125065-904584ee-91d3-454d-99ce-80414c859b90.png)|![image](https://user-images.githubusercontent.com/5828819/176121734-2aa7369c-96d0-4490-bcc4-e194179e0b00.png)|
 |---|---|---|
 
 ## Ячейка 5 - "99% DFF"
