@@ -30,6 +30,8 @@
 |![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/5828819/176160855-52179963-f749-4f88-b2e1-8e225137ad1a.png)|
 |---|---|
 
+Комплементарные Enable вход.
+
 ## Ячейка 6 - "писюн + ворота"
 
 ![image](https://user-images.githubusercontent.com/5828819/175828255-fcc3b21d-1581-41ae-8568-4f52225abaf9.png)
@@ -58,6 +60,8 @@
 
 |![image](https://user-images.githubusercontent.com/5828819/175828434-def8dd3c-53b6-4d24-a516-ee5cc95f0329.png)|![image](https://user-images.githubusercontent.com/5828819/176033676-29be2ee5-71db-433f-bd14-1f58dde82434.png)|![image](https://user-images.githubusercontent.com/5828819/176033844-dfea478a-1031-477b-9ae1-519eba22c462.png)|
 |---|---|---|
+
+Использует комплементарные входы Load / Step.
 
 Анализ работы:
 
