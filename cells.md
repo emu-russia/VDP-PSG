@@ -138,7 +138,7 @@
 
 ## Ячейка 22 - "xor?"
 
-![image](https://user-images.githubusercontent.com/5828819/176143304-03e4979f-e4ea-472a-bd6b-024e2db7229c.png)
+![image](https://user-images.githubusercontent.com/5828819/176191147-3c81ff38-30c1-45c1-97fa-62b6f225c803.png)
 
 В единственном экземпляре, по середине ряда `G`.
 
