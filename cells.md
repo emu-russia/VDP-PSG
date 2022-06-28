@@ -133,3 +133,9 @@
 ![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)
 
 В единственном экземпляре, по сердеине ряда `H`.
+
+## Ячейка 24
+
+![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png)
+
+В единственном экземпляре, по сердеине ряда `H`.
