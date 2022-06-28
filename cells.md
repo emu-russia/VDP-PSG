@@ -108,7 +108,7 @@
 
 ## Ячейка 16 - "C"
 
-![image](https://user-images.githubusercontent.com/5828819/175958334-d19d87ae-733f-43b7-aa7c-a20700d82527.png)
+![image](https://user-images.githubusercontent.com/5828819/176190468-ce3e51af-3965-48fd-8d4b-206356d4bfb3.png)
 
 ## Ячейка 17 - "длинный чел"
 
