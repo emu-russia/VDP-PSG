@@ -6,6 +6,8 @@
 
 Комплементарка выведена наружу. Поэтому приходится все шланги в комплементе таскать.
 
+Для всех ячеек - GND снизу.
+
 ## Ячейка 1 - not
 
 |![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)|![image](https://user-images.githubusercontent.com/5828819/175999883-90b013b2-fc58-4027-9236-9763d79340f4.png)|
@@ -24,8 +26,6 @@
 
 |![image](https://user-images.githubusercontent.com/5828819/176184195-b4206385-b0a0-4d57-b295-6e443fd7b300.png)|![image](https://user-images.githubusercontent.com/5828819/176184217-fb85430c-144a-4f3c-b6a2-906d04506b27.png)|
 |---|---|
-
-GND снизу.
 
 ## Ячейка 4 - 3-nand
 
