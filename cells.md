@@ -132,7 +132,7 @@
 
 ## Ячейка 21 - "дошик"
 
-![image](https://user-images.githubusercontent.com/5828819/176142680-64b77b8c-6504-4125-8328-b580dd110bef.png)
+![image](https://user-images.githubusercontent.com/5828819/176191076-13161844-1df5-4ac7-90df-2fc926a6915c.png)
 
 Встречается в ряду `G`.
 
