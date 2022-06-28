@@ -31,9 +31,9 @@
 			[
 				"dlatch", "or", "or", "comp", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
 				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp",
-				"not", "aoi21", "Cell17", "not", "aoi21", "Cell17", "or", "not", "or", "or", "not", "aoi21", "Cell17", "or", "or",
-				"not", "aoi21", "Cell17", "not", "aoi21", "Cell17", "or", "or", "not", "aoi21", "Cell17",
-				"Cell17", "aoi21", "not", "Cell17", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
+				"not", "aoi21", "3-and", "not", "aoi21", "3-and", "or", "not", "or", "or", "not", "aoi21", "3-and", "or", "or",
+				"not", "aoi21", "3-and", "not", "aoi21", "3-and", "or", "or", "not", "aoi21", "3-and",
+				"3-and", "aoi21", "not", "3-and", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
 			],
 
 			[
@@ -100,7 +100,9 @@
 		},
 
 		"or":
-		{},
+		{
+			"notes": "чел"
+		},
 
 		"notif0":
 		{},
@@ -138,7 +140,7 @@
 			"notes": "2-AND into 2-NOR gate"
 		},
 
-		"Cell17":
+		"3-and":
 		{
 			"notes": "длинный чел"
 		},
