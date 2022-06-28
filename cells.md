@@ -118,7 +118,7 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)
 
-## Ячейка 19
+## Ячейка 19 - "ктулху"
 
 ![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)
 
