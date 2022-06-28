@@ -138,4 +138,4 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png)
 
-В единственном экземпляре, по сердеине ряда `H`.
+В двух экземплярах, ряд `H`.
