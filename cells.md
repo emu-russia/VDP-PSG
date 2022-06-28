@@ -60,7 +60,7 @@
 
 ## Ячейка 9 - "большая 2"
 
-![image](https://user-images.githubusercontent.com/5828819/175958669-7aa6f479-e25a-481c-abe2-32311ec462e9.png)
+![image](https://user-images.githubusercontent.com/5828819/176184878-66d954e8-904c-4c26-ba89-6aa4cc9622ac.png)
 
 ## Ячейка 10 - SRBit
 
