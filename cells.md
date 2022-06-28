@@ -25,9 +25,10 @@
 |![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)|![image](https://user-images.githubusercontent.com/5828819/176125415-f76623ef-382e-403c-807a-b7bc2bb4f5f4.png)|![image](https://user-images.githubusercontent.com/5828819/176121734-2aa7369c-96d0-4490-bcc4-e194179e0b00.png)|
 |---|---|---|
 
-## Ячейка 5 - "99% DFF"
+## Ячейка 5 - DLatch
 
-![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)
+|![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/5828819/176160855-52179963-f749-4f88-b2e1-8e225137ad1a.png)|
+|---|---|
 
 ## Ячейка 6 - "писюн + ворота"
 
