@@ -91,7 +91,8 @@
 
 ## Ячейка 12 - "среднее месиво"
 
-![image](https://user-images.githubusercontent.com/5828819/175828469-cc7eb04a-b432-42e6-9993-2a5ab3a4f7a3.png)
+|![image](https://user-images.githubusercontent.com/5828819/176185957-4371e9bc-bd7c-4fdf-ae42-a4ba08bfe53f.png)|![image](https://user-images.githubusercontent.com/5828819/176186226-52175d6f-51eb-4c15-8711-d784d491781b.png)|
+|---|---|
 
 ## Ячейка 13 - buf
 
