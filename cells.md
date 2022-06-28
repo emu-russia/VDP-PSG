@@ -158,9 +158,17 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В единственном экземпляре, по середине ряда `H`.
 
-## Ячейка 24
+## Ячейка 24 - sr
 
 |![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png) ![image](https://user-images.githubusercontent.com/5828819/176260167-7acbff60-b5c9-4618-900e-3ab78da10f82.png)|![image](https://user-images.githubusercontent.com/5828819/176200419-f0a31bce-8d44-49dd-b2ca-4f85cd8f84c9.png) ![image](https://user-images.githubusercontent.com/5828819/176273044-a6c54232-eb47-4ad9-86bf-8f30cc6177a0.png)|
 |---|---|
 
+![image](https://user-images.githubusercontent.com/5828819/176285077-d3d89ffc-4052-4367-82ab-aaafcdb1dfd6.png)
+
+Порт `a` - Set, порт `b` - Reset. Иногда такое ещё называют RS, но тут порты идут слева-направо в очередности S-R, поэтому ячейка называется `sr` ("SR" тоже довольно распространено).
+
 В двух экземплярах, ряд `H`.
+
+Анализ:
+
+![image](https://user-images.githubusercontent.com/5828819/176284957-6244b979-da7a-48d0-bd4b-9317c8e096a7.png)
