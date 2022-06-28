@@ -15,3 +15,7 @@ VDP - CMOS с одним слоем металла.
 ![image](https://user-images.githubusercontent.com/5828819/175983002-4df8cd5c-90a1-49fe-9fc4-dbe16c287375.png)
 
 https://www.icreversing.com/chips/315-5313a
+
+Ещё одной необычной особенностью является использование n-карманов, вместо привычных p:
+
+![image](https://user-images.githubusercontent.com/5828819/176116906-edc63b0e-4829-4dec-9c4e-634e062aece4.png)
