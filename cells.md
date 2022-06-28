@@ -146,7 +146,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ## Ячейка 22 - "xor?"
 
-|![image](https://user-images.githubusercontent.com/5828819/176191147-3c81ff38-30c1-45c1-97fa-62b6f225c803.png)|![image](https://user-images.githubusercontent.com/5828819/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|
+|![image](https://user-images.githubusercontent.com/5828819/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](https://user-images.githubusercontent.com/5828819/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|
 |---|---|
 
 В единственном экземпляре, по середине ряда `G`.
