@@ -60,7 +60,7 @@
 
 ## Ячейка 9 - "большая 2"
 
-|![image](https://user-images.githubusercontent.com/5828819/176184878-66d954e8-904c-4c26-ba89-6aa4cc9622ac.png)|![image](https://user-images.githubusercontent.com/5828819/176185240-6fbb4eab-6d60-42c9-829d-e9196145f510.png)|
+|![image](https://user-images.githubusercontent.com/5828819/176394281-398de959-9b60-4f67-8a47-bf324a07b34a.png)|![image](https://user-images.githubusercontent.com/5828819/176394202-219d5798-68c0-426e-b91c-e4ea98f25c84.png)|
 |---|---|
 
 ## Ячейка 10 - sr_bit
