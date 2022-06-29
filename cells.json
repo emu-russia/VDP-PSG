@@ -12,13 +12,13 @@
 		[
 			[
 				"not", "nand", "nand", "Cell3", "Cell3", "Cell3",
-				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
+				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
 				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
-				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
+				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
 				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
-				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", 
+				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
 				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
-				"3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand", "3-nand"
+				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3"
 			],
 
 			[
@@ -31,9 +31,9 @@
 			[
 				"dlatch", "or", "or", "comp", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
 				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp",
-				"not", "aoi21", "3-and", "not", "aoi21", "3-and", "or", "not", "or", "or", "not", "aoi21", "3-and", "or", "or",
-				"not", "aoi21", "3-and", "not", "aoi21", "3-and", "or", "or", "not", "aoi21", "3-and",
-				"3-and", "aoi21", "not", "3-and", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
+				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "not", "or", "or", "not", "aoi21", "and3", "or", "or",
+				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "or", "not", "aoi21", "and3",
+				"and3", "aoi21", "not", "and3", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
 			],
 
 			[
@@ -45,8 +45,8 @@
 			],
 
 			[
-				"Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9",
-				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "3-nand", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
+				"aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a",
+				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "nand3", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
 			],
 
 			[
@@ -54,22 +54,22 @@
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
-				"nand", "or", "Cell18", "or", "Cell18", "or", "Cell18", "or", "Cell18", "3-nand", "3-nand", "not"
+				"nand", "or", "Cell18", "or", "Cell18", "or", "Cell18", "or", "Cell18", "nand3", "nand3", "not"
 			],
 
 			[
 				"or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21",
 				"xor",
 				"Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12",
-				"nand", "nand", "3-nand"
+				"nand", "nand", "nand3"
 			],
 
 			[
 				"not", "Cell14_15", "Cell11",
 				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
-				"rs", "nand", "Cell11", "sr_bit", "Cell11", "not", "Cell20", "3-nand",
-				"rs", "Cell11", "nand", "not", "nand", "Cell20", "Cell20", "nand", "3-nand", "or", "not", "sr_bit", "Cell19",
+				"rs", "nand", "Cell11", "sr_bit", "Cell11", "not", "Cell20", "nand3",
+				"rs", "Cell11", "nand", "not", "nand", "Cell20", "Cell20", "nand", "nand3", "or", "not", "sr_bit", "Cell19",
 				"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
 			]
 		]
@@ -88,7 +88,7 @@
 			"notes": "99% not - нет. На самом деле получается из двух половинок стоящих рядом"
 		},
 
-		"3-nand":
+		"nand3":
 		{},
 
 		"dlatch":
@@ -107,9 +107,9 @@
 		"notif0":
 		{},
 
-		"Cell9":
+		"cgi2a":
 		{
-			"notes": "большая 2"
+			"notes": "Генератор переноса инвертирующий с одним инверсным входом"
 		},
 
 		"sr_bit":
@@ -140,7 +140,7 @@
 			"notes": "2-AND into 2-NOR gate"
 		},
 
-		"3-and":
+		"and3":
 		{
 			"notes": "длинный чел"
 		},
@@ -178,6 +178,11 @@
 		"rs":
 		{
 			"notes": "В двух экземплярах, ряд H."
+		},
+
+		"aon2222":
+		{
+			"notes": "Раньше входила в cgi2a, после разбора стало понятно что это отдельная ячейка."
 		}
 	}
 }
