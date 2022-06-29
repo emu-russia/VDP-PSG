@@ -18,14 +18,10 @@
 |![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)|![image](https://user-images.githubusercontent.com/5828819/175999920-ba876784-3b6e-4314-ab34-8da8cb6cd6b2.png)|
 |---|---|
 
-## Ячейка 3 - "99% not EDIT: ахах - нет!"
+## Ячейка 3 - comp_weak (Слабый комплементарный буфер)
 
-Было: ![image](https://user-images.githubusercontent.com/5828819/175828185-c3d8d309-6e06-4d31-9407-ce7882585c71.png)
-
-На самом деле:
-
-|![image](https://user-images.githubusercontent.com/5828819/176184195-b4206385-b0a0-4d57-b295-6e443fd7b300.png)|![image](https://user-images.githubusercontent.com/5828819/176184217-fb85430c-144a-4f3c-b6a2-906d04506b27.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176184195-b4206385-b0a0-4d57-b295-6e443fd7b300.png)|![image](https://user-images.githubusercontent.com/5828819/176184217-fb85430c-144a-4f3c-b6a2-906d04506b27.png)|![image](https://user-images.githubusercontent.com/5828819/176501315-7175c1ed-7a8f-4f85-b485-0f0884859b8c.png)|
+|---|---|---|
 
 ## Ячейка 4 - nand3
 
