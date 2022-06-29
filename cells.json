@@ -65,7 +65,7 @@
 			],
 
 			[
-				"not", "Cell14_15", "dff",
+				"not", "clkgen", "dff",
 				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
 				"rs", "nand", "dff", "sr_bit", "dff", "not", "not_strong", "nand3",
@@ -130,9 +130,9 @@
 			"notes": "Обычный супер-буфер"
 		},
 
-		"Cell14_15":
+		"clkgen":
 		{
-			"notes": "Было решено объединить их в одну, т.к. судя по всему это действительно одна мега-ячейка. Занимается скорее всего клоковым доменом (CLK Distribution)."
+			"notes": "Расщепитель одиночной фазы CLK на 4 комплемента (CLK Distribution)."
 		},
 
 		"aoi21":
