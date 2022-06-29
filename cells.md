@@ -97,7 +97,7 @@
 
 Используется для шумового канала. Ячейка представляет собой регистр сдвига с обратной связью. Выход замешивается на вход с тремя дополнительными замесами через операцию aoi.
 
-|![image](https://user-images.githubusercontent.com/5828819/176185957-4371e9bc-bd7c-4fdf-ae42-a4ba08bfe53f.png)|![image](https://user-images.githubusercontent.com/5828819/176186226-52175d6f-51eb-4c15-8711-d784d491781b.png)|![image](https://user-images.githubusercontent.com/5828819/176441834-0ed8adde-0be3-4908-91df-5d793120713e.png)|![image](https://user-images.githubusercontent.com/5828819/176445322-e357dca8-04a7-45db-a2b7-b65063279168.png)|
+|![image](https://user-images.githubusercontent.com/5828819/176185957-4371e9bc-bd7c-4fdf-ae42-a4ba08bfe53f.png)|![image](https://user-images.githubusercontent.com/5828819/176186226-52175d6f-51eb-4c15-8711-d784d491781b.png)|![image](https://user-images.githubusercontent.com/5828819/176441834-0ed8adde-0be3-4908-91df-5d793120713e.png)|![image](https://user-images.githubusercontent.com/5828819/176446043-798aa98a-534c-4715-a3bc-302337418b50.png)|
 |---|---|---|---|
 
 Не стоит париться о глубоком смысле ячейки и зачем там внутри вкрячен aoi. Делай также и будет работать.
