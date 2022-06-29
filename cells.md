@@ -107,12 +107,27 @@
 |![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![image](https://user-images.githubusercontent.com/5828819/176180754-899c75fa-0af2-42f9-a165-b9d24792c974.png)|
 |---|---|---|
 
-## Ячейка 14+15
+## Ячейка 14+15 - clkgen
 
-Было решено объединить их в одну, т.к. судя по всему это действительно одна мега-ячейка. Занимается скорее всего клоковым доменом (CLK Distribution).
+Расщепитель одиночной фазы на 4 комплемента.
 
 |![image](https://user-images.githubusercontent.com/5828819/176186837-eefac41e-b4ba-426f-9a50-20cf0c258eb4.png)|![image](https://user-images.githubusercontent.com/5828819/176187126-68dec8b9-8d89-458e-b0a2-ad97e49e64cf.png)|![image](https://user-images.githubusercontent.com/5828819/176187306-69b78041-44e6-4965-b597-c64058f65cc4.png)|![image](https://user-images.githubusercontent.com/5828819/176187396-5416db50-3828-44ae-b9a8-6593ae666d41.png)|
 |---|---|---|---|
+
+![image](https://user-images.githubusercontent.com/5828819/176534144-0c56ecac-8f99-4cfa-8a9b-4edac5316064.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176534948-967b9642-abda-4b95-9b7c-e47f659f4a2f.png)
+
+|Single Phase|Left Halfcycle|Right Halfcycle|
+|---|---|---|
+|PHI0|PHI1 + /PHI1|PHI2 + /PHI2|
+
+|Halfcycle Polarity|PHI0|
+|---|---|
+|PHI1|PHI0 = 0|
+|/PHI1|PHI0 = 1|
+|PHI2|PHI0 = 1|
+|/PHI2|PHI0 = 0|
 
 ## Ячейка 16 - aoi21
 
