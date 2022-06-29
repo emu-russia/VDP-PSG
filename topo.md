@@ -26,7 +26,7 @@ https://www.icreversing.com/chips/315-5313a
 
 Карта распределения ячеек по модулям, by @nukeykt.
 
-![image](https://user-images.githubusercontent.com/5828819/176447287-aeaba731-4815-466c-9ff1-083305dc2a16.png)
+![image](https://user-images.githubusercontent.com/5828819/176502964-95bc5798-02ce-4933-ac8c-da426f77f7a4.png)
 
 ## Карта ячеек по рядам
 
