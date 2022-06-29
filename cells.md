@@ -175,7 +175,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Видно что разработчики оставили выход `~Q`, но он не задействован.
 
-## Ячейка 25 - or8
+## Ячейка 25 - aon2222
 
 |![image](https://user-images.githubusercontent.com/5828819/176393083-80837fdc-e63d-4d79-a2a8-7cea6be5ed70.png)|![image](https://user-images.githubusercontent.com/5828819/176393449-6233fcdf-39d9-4e83-b4d7-0fa9069acc88.png)|![image](https://user-images.githubusercontent.com/5828819/176393500-c8748377-9e67-4638-831a-4745a4b48e8b.png)|
 |---|---|---|
