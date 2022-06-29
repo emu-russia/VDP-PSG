@@ -45,7 +45,7 @@
 			],
 
 			[
-				"Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9", "Cell9",
+				"or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9", "or8", "Cell9",
 				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "3-nand", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
 			],
 
@@ -178,6 +178,11 @@
 		"rs":
 		{
 			"notes": "В двух экземплярах, ряд H."
+		},
+
+		"or8":
+		{
+			"notes": "Раньше входила в Cell9, после разбора стало понятно что это отдельная ячейка."
 		}
 	}
 }
