@@ -60,7 +60,7 @@
 			[
 				"or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21",
 				"xor",
-				"Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12", "Cell12",
+				"lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit",
 				"nand", "nand", "nand3"
 			],
 
@@ -120,9 +120,9 @@
 			"notes": "ещё такая"
 		},
 
-		"Cell12":
+		"lfsr_bit":
 		{
-			"notes": "среднее месиво"
+			"notes": "Используется для шумового канала. Ячейка представляет собой регистр сдвига с обратной связью. Выход замешивается на вход с тремя дополнительными замесами через операцию aoi."
 		},
 
 		"buf":
