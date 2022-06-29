@@ -66,7 +66,7 @@
 
 			[
 				"not", "clkgen", "dff",
-				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
+				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "comp_tri", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
 				"rs", "nand", "dff", "sr_bit", "dff", "not", "not_strong", "nand3",
 				"rs", "dff", "nand", "not", "nand", "not_strong", "not_strong", "nand", "nand3", "or", "not", "sr_bit", "aon22",
@@ -170,9 +170,9 @@
 			"notes": "В единственном экземпляре, по середине ряда G."
 		},
 
-		"Cell23":
+		"comp_tri":
 		{
-			"notes": "что-то там по середине закрашено. В единственном экземпляре, по середине ряда H."
+			"notes": "Комплементарный тристейт. В единственном экземпляре, по середине ряда H."
 		},
 
 		"rs":
