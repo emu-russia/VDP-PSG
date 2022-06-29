@@ -174,3 +174,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ![image](https://user-images.githubusercontent.com/5828819/176284957-6244b979-da7a-48d0-bd4b-9317c8e096a7.png)
 
 Видно что разработчики оставили выход `~Q`, но он не задействован.
+
+## Ячейка 25 - or8
+
+|![image](https://user-images.githubusercontent.com/5828819/176393083-80837fdc-e63d-4d79-a2a8-7cea6be5ed70.png)|
+|---|
