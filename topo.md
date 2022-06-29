@@ -19,3 +19,9 @@ https://www.icreversing.com/chips/315-5313a
 Ещё одной необычной особенностью является использование n-карманов, вместо привычных p:
 
 ![image](https://user-images.githubusercontent.com/5828819/176116906-edc63b0e-4829-4dec-9c4e-634e062aece4.png)
+
+## Модули
+
+Карта распределения ячеек по модулям, by @nukeykt.
+
+![image](https://user-images.githubusercontent.com/5828819/176447287-aeaba731-4815-466c-9ff1-083305dc2a16.png)
