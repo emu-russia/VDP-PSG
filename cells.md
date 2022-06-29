@@ -129,6 +129,8 @@
 |PHI2|PHI0 = 1|
 |/PHI2|PHI0 = 0|
 
+:warning: Тут главное не наебаться с фазой. Потому что левее `clkgen` стоит ячейка `not`. Поэтому необходимо знать предварительно что приходит на левую ячейку `not` - CLK=0 или CLK=1. Насколько я понял PSG тикает с частотой Z80, поэтому нужно отследить от внешнего терминала Z80_CLK (или как он там называется) до входного шланга в ячейку `not`, которая стоит перед `clkgen`. Таким образом узнаем полярность PHI0.
+
 ## Ячейка 16 - aoi21
 
 |![image](https://user-images.githubusercontent.com/5828819/176190468-ce3e51af-3965-48fd-8d4b-206356d4bfb3.png)|![image](https://user-images.githubusercontent.com/5828819/176204015-86bfb3b8-1ac9-422a-a3d6-2425245dcb38.png)|![image](https://user-images.githubusercontent.com/5828819/176261618-758d3c39-f3da-45cc-a9c7-e5d9bdc8461c.png)|![image](https://user-images.githubusercontent.com/5828819/176261661-e501a05f-9ca6-49e5-b3e1-098a2298788c.png)|
@@ -143,8 +145,14 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ## Ячейка 18 - "большая 3"
 
+Основная гипотеза пока такая: "HA с задержкой на 1 такт. Используется для того чтобы выдать результат через 1 цикл, после суммации. CarryOut не используется".
+
 |![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)|![image](https://user-images.githubusercontent.com/5828819/176202271-89a9a869-eba8-4442-9162-ad07cdecd52f.png)|
 |---|---|
+
+![image](https://user-images.githubusercontent.com/5828819/176546959-4c393184-4c0a-4a63-8cba-5b0d0637f6d4.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176546991-8d31ced1-1413-4190-9a63-2359cb80e9fe.png)
 
 ## Ячейка 19 - aon22 (2x 2-AND into 2-OR gate)
 
@@ -176,10 +184,10 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В единственном экземпляре, по середине ряда `G`.
 
-## Ячейка 23 - "что-то там по середине закрашено"
+## Ячейка 23 - comp_tri (Комплементарный тристейт)
 
-|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176548683-38784193-3fb4-44d8-b9f4-315575de8993.png)|![image](https://user-images.githubusercontent.com/5828819/176548964-ebd96087-ccd4-4ca8-bf15-f6867ea536c7.png)|
+|---|---|---|---|
 
 В единственном экземпляре, по середине ряда `H`.
 
