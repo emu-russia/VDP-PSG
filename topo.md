@@ -20,6 +20,8 @@ https://www.icreversing.com/chips/315-5313a
 
 ![image](https://user-images.githubusercontent.com/5828819/176116906-edc63b0e-4829-4dec-9c4e-634e062aece4.png)
 
+При реверсе не стоит на это обращать внимание. Там где земля - с той стороны N-трансы, там где VDD - с той стороны P-трансы, обычные правила для CMOS.
+
 ## Модули
 
 Карта распределения ячеек по модулям, by @nukeykt.
