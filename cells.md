@@ -145,8 +145,14 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ## Ячейка 18 - "большая 3"
 
+Основная гипотеза пока такая: "HA с задержкой на 1 такт. Используется для того чтобы выдать результат через 1 цикл, после суммации. CarryOut не используется".
+
 |![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)|![image](https://user-images.githubusercontent.com/5828819/176202271-89a9a869-eba8-4442-9162-ad07cdecd52f.png)|
 |---|---|
+
+![image](https://user-images.githubusercontent.com/5828819/176546959-4c393184-4c0a-4a63-8cba-5b0d0637f6d4.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176546991-8d31ced1-1413-4190-9a63-2359cb80e9fe.png)
 
 ## Ячейка 19 - aon22 (2x 2-AND into 2-OR gate)
 
