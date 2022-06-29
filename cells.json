@@ -11,26 +11,26 @@
 		"rows":
 		[
 			[
-				"not", "nand", "nand", "Cell3", "Cell3", "Cell3",
+				"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak",
 				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
-				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
+				"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak", 
 				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
-				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
+				"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak", 
 				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
-				"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
+				"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak", 
 				"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3"
 			],
 
 			[
-				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
-				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
-				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
-				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp", "Cell20"
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong", "Cell20"
 			],
 
 			[
-				"dlatch", "or", "or", "comp", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
-				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp",
+				"dlatch", "or", "or", "comp_strong", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
+				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp_strong",
 				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "not", "or", "or", "not", "aoi21", "and3", "or", "or",
 				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "or", "not", "aoi21", "and3",
 				"and3", "aoi21", "not", "and3", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
@@ -38,10 +38,10 @@
 
 			[
 				"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
-				"comp", "comp", "comp",
+				"comp_strong", "comp_strong", "comp_strong",
 				"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
-				"comp", "comp", "comp",
-				"or", "or", "or", "or", "dlatch", "dlatch", "dlatch", "comp"
+				"comp_strong", "comp_strong", "comp_strong",
+				"or", "or", "or", "or", "dlatch", "dlatch", "dlatch", "comp_strong"
 			],
 
 			[
@@ -83,9 +83,9 @@
 		"nand":
 		{},
 
-		"Cell3":
+		"comp_weak":
 		{
-			"notes": "99% not - нет. На самом деле получается из двух половинок стоящих рядом"
+			"notes": "Слабый комплементарный буфер"
 		},
 
 		"nand3":
@@ -94,7 +94,7 @@
 		"dlatch":
 		{},
 
-		"comp":
+		"comp_strong":
 		{
 			"notes": "Поскольку шнуровка для комплемента находится снаружи ячеек, для превращения одиночного `Enable` в два комплементарных сигнала используется этот комплементарный буфер."
 		},
