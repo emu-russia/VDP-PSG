@@ -145,10 +145,10 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В правом верхнем углу. Также ряд `H`.
 
-## Ячейка 21 - "дошик"
+## Ячейка 21 - ha (Half Adder)
 
-|![image](https://user-images.githubusercontent.com/5828819/176191076-13161844-1df5-4ac7-90df-2fc926a6915c.png)|![image](https://user-images.githubusercontent.com/5828819/176198129-7f378890-1469-4076-a226-027ca1623969.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176191076-13161844-1df5-4ac7-90df-2fc926a6915c.png)|![image](https://user-images.githubusercontent.com/5828819/176198129-7f378890-1469-4076-a226-027ca1623969.png)|![image](https://user-images.githubusercontent.com/5828819/176494701-9757a52c-24c3-4b8a-98aa-52dea5663941.png)|![image](https://user-images.githubusercontent.com/5828819/176494745-24a7cf08-6277-45c6-980d-e37e7df3b296.png)|
+|---|---|---|---|
 
 Встречается в ряду `G`.
 
