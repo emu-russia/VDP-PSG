@@ -144,10 +144,10 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Встречается в ряду `G`.
 
-## Ячейка 22 - "xor?"
+## Ячейка 22 - xor
 
-|![image](https://user-images.githubusercontent.com/5828819/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](https://user-images.githubusercontent.com/5828819/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](https://user-images.githubusercontent.com/5828819/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|![Cell22_topo](\imgstore\Cell22_topo.png)|
+|---|---|---|
 
 В единственном экземпляре, по середине ряда `G`.
 
@@ -158,14 +158,14 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В единственном экземпляре, по середине ряда `H`.
 
-## Ячейка 24 - sr
+## Ячейка 24 - rs
 
 |![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png) ![image](https://user-images.githubusercontent.com/5828819/176260167-7acbff60-b5c9-4618-900e-3ab78da10f82.png)|![image](https://user-images.githubusercontent.com/5828819/176200419-f0a31bce-8d44-49dd-b2ca-4f85cd8f84c9.png) ![image](https://user-images.githubusercontent.com/5828819/176273044-a6c54232-eb47-4ad9-86bf-8f30cc6177a0.png)|
 |---|---|
 
 ![image](https://user-images.githubusercontent.com/5828819/176285077-d3d89ffc-4052-4367-82ab-aaafcdb1dfd6.png)
 
-Порт `a` - Set, порт `b` - Reset. Иногда такое ещё называют RS, но тут порты идут слева-направо в очередности S-R, поэтому ячейка называется `sr` ("SR" тоже довольно распространено).
+Порт `a` - Set, порт `b` - Reset.
 
 В двух экземплярах, ряд `H`.
 
