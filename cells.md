@@ -65,7 +65,7 @@
 
 Тут есть аналогичный, но с инверсным входом `b`: http://www.vlsitechnology.org/html/cells/vsclib013/cgi2b.html
 
-Используется совместно с `aon2222` для создания счётчиков.
+Используется совместно с `aon2222` для создания компаратора.
 
 ## Ячейка 10 - sr_bit
 
@@ -188,6 +188,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/5828819/176393083-80837fdc-e63d-4d79-a2a8-7cea6be5ed70.png)|![image](https://user-images.githubusercontent.com/5828819/176393449-6233fcdf-39d9-4e83-b4d7-0fa9069acc88.png)|![image](https://user-images.githubusercontent.com/5828819/176415164-af7859e6-c98a-46a8-bbad-f7802ecc6627.png)|![image](https://user-images.githubusercontent.com/5828819/176415203-61de00b8-e2e5-4220-ad54-23318e6cae00.png)|
 |---|---|---|---|
 
-Используется совместно с `cgi2a` для создания счётчиков.
+Используется совместно с `cgi2a` для создания компаратора.
 
 Выход ора подаётся на инвертирующий вход `a` генератора переноса.
