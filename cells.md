@@ -90,7 +90,7 @@
 
 ## Ячейка 11 - dff
 
-|![image](https://user-images.githubusercontent.com/5828819/175959809-c1862af9-696c-46fe-9019-12709208eeb8.png)|![image](https://user-images.githubusercontent.com/5828819/176185683-8d289499-4ab1-420b-b637-89162f41face.png)|![image](https://user-images.githubusercontent.com/5828819/176496233-85a8bc17-5bce-4c4e-9b36-d74758d338bc.png)|![image](https://user-images.githubusercontent.com/5828819/176496254-df19bae4-6b62-425b-8720-773386621ba8.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175959809-c1862af9-696c-46fe-9019-12709208eeb8.png)|![image](https://user-images.githubusercontent.com/5828819/176185683-8d289499-4ab1-420b-b637-89162f41face.png)|![image](https://user-images.githubusercontent.com/5828819/176496909-cebf6893-79e9-42c1-a375-97e714fedde6.png)|![image](https://user-images.githubusercontent.com/5828819/176496254-df19bae4-6b62-425b-8720-773386621ba8.png)|
 |---|---|---|---|
 
 Типовая DFF из двух вагонов. Нужно только определиться какой это DFF - Posedge или Negedge, а для этого нужно узнать какие значения боковых сигналов принимают при CLK=0.
