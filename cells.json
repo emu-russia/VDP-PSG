@@ -25,7 +25,7 @@
 				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
 				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
 				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
-				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong", "Cell20"
+				"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong", "not_strong"
 			],
 
 			[
@@ -68,8 +68,8 @@
 				"not", "Cell14_15", "dff",
 				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
-				"rs", "nand", "dff", "sr_bit", "dff", "not", "Cell20", "nand3",
-				"rs", "dff", "nand", "not", "nand", "Cell20", "Cell20", "nand", "nand3", "or", "not", "sr_bit", "aon22",
+				"rs", "nand", "dff", "sr_bit", "dff", "not", "not_strong", "nand3",
+				"rs", "dff", "nand", "not", "nand", "not_strong", "not_strong", "nand", "nand3", "or", "not", "sr_bit", "aon22",
 				"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
 			]
 		]
@@ -155,9 +155,9 @@
 			"notes": "В единственном экземпляре в правом нижнем углу."
 		},
 
-		"Cell20":
+		"not_strong":
 		{
-			"notes": "мощный писюн"
+			"notes": "Используется два спаренных инвертора для дополнительного драйва сигнала."
 		},
 
 		"ha":
