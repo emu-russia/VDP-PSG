@@ -85,18 +85,18 @@ TBD: Ещё не все ячейки зареверсили, поэтому бу
 	],
 
 	[
-		"or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21", "or", "Cell21",
+		"or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha",
 		"xor",
 		"lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit",
 		"nand", "nand", "nand3"
 	],
 
 	[
-		"not", "Cell14_15", "Cell11",
+		"not", "Cell14_15", "dff",
 		"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
 		"buf", "not", "buf", "nand", "not", "buf", "buf", 
-		"rs", "nand", "Cell11", "sr_bit", "Cell11", "not", "Cell20", "nand3",
-		"rs", "Cell11", "nand", "not", "nand", "Cell20", "Cell20", "nand", "nand3", "or", "not", "sr_bit", "Cell19",
+		"rs", "nand", "dff", "sr_bit", "dff", "not", "Cell20", "nand3",
+		"rs", "dff", "nand", "not", "nand", "Cell20", "Cell20", "nand", "nand3", "or", "not", "sr_bit", "aon22",
 		"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
 	]
 ]
