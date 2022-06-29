@@ -18,14 +18,10 @@
 |![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)|![image](https://user-images.githubusercontent.com/5828819/175999920-ba876784-3b6e-4314-ab34-8da8cb6cd6b2.png)|
 |---|---|
 
-## Ячейка 3 - "99% not EDIT: ахах - нет!"
+## Ячейка 3 - comp_weak (Слабый комплементарный буфер)
 
-Было: ![image](https://user-images.githubusercontent.com/5828819/175828185-c3d8d309-6e06-4d31-9407-ce7882585c71.png)
-
-На самом деле:
-
-|![image](https://user-images.githubusercontent.com/5828819/176184195-b4206385-b0a0-4d57-b295-6e443fd7b300.png)|![image](https://user-images.githubusercontent.com/5828819/176184217-fb85430c-144a-4f3c-b6a2-906d04506b27.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176184195-b4206385-b0a0-4d57-b295-6e443fd7b300.png)|![image](https://user-images.githubusercontent.com/5828819/176184217-fb85430c-144a-4f3c-b6a2-906d04506b27.png)|![image](https://user-images.githubusercontent.com/5828819/176501315-7175c1ed-7a8f-4f85-b485-0f0884859b8c.png)|
+|---|---|---|
 
 ## Ячейка 4 - nand3
 
@@ -39,11 +35,11 @@
 
 Комплементарный Enable вход.
 
-## Ячейка 6 - comp (Комплементарный буфер)
+## Ячейка 6 - comp_strong (Сильный комплементарный буфер)
 
 Поскольку шнуровка для комплемента находится снаружи ячеек, для превращения одиночного "Enable" в два комплементарных сигнала используется этот комплементарный буфер. Плюс дополнительно он драйвит сигнал.
 
-|![image](https://user-images.githubusercontent.com/5828819/175828255-fcc3b21d-1581-41ae-8568-4f52225abaf9.png)|![image](https://user-images.githubusercontent.com/5828819/176173811-0eb2c7bc-a7d0-4837-a69d-72a19f0c30f7.png)|![image](https://user-images.githubusercontent.com/5828819/176173863-f2a46577-6962-4659-8fe5-9afd277e9e84.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175828255-fcc3b21d-1581-41ae-8568-4f52225abaf9.png)|![image](https://user-images.githubusercontent.com/5828819/176503751-76d34ce6-9549-4cd7-9b3d-a70fc7bff106.png)|![image](https://user-images.githubusercontent.com/5828819/176173863-f2a46577-6962-4659-8fe5-9afd277e9e84.png)|
 |---|---|---|
 
 ## Ячейка 7 - or
@@ -142,10 +138,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В единственном экземпляре в правом нижнем углу.
 
-## Ячейка 20 - "мощный писюн"
+## Ячейка 20 - not_strong (Мощный инвертер)
 
-|![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)|![image](https://user-images.githubusercontent.com/5828819/176202632-86301523-d5da-4f63-9549-7179b89989be.png)|
-|---|---|
+Используется два спаренных инвертора для дополнительного драйва сигнала. Также особенностью является что вход `a` может альтернативно приходить сверху как на левый рог полика, так и на правый (как будет удобнее развести соединение).
+
+|![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)|![image](https://user-images.githubusercontent.com/5828819/176504957-99ca9ca7-c031-4ee3-85e3-18f3fdd9ff66.png)|![image](https://user-images.githubusercontent.com/5828819/176506031-a6910c63-f341-4d76-8d7b-7ec72cd76ac4.png)|
+|---|---|---|
 
 В правом верхнем углу. Также ряд `H`.
 
