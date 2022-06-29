@@ -138,10 +138,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В единственном экземпляре в правом нижнем углу.
 
-## Ячейка 20 - "мощный писюн"
+## Ячейка 20 - not_strong (Мощный инвертер)
 
-|![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)|![image](https://user-images.githubusercontent.com/5828819/176504957-99ca9ca7-c031-4ee3-85e3-18f3fdd9ff66.png)|
-|---|---|
+Используется два спаренных инвертора для дополнительного драйва сигнала. Также особенностью является что вход `a` может альтернативно приходить сверху как на левый рог полика, так и на правый (как будет удобнее развести соединение).
+
+|![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)|![image](https://user-images.githubusercontent.com/5828819/176504957-99ca9ca7-c031-4ee3-85e3-18f3fdd9ff66.png)|![image](https://user-images.githubusercontent.com/5828819/176506031-a6910c63-f341-4d76-8d7b-7ec72cd76ac4.png)|
+|---|---|---|
 
 В правом верхнем углу. Также ряд `H`.
 
