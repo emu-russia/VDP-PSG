@@ -4,7 +4,7 @@
 
 Стандартные ячейки используют группу симметрии S2 (налево-направо + флип).
 
-Комплементарка выведена наружу. Поэтому приходится все шланги в комплементе таскать.
+Комплементарка выведена наружу. Поэтому приходится все шланги в комплементе таскать ("dual-rails").
 
 Для всех ячеек - GND снизу.
 
@@ -184,10 +184,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 В единственном экземпляре, по середине ряда `G`.
 
-## Ячейка 23 - comp_tri (Комплементарный тристейт)
+## Ячейка 23 - slatch_inv (Статическая защёлка инвертирующая)
 
-|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176548683-38784193-3fb4-44d8-b9f4-315575de8993.png)|![image](https://user-images.githubusercontent.com/5828819/176548964-ebd96087-ccd4-4ca8-bf15-f6867ea536c7.png)|
-|---|---|---|---|
+Значение хранится на затворе выходного инвертора. Вход `Enable` в комплементарной логике ("dual-rails").
+
+|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176599985-a0ec3b48-4fee-41c8-ab0e-1f3a0ea49c29.png)|
+|---|---|---|
 
 В единственном экземпляре, по середине ряда `H`.
 
