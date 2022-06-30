@@ -38,37 +38,37 @@ TBD: Ещё не все ячейки зареверсили, поэтому бу
 "rows":
 [
 	[
-		"not", "nand", "nand", "Cell3", "Cell3", "Cell3",
+		"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak",
 		"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
-		"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
+		"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak", 
 		"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
-		"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
+		"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak", 
 		"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", 
-		"not", "nand", "nand", "Cell3", "Cell3", "Cell3", 
+		"not", "nand", "nand", "comp_weak", "comp_weak", "comp_weak", 
 		"nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3", "nand3"
 	],
 
 	[
-		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
-		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
-		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp",
-		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp", "Cell20"
+		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
+		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
+		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong",
+		"notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "notif0", "or", "dlatch", "comp_strong", "not_strong"
 	],
 
 	[
-		"dlatch", "or", "or", "comp", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
-		"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp",
+		"dlatch", "or", "or", "comp_strong", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
+		"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp_strong",
 		"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "not", "or", "or", "not", "aoi21", "and3", "or", "or",
 		"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "or", "not", "aoi21", "and3",
-		"and3", "aoi21", "not", "and3", "aoi21", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
+		"and3", "aoi21", "not", "and3", "aoi21", "not", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
 	],
 
 	[
 		"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
-		"comp", "comp", "comp",
+		"comp_strong", "comp_strong", "comp_strong",
 		"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
-		"comp", "comp", "comp",
-		"or", "or", "or", "or", "dlatch", "dlatch", "dlatch", "comp"
+		"comp_strong", "comp_strong", "comp_strong",
+		"or", "or", "or", "or", "dlatch", "dlatch", "dlatch", "comp_strong"
 	],
 
 	[
@@ -92,11 +92,11 @@ TBD: Ещё не все ячейки зареверсили, поэтому бу
 	],
 
 	[
-		"not", "Cell14_15", "dff",
-		"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "Cell23", "not", "nand",
+		"not", "clkgen", "dff",
+		"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "slatch_inv", "not", "nand",
 		"buf", "not", "buf", "nand", "not", "buf", "buf", 
-		"rs", "nand", "dff", "sr_bit", "dff", "not", "Cell20", "nand3",
-		"rs", "dff", "nand", "not", "nand", "Cell20", "Cell20", "nand", "nand3", "or", "not", "sr_bit", "aon22",
+		"rs", "nand", "dff", "sr_bit", "dff", "not", "not_strong", "nand3",
+		"rs", "dff", "nand", "not", "nand", "not_strong", "not_strong", "nand", "nand3", "or", "not", "sr_bit", "aon22",
 		"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
 	]
 ]
