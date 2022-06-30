@@ -108,7 +108,11 @@ def RemNames(cells, row, row_num):
 
 
 def Classify(cells, row, row_num):
-	return
+	cell_num = 0
+	for entity in row:
+		cell_name = cells['map']['rows'][row_num][cell_num]
+		entity.find('Type').text = cells['cells'][cell_name]['type']
+		cell_num = cell_num + 1
 
 
 def Unclassify(cells, row, row_num):
@@ -131,7 +135,7 @@ def CountByRow(cells, row, row_num):
 
 
 """
-	Десериализовать JSON и XML. Сделать процессинг выбранной операции. Сериализовать XML в новый файл (выходной результат)
+	Десериализовать JSON и XML. Сделать процессинг выбранной операции. Сериализовать XML обратно (выходной результат)
 """
 def Main(args):
 	with open(args.json_file, mode='r', encoding='UTF8') as f:
@@ -139,15 +143,15 @@ def Main(args):
 		cells = json.loads(text)
 	netlist = ET.parse(args.xml_file)
 	ProcessCells (args.operation, cells, netlist.getroot())
-	out_xml = open("out.xml", "wb")
+	out_xml = open(args.xml_file, "wb")
 	xml_text = ET.tostring(netlist.getroot(), method='xml')
 	out_xml.write(xml_text)
 	out_xml.close()
 
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты)')
+	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать ячейки по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты)')
 	parser.add_argument('--op', dest='operation', help='Операция над ячейками.')
 	parser.add_argument('--json', dest='json_file', help='JSON с определениями ячеек')
-	parser.add_argument('--xml', dest='xml_file', help='XML файл из Deroute с нетлистом')
+	parser.add_argument('--xml', dest='xml_file', help='XML файл из Deroute с нетлистом (БУДЕТ ИЗМЕНЁН для всех операций, кроме `count`')
 	Main(parser.parse_args())
