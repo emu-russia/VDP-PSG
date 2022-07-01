@@ -56,6 +56,8 @@ https://www.icreversing.com/chips/315-5313a
 
 Группа самосовмещений ячеек является простейшей группой диэдра D2 (`Vierergruppe`).
 
+![image](https://user-images.githubusercontent.com/5828819/176861596-9f27ad7b-82f0-4c9a-888c-5250f60a61ae.png)
+
 ## Карта ячеек по рядам
 
 Исходный файл см. cells.json.
