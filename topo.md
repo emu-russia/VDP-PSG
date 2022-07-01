@@ -58,7 +58,7 @@ https://www.icreversing.com/chips/315-5313a
 
 ![image](https://user-images.githubusercontent.com/5828819/176861596-9f27ad7b-82f0-4c9a-888c-5250f60a61ae.png)
 
-## Карта ячеек по рядам
+## Тепловая карта ячеек
 
 Исходный файл см. cells.json.
 
