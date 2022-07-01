@@ -30,9 +30,9 @@ https://www.icreversing.com/chips/315-5313a
 
 ## Группа самосовмещений ячеек
 
-В некоторых местах встречается такое:
+В некоторых местах встречается такое (земля снизу):
 
-![image](https://user-images.githubusercontent.com/5828819/176852554-76db615a-e8a0-448c-8c58-5a8d15c1974e.png)
+![image](https://user-images.githubusercontent.com/5828819/176856526-86d02e64-7d99-4f38-9a79-cd850feba478.png)
 
 Казалось бы это две ячейки `or`, но нет.
 
