@@ -1,4 +1,5 @@
-<ArrayOfEntity>
+<?xml version="1.0"?>
+<ArrayOfEntity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Entity>
     <Label />
     <LambdaWidth>1</LambdaWidth>
@@ -105300,7 +105301,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C1-or</Label>
+    <Label>C1-and</Label>
     <LambdaWidth>17.0000076</LambdaWidth>
     <LambdaHeight>29.7142944</LambdaHeight>
     <LambdaX>92.7014</LambdaX>
@@ -105320,7 +105321,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C2-or</Label>
+    <Label>C2-and</Label>
     <LambdaWidth>16.857132</LambdaWidth>
     <LambdaHeight>29.4285889</LambdaHeight>
     <LambdaX>110.272835</LambdaX>
@@ -105380,7 +105381,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C5-or</Label>
+    <Label>C5-and</Label>
     <LambdaWidth>17.2857056</LambdaWidth>
     <LambdaHeight>29.1428223</LambdaHeight>
     <LambdaX>180.987122</LambdaX>
@@ -105440,7 +105441,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C8-or</Label>
+    <Label>C8-and</Label>
     <LambdaWidth>16.5714111</LambdaWidth>
     <LambdaHeight>28.4285889</LambdaHeight>
     <LambdaX>263.987122</LambdaX>
@@ -105500,7 +105501,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C11-or</Label>
+    <Label>C11-and</Label>
     <LambdaWidth>17.1428528</LambdaWidth>
     <LambdaHeight>28.4285889</LambdaHeight>
     <LambdaX>346.558533</LambdaX>
@@ -105560,7 +105561,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C14-or</Label>
+    <Label>C14-and</Label>
     <LambdaWidth>16.8571167</LambdaWidth>
     <LambdaHeight>28.7142334</LambdaHeight>
     <LambdaX>428.441467</LambdaX>
@@ -105640,7 +105641,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C18-or</Label>
+    <Label>C18-and</Label>
     <LambdaWidth>17.2857056</LambdaWidth>
     <LambdaHeight>29.5714722</LambdaHeight>
     <LambdaX>506.987122</LambdaX>
@@ -105700,7 +105701,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C21-or</Label>
+    <Label>C21-and</Label>
     <LambdaWidth>16.5714111</LambdaWidth>
     <LambdaHeight>29.4285889</LambdaHeight>
     <LambdaX>574.4414</LambdaX>
@@ -105760,7 +105761,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C24-or</Label>
+    <Label>C24-and</Label>
     <LambdaWidth>17</LambdaWidth>
     <LambdaHeight>29.5714111</LambdaHeight>
     <LambdaX>641.87</LambdaX>
@@ -105980,7 +105981,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C35-or</Label>
+    <Label>C35-and</Label>
     <LambdaWidth>17</LambdaWidth>
     <LambdaHeight>29.2857056</LambdaHeight>
     <LambdaX>827.9872</LambdaX>
@@ -106000,7 +106001,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C36-or</Label>
+    <Label>C36-and</Label>
     <LambdaWidth>17.7142334</LambdaWidth>
     <LambdaHeight>29.1428223</LambdaHeight>
     <LambdaX>845.5586</LambdaX>
@@ -106080,7 +106081,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C40-or</Label>
+    <Label>C40-and</Label>
     <LambdaWidth>16.5714111</LambdaWidth>
     <LambdaHeight>28.7142334</LambdaHeight>
     <LambdaX>914.5842</LambdaX>
@@ -106100,7 +106101,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C41-or</Label>
+    <Label>C41-and</Label>
     <LambdaWidth>17</LambdaWidth>
     <LambdaHeight>28.4285889</LambdaHeight>
     <LambdaX>931.869934</LambdaX>
@@ -106240,7 +106241,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C48-or</Label>
+    <Label>C48-and</Label>
     <LambdaWidth>17.1428223</LambdaWidth>
     <LambdaHeight>27.8571167</LambdaHeight>
     <LambdaX>1051.13025</LambdaX>
@@ -106260,7 +106261,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C49-or</Label>
+    <Label>C49-and</Label>
     <LambdaWidth>16.2857666</LambdaWidth>
     <LambdaHeight>28.4285278</LambdaHeight>
     <LambdaX>1069.27307</LambdaX>
@@ -106560,7 +106561,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C64-nand</Label>
+    <Label>C64-nor</Label>
     <LambdaWidth>12.7143555</LambdaWidth>
     <LambdaHeight>29.8571167</LambdaHeight>
     <LambdaX>1292.41638</LambdaX>
@@ -106580,7 +106581,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C65-nand</Label>
+    <Label>C65-nor</Label>
     <LambdaWidth>13</LambdaWidth>
     <LambdaHeight>30</LambdaHeight>
     <LambdaX>1306.27356</LambdaX>
@@ -106600,7 +106601,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C66-nand</Label>
+    <Label>C66-nor</Label>
     <LambdaWidth>13.1428223</LambdaWidth>
     <LambdaHeight>29.5714111</LambdaHeight>
     <LambdaX>1320.27356</LambdaX>
@@ -106620,7 +106621,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>C67-nand</Label>
+    <Label>C67-nor</Label>
     <LambdaWidth>12.7142334</LambdaWidth>
     <LambdaHeight>29.1428223</LambdaHeight>
     <LambdaX>1334.27356</LambdaX>
@@ -108280,7 +108281,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>D36-or</Label>
+    <Label>D36-and</Label>
     <LambdaWidth>17.125</LambdaWidth>
     <LambdaHeight>28.625</LambdaHeight>
     <LambdaX>1155.42285</LambdaX>
@@ -108300,7 +108301,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>D37-or</Label>
+    <Label>D37-and</Label>
     <LambdaWidth>16.5</LambdaWidth>
     <LambdaHeight>29.125</LambdaHeight>
     <LambdaX>1182.29785</LambdaX>
@@ -108320,7 +108321,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>D38-or</Label>
+    <Label>D38-and</Label>
     <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>28.875</LambdaHeight>
     <LambdaX>1200.29785</LambdaX>
@@ -108340,7 +108341,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>D39-or</Label>
+    <Label>D39-and</Label>
     <LambdaWidth>16.25</LambdaWidth>
     <LambdaHeight>28.375</LambdaHeight>
     <LambdaX>1217.67285</LambdaX>
@@ -108680,7 +108681,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>E32-nand3</Label>
+    <Label>E32-nor3</Label>
     <LambdaWidth>18.625</LambdaWidth>
     <LambdaHeight>29.125</LambdaHeight>
     <LambdaX>1036.00537</LambdaX>
@@ -108840,7 +108841,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F50-nand3</Label>
+    <Label>F50-nor3</Label>
     <LambdaWidth>19.75</LambdaWidth>
     <LambdaHeight>29.125</LambdaHeight>
     <LambdaX>1303.00537</LambdaX>
@@ -108860,7 +108861,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F49-nand3</Label>
+    <Label>F49-nor3</Label>
     <LambdaWidth>17</LambdaWidth>
     <LambdaHeight>29.25</LambdaHeight>
     <LambdaX>1284.25537</LambdaX>
@@ -108880,7 +108881,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F47-or</Label>
+    <Label>F47-and</Label>
     <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>30</LambdaHeight>
     <LambdaX>1200.50537</LambdaX>
@@ -108900,7 +108901,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F45-or</Label>
+    <Label>F45-and</Label>
     <LambdaWidth>16.75</LambdaWidth>
     <LambdaHeight>28.75</LambdaHeight>
     <LambdaX>1120.36963</LambdaX>
@@ -108920,14 +108921,14 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F46-Cell18</Label>
+    <Label>F46-cnt_bit</Label>
     <LambdaWidth>61.25</LambdaWidth>
     <LambdaHeight>29.25</LambdaHeight>
     <LambdaX>1137.99463</LambdaX>
     <LambdaY>913.9069</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellOther</Type>
+    <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
@@ -108940,14 +108941,14 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F48-Cell18</Label>
+    <Label>F48-cnt_bit</Label>
     <LambdaWidth>63.25</LambdaWidth>
     <LambdaHeight>29.125</LambdaHeight>
     <LambdaX>1217.36963</LambdaX>
     <LambdaY>913.4069</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellOther</Type>
+    <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
@@ -108960,7 +108961,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F43-or</Label>
+    <Label>F43-and</Label>
     <LambdaWidth>16.5</LambdaWidth>
     <LambdaHeight>29.125</LambdaHeight>
     <LambdaX>1040.00537</LambdaX>
@@ -108980,14 +108981,14 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F44-Cell18</Label>
+    <Label>F44-cnt_bit</Label>
     <LambdaWidth>61.125</LambdaWidth>
     <LambdaHeight>28.125</LambdaHeight>
     <LambdaX>1057.50537</LambdaX>
     <LambdaY>914.3431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellOther</Type>
+    <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
@@ -109000,7 +109001,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F41-or</Label>
+    <Label>F41-and</Label>
     <LambdaWidth>16.375</LambdaWidth>
     <LambdaHeight>30</LambdaHeight>
     <LambdaX>961.2554</LambdaX>
@@ -109020,14 +109021,14 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F42-Cell18</Label>
+    <Label>F42-cnt_bit</Label>
     <LambdaWidth>60.375</LambdaWidth>
     <LambdaHeight>29.375</LambdaHeight>
     <LambdaX>978.5054</LambdaX>
     <LambdaY>914.2181</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellOther</Type>
+    <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
@@ -109060,7 +109061,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>F40-nand</Label>
+    <Label>F40-nor</Label>
     <LambdaWidth>13.125</LambdaWidth>
     <LambdaHeight>29.125</LambdaHeight>
     <LambdaX>946.8804</LambdaX>
@@ -109880,7 +109881,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G6-or</Label>
+    <Label>G6-and</Label>
     <LambdaWidth>17.1666718</LambdaWidth>
     <LambdaHeight>29.5</LambdaHeight>
     <LambdaX>227.577988</LambdaX>
@@ -109900,7 +109901,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G8-or</Label>
+    <Label>G8-and</Label>
     <LambdaWidth>16.6666565</LambdaWidth>
     <LambdaHeight>29.833313</LambdaHeight>
     <LambdaX>283.911316</LambdaX>
@@ -109920,7 +109921,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G4-or</Label>
+    <Label>G4-and</Label>
     <LambdaWidth>16.8333282</LambdaWidth>
     <LambdaHeight>30</LambdaHeight>
     <LambdaX>171.411316</LambdaX>
@@ -109940,7 +109941,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G2-or</Label>
+    <Label>G2-and</Label>
     <LambdaWidth>16.8333282</LambdaWidth>
     <LambdaHeight>30.5</LambdaHeight>
     <LambdaX>117.411316</LambdaX>
@@ -109960,7 +109961,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G0-or</Label>
+    <Label>G0-and</Label>
     <LambdaWidth>16.5000038</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>61.4113121</LambdaX>
@@ -110060,7 +110061,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G10-or</Label>
+    <Label>G10-and</Label>
     <LambdaWidth>15.8333435</LambdaWidth>
     <LambdaHeight>29.166626</LambdaHeight>
     <LambdaX>339.922028</LambdaX>
@@ -110080,7 +110081,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G12-or</Label>
+    <Label>G12-and</Label>
     <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>30.166687</LambdaHeight>
     <LambdaX>395.088684</LambdaX>
@@ -110100,7 +110101,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G14-or</Label>
+    <Label>G14-and</Label>
     <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>29.5</LambdaHeight>
     <LambdaX>451.422058</LambdaX>
@@ -110120,7 +110121,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H5-or</Label>
+    <Label>H5-and</Label>
     <LambdaWidth>16.5</LambdaWidth>
     <LambdaHeight>29.5</LambdaHeight>
     <LambdaX>363.588684</LambdaX>
@@ -110140,7 +110141,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H6-nand</Label>
+    <Label>H6-nor</Label>
     <LambdaWidth>13</LambdaWidth>
     <LambdaHeight>29.166748</LambdaHeight>
     <LambdaX>380.588684</LambdaX>
@@ -110280,7 +110281,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G16-or</Label>
+    <Label>G16-and</Label>
     <LambdaWidth>16.5</LambdaWidth>
     <LambdaHeight>29.5</LambdaHeight>
     <LambdaX>506.744568</LambdaX>
@@ -110300,7 +110301,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>G18-or</Label>
+    <Label>G18-and</Label>
     <LambdaWidth>16.5</LambdaWidth>
     <LambdaHeight>29.666687</LambdaHeight>
     <LambdaX>562.7446</LambdaX>
@@ -110640,7 +110641,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H20-nand</Label>
+    <Label>H20-nor</Label>
     <LambdaWidth>11.833374</LambdaWidth>
     <LambdaHeight>29.5</LambdaHeight>
     <LambdaX>670.922058</LambdaX>
@@ -110740,7 +110741,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H26-nand3</Label>
+    <Label>H26-nor3</Label>
     <LambdaWidth>20</LambdaWidth>
     <LambdaHeight>29.166626</LambdaHeight>
     <LambdaX>818.911133</LambdaX>
@@ -110920,7 +110921,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H29-nand</Label>
+    <Label>H29-nor</Label>
     <LambdaWidth>12.666626</LambdaWidth>
     <LambdaHeight>29.833374</LambdaHeight>
     <LambdaX>913.7444</LambdaX>
@@ -111040,7 +111041,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H36-or</Label>
+    <Label>H36-and</Label>
     <LambdaWidth>16.166626</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>1014.92224</LambdaX>
@@ -111060,7 +111061,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H35-nand3</Label>
+    <Label>H35-nor3</Label>
     <LambdaWidth>18.666687</LambdaWidth>
     <LambdaHeight>28.166626</LambdaHeight>
     <LambdaX>995.088867</LambdaX>
@@ -111300,7 +111301,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H42-or</Label>
+    <Label>H42-and</Label>
     <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>29.333374</LambdaHeight>
     <LambdaX>1116.07764</LambdaX>
@@ -111360,7 +111361,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H45-or</Label>
+    <Label>H45-and</Label>
     <LambdaWidth>15.333374</LambdaWidth>
     <LambdaHeight>29.166626</LambdaHeight>
     <LambdaX>1158.57764</LambdaX>
@@ -111420,7 +111421,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H48-or</Label>
+    <Label>H48-and</Label>
     <LambdaWidth>16.333252</LambdaWidth>
     <LambdaHeight>29.333374</LambdaHeight>
     <LambdaX>1200.74438</LambdaX>
@@ -111460,7 +111461,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H50-or</Label>
+    <Label>H50-and</Label>
     <LambdaWidth>17.333374</LambdaWidth>
     <LambdaHeight>28.833374</LambdaHeight>
     <LambdaX>1232.07764</LambdaX>
@@ -115680,14 +115681,14 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>H8-Cell18</Label>
+    <Label>H8-cnt_bit</Label>
     <LambdaWidth>60.7272644</LambdaWidth>
     <LambdaHeight>30.1817627</LambdaHeight>
     <LambdaX>416.411926</LambdaX>
     <LambdaY>1025.62122</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellOther</Type>
+    <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
@@ -116411,10 +116412,156 @@
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>654.8276</LambdaX>
+    <LambdaY>782.27124</LambdaY>
+    <LambdaEndX>0</LambdaEndX>
+    <LambdaEndY>0</LambdaEndY>
+    <Type>ViasConnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>3</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>654.0498</LambdaX>
+    <LambdaY>760.049</LambdaY>
+    <LambdaEndX>654.7165</LambdaEndX>
+    <LambdaEndY>782.604553</LambdaEndY>
+    <Type>WireInterconnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>2</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>22.5653934</WireLengthLambda>
+    <WireTangent>33.83228</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>676.1609</LambdaX>
+    <LambdaY>781.8268</LambdaY>
+    <LambdaEndX>0</LambdaEndX>
+    <LambdaEndY>0</LambdaEndY>
+    <Type>ViasConnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>3</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>674.8276</LambdaX>
+    <LambdaY>760.604553</LambdaY>
+    <LambdaEndX>675.9387</LambdaEndX>
+    <LambdaEndY>781.937866</LambdaEndY>
+    <Type>WireInterconnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>2</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>21.36223</WireLengthLambda>
+    <WireTangent>19.1993961</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>697.3832</LambdaX>
+    <LambdaY>782.3823</LambdaY>
+    <LambdaEndX>0</LambdaEndX>
+    <LambdaEndY>0</LambdaEndY>
+    <Type>ViasConnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>3</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>695.7165</LambdaX>
+    <LambdaY>760.27124</LambdaY>
+    <LambdaEndX>697.3832</LambdaEndX>
+    <LambdaEndY>782.3823</LambdaEndY>
+    <Type>WireInterconnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>2</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>22.173811</WireLengthLambda>
+    <WireTangent>13.2664881</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1277.23914</LambdaX>
+    <LambdaY>904.2456</LambdaY>
+    <LambdaEndX>1277.51184</LambdaEndX>
+    <LambdaEndY>919.0638</LambdaEndY>
+    <Type>WireInterconnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>2</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>14.8206854</WireLengthLambda>
+    <WireTangent>54.3377342</WireTangent>
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1325.053</LambdaX>
+    <LambdaY>906.680969</LambdaY>
+    <LambdaEndX>1325.14392</LambdaEndX>
+    <LambdaEndY>919.59</LambdaEndY>
+    <Type>WireInterconnect</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>2</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>12.9093781</WireLengthLambda>
+    <WireTangent>141.947647</WireTangent>
   </Entity>
 </ArrayOfEntity>
