@@ -29,11 +29,11 @@
 			],
 
 			[
-				"dlatch", "or", "or", "comp_strong", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "dlatch", "dlatch", "or", "or", "not",
-				"dlatch", "or", "or", "dlatch", "or", "or", "dlatch", "or", "or", "comp_strong",
-				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "not", "or", "or", "not", "aoi21", "and3", "or", "or",
-				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "or", "not", "aoi21", "and3",
-				"and3", "aoi21", "not", "and3", "aoi21", "not", "not", "not", "not", "not", "not", "nand", "nand", "nand", "nand"
+				"dlatch", "and", "and", "comp_strong", "dlatch", "and", "dlatch", "dlatch", "and", "dlatch", "dlatch", "and", "dlatch", "dlatch", "and", "or", "not",
+				"dlatch", "and", "or", "dlatch", "and", "or", "dlatch", "and", "or", "comp_strong",
+				"not", "aoi21", "and3", "not", "aoi21", "and3", "or", "not", "and", "and", "not", "aoi21", "and3", "and", "and",
+				"not", "aoi21", "and3", "not", "aoi21", "and3", "and", "and", "not", "aoi21", "and3",
+				"and3", "aoi21", "not", "and3", "aoi21", "not",     "not", "not",     "not", "not", "not", "nor", "nor", "nor", "nor"
 			],
 
 			[
@@ -41,12 +41,12 @@
 				"comp_strong", "comp_strong", "comp_strong",
 				"dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch", "dlatch",
 				"comp_strong", "comp_strong", "comp_strong",
-				"or", "or", "or", "or", "dlatch", "dlatch", "dlatch", "comp_strong"
+				"and", "and", "and", "and", "dlatch", "dlatch", "dlatch", "comp_strong"
 			],
 
 			[
 				"aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a",
-				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "nand3", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
+				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit",     "nor3", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
 			],
 
 			[
@@ -54,11 +54,11 @@
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
-				"nand", "or", "cnt_bit", "or", "cnt_bit", "or", "cnt_bit", "or", "cnt_bit", "nand3", "nand3", "not"
+				"nor", "and", "cnt_bit", "and", "cnt_bit", "and", "cnt_bit", "and", "cnt_bit", "nor3", "nor3", "not"
 			],
 
 			[
-				"or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha", "or", "ha",
+				"and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha",
 				"xor",
 				"lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit",
 				"nand", "nand", "nand3"
@@ -66,11 +66,11 @@
 
 			[
 				"not", "clkgen", "dff",
-				"sr_bit", "not", "or", "nand", "sr_bit", "cnt_bit", "slatch_inv", "not", "nand",
+				"sr_bit", "not", "and", "nor", "sr_bit", "cnt_bit", "slatch_inv", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
-				"rs", "nand", "dff", "sr_bit", "dff", "not", "not_strong", "nand3",
-				"rs", "dff", "nand", "not", "nand", "not_strong", "not_strong", "nand", "nand3", "or", "not", "sr_bit", "aon22",
-				"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
+				"rs", "nor", "dff", "sr_bit", "dff", "not", "not_strong", "nor3",
+				"rs", "dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor3", "and", "not", "sr_bit", "aon22",
+				"not", "nand", "and", "not", "nand", "and", "not", "nand", "and", "nand", "and"
 			]
 		],
 		"gval":
@@ -96,9 +96,9 @@
 			[
 				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
 				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
-				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
-				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
-				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r"
+				"r", "r", "r", "r", "r", "r", "r", "r", "rf", "rf", "r", "r", "r", "rf", "rf",
+				"r", "r", "r", "r", "r", "r", "rf", "rf", "r", "r", "r",
+				"rf", "rf", "rf", "rf", "rf", "rf",    "r", "r",    "rf", "rf", "rf", "r",    "rf", "rf", "rf"
 			],
 
 			[
@@ -111,7 +111,7 @@
 
 			[
 				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
-				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r"
+				"r", "rf", "rf", "r", "rf", "rf", "r", "rf", "rf", "r", "rf", "rf",      "rf", "r", "rf", "rf", "rf", "rf", "rf"
 			],
 
 			[
@@ -119,23 +119,23 @@
 				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
 				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
 				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
-				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e"
+				"e", "ef", "e", "ef", "e", "ef", "ef", "e", "e", "ef", "ef", "e"
 			],
 
 			[
 				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
 				"r",
 				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
-				"r", "r", "r"
+				"rf", "rf", "rf"
 			],
 
 			[
 				"e", "e", "e",
-				"e", "e", "e", "e", "e", "e", "e", "e", "e",
-				"e", "e", "e", "e", "e", "e", "e", 
-				"e", "e", "e", "e", "e", "e", "e", "e",
-				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
-				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e"
+				"ef", "e", "ef", "ef", "ef", "e", "e", "e", "ef",
+				"e", "e", "e", "ef", "e", "e", "e", 
+				"e", "ef", "e", "ef", "e", "e", "e", "ef",
+				"e", "e", "ef", "e", "ef", "e", "ef", "e", "ef", "e", "ef", "e", "e",
+				"ef", "ef", "ef", "e", "ef", "ef", "e", "ef", "ef", "ef", "ef"
 			]
 		]
 	},
