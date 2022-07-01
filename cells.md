@@ -163,16 +163,24 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ![image](https://user-images.githubusercontent.com/5828819/176855955-8233da7a-7d9b-4724-9e6c-604fc0e971fb.png)
 
-## Ячейка 18 - "большая 3"
+## Ячейка 18 - cnt_bit
 
-Основная гипотеза пока такая: "HA с задержкой на 1 такт. Используется для того чтобы выдать результат через 1 цикл, после суммации. CarryOut не используется".
+Разряд счётчика.
+
+В PSG carry_out не используется, т.к. все счётчики 1-разрядные. В других частях VDP carry_out используется.
 
 |![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)|![image](https://user-images.githubusercontent.com/5828819/176202271-89a9a869-eba8-4442-9162-ad07cdecd52f.png)|
 |---|---|
 
+Схемы от разных авторов 😄
+
 ![image](https://user-images.githubusercontent.com/5828819/176546959-4c393184-4c0a-4a63-8cba-5b0d0637f6d4.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/176546991-8d31ced1-1413-4190-9a63-2359cb80e9fe.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176964161-ed1d2560-ecc8-4975-9612-9afddea007c9.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176964207-71cf242f-d335-49a0-b958-8828570ff7f2.png)
 
 ## Ячейка 19 - aon22 (2x 2-AND into 2-OR gate)
 
