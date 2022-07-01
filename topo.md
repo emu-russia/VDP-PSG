@@ -48,9 +48,9 @@ https://www.icreversing.com/chips/315-5313a
 
 Поэтому у ячейки `and` будет такая группа самосовмещений:
 
-|ident (земля снизу)|rot (земля сверху)|flip_h (земля снизу)|
-|---|---|---|
-|![image](https://user-images.githubusercontent.com/5828819/176853681-b5759600-34d0-4bc9-be78-0f6d9d245eaa.png)|![image](https://user-images.githubusercontent.com/5828819/176853715-74e3c938-3f99-410f-bbf8-6dd91cbcbb9e.png)|![image](https://user-images.githubusercontent.com/5828819/176853767-57d5a1f7-5c1b-4c51-b9e7-fd7c9e5a4074.png)|
+|ident (земля снизу)|rot (земля сверху)|flip_h (земля снизу)|rot+flip_h (земля сверху)|
+|---|---|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176853681-b5759600-34d0-4bc9-be78-0f6d9d245eaa.png)|![image](https://user-images.githubusercontent.com/5828819/176853715-74e3c938-3f99-410f-bbf8-6dd91cbcbb9e.png)|![image](https://user-images.githubusercontent.com/5828819/176853767-57d5a1f7-5c1b-4c51-b9e7-fd7c9e5a4074.png)|![image](https://user-images.githubusercontent.com/5828819/176857641-2b40c1dc-3858-439d-addf-e99a83b466ba.png)|
 
 Не все ячейки позволяют такие фокусы, а только комплементарно симметричные, типа nor / nand, or / and.
 
