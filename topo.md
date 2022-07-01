@@ -28,9 +28,33 @@ https://www.icreversing.com/chips/315-5313a
 
 ![image](https://user-images.githubusercontent.com/5828819/176502964-95bc5798-02ce-4933-ac8c-da426f77f7a4.png)
 
-## Карта ячеек по рядам
+## Группа самосовмещений ячеек
 
-TBD: Ещё не все ячейки зареверсили, поэтому будут уточнения.
+В некоторых местах встречается такое:
+
+![image](https://user-images.githubusercontent.com/5828819/176852554-76db615a-e8a0-448c-8c58-5a8d15c1974e.png)
+
+Казалось бы это две ячейки `or`, но нет.
+
+Группа самосовмещений (ячейка `or`):
+
+|ident (земля снизу)|rot (земля сверху)|flip_v (земля снизу)|
+|---|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176852861-7d7a0f57-d302-4f71-bd27-1cea605fb091.png)|![image](https://user-images.githubusercontent.com/5828819/176852945-8082ee45-692c-42dc-92d7-c90748a3aae1.png)|![image](https://user-images.githubusercontent.com/5828819/176853301-54b26e7c-8166-430b-9e86-bc5045b9614b.png)|
+
+Т.е. понятно что ячейка не может быть повернута вверх (т.к. они уложены рядами) и не может быть флипнута горизонтально, т.к. в этом случае мы получаем картину, что была показана вначале.
+
+Ячейка `or` флипнутая по горизонтали меняет N и P транзисторы, оставляя землю, поэтому становится ячейкой `and`.
+
+Поэтому у ячейки `and` будет такая группа самосовмещений:
+
+|ident (земля снизу)|rot (земля сверху)|flip_v (земля снизу)|
+|---|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176853681-b5759600-34d0-4bc9-be78-0f6d9d245eaa.png)|![image](https://user-images.githubusercontent.com/5828819/176853715-74e3c938-3f99-410f-bbf8-6dd91cbcbb9e.png)|![image](https://user-images.githubusercontent.com/5828819/176853767-57d5a1f7-5c1b-4c51-b9e7-fd7c9e5a4074.png)|
+
+Не все ячейки позволяют такие фокусы, а только комплементарно симметричные, типа nor / nand, or / and.
+
+## Карта ячеек по рядам
 
 Исходный файл см. cells.json.
 
