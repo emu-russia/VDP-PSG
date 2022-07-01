@@ -54,7 +54,7 @@
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
-				"nand", "or", "Cell18", "or", "Cell18", "or", "Cell18", "or", "Cell18", "nand3", "nand3", "not"
+				"nand", "or", "cnt_bit", "or", "cnt_bit", "or", "cnt_bit", "or", "cnt_bit", "nand3", "nand3", "not"
 			],
 
 			[
@@ -66,11 +66,76 @@
 
 			[
 				"not", "clkgen", "dff",
-				"sr_bit", "not", "or", "nand", "sr_bit", "Cell18", "slatch_inv", "not", "nand",
+				"sr_bit", "not", "or", "nand", "sr_bit", "cnt_bit", "slatch_inv", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
 				"rs", "nand", "dff", "sr_bit", "dff", "not", "not_strong", "nand3",
 				"rs", "dff", "nand", "not", "nand", "not_strong", "not_strong", "nand", "nand3", "or", "not", "sr_bit", "aon22",
 				"not", "nand", "or", "not", "nand", "or", "not", "nand", "or", "nand", "or"
+			]
+		],
+		"gval":
+		[
+			[
+				"e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", "e", "e"
+			],
+
+			[
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e"
+			],
+
+			[
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r"
+			],
+
+			[
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e"
+			],
+
+			[
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r"
+			],
+
+			[
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e"
+			],
+
+			[
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r",
+				"r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r", "r",
+				"r", "r", "r"
+			],
+
+			[
+				"e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", 
+				"e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e",
+				"e", "e", "e", "e", "e", "e", "e", "e", "e", "e", "e"
 			]
 		]
 	},
@@ -87,6 +152,11 @@
 			"type": "CellLogic"
 		},
 
+		"nor":
+		{
+			"type": "CellLogic"
+		},
+
 		"comp_weak":
 		{
 			"notes": "Слабый комплементарный буфер",
@@ -94,6 +164,11 @@
 		},
 
 		"nand3":
+		{
+			"type": "CellLogic"
+		},
+
+		"nor3":
 		{
 			"type": "CellLogic"
 		},
@@ -112,6 +187,11 @@
 		"or":
 		{
 			"notes": "чел",
+			"type": "CellLogic"
+		},
+
+		"and":
+		{
 			"type": "CellLogic"
 		},
 
@@ -161,16 +241,27 @@
 			"type": "CellLogic"
 		},
 
+		"oai21":
+		{
+			"notes": "2-OR into 2-NAND gate",
+			"type": "CellLogic"
+		},		
+
 		"and3":
 		{
 			"notes": "длинный чел",
 			"type": "CellLogic"
 		},
 
-		"Cell18":
+		"or3":
 		{
-			"notes": "большая 3",
-			"type": "CellOther"
+			"type": "CellLogic"
+		},
+
+		"cnt_bit":
+		{
+			"notes": "Разряд счётчика. В PSG carry_out не используется, т.к. все счётчики 1-разрядные.",
+			"type": "CellAdder"
 		},
 
 		"aon22":
