@@ -47,6 +47,10 @@
 |![image](https://user-images.githubusercontent.com/5828819/176176522-3a7d5767-a98e-496b-8528-05f6b4369565.png)|![image](https://user-images.githubusercontent.com/5828819/176018358-e445fd72-a8ca-4356-9f05-3e22aa7e1689.png)|
 |---|---|
 
+## Ячейка 26 - and
+
+![image](https://user-images.githubusercontent.com/5828819/176854793-6f8e252b-ad7d-4b9b-8296-d6880319d282.png)
+
 ## Ячейка 8 - notif0
 
 Управляемый инвертор с инверсным управлением.
