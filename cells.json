@@ -1,13 +1,14 @@
 {
 	"info":
 	{
-		"descr": "JSON contains all the information about the PSG cells.",
+		"descr": "JSON contains all the information about the PSG cells. All dimensions and coordinates in lambda.",
 		"url": "https://github.com/emu-russia/VDP-PSG/blob/main/cells.md"
 	},
 
 	"map":
 	{
 		"row_names": [ "A", "B", "C", "D", "E", "F", "G", "H" ],
+
 		"rows":
 		[
 			[
@@ -73,6 +74,7 @@
 				"not", "nand", "and", "not", "nand", "and", "not", "nand", "and", "nand", "and"
 			]
 		],
+
 		"placement":
 		[
 			[
@@ -137,7 +139,9 @@
 				"e", "e", "ef", "e", "ef", "e", "ef", "e", "ef", "e", "ef", "e", "e",
 				"ef", "ef", "ef", "e", "ef", "ef", "e", "ef", "ef", "ef", "ef"
 			]
-		]
+		],
+
+		"group_notes": "Значения в разделе `placement` означают следующее: e - нормальное положение ячейки, GND снизу; r - ячейка повернута на 180 градусов, GND сверху; f - ячейка флипнута слева-направо (горизонтально), расположение GND указывается первой операцией (e/r)."
 	},
 
 	"cells":
@@ -147,7 +151,12 @@
 			"notes": "писюн",
 			"type": "CellNot",
 			"width": 9.33,
-			"height": 30
+			"height": 30,
+			"ports":
+			[
+				{ "type": "input", "x": 2.94, "y": 28.07, "name": "a" },
+				{ "type": "output", "x": 8.31, "y": 15.25, "name": "x" }
+			]
 		},
 
 		"nand":
@@ -158,9 +167,9 @@
 			"height": 30,
 			"ports":
 			[
-				{ "type": "input", "x": 8.89, "y": 29.67, "name": "a" },
-				{ "type": "input", "x": 6.51, "y": 29.58, "name": "b" },
-				{ "type": "output", "x": 1.74, "y": 18.24, "name": "x" }
+				{ "type": "input", "x": 8.88, "y": 28.77, "name": "a" },
+				{ "type": "input", "x": 6.5, "y": 28.67, "name": "b" },
+				{ "type": "output", "x": 1.74, "y": 17.34, "name": "x" }
 			]
 		},
 
@@ -180,9 +189,9 @@
 			"height": 30,
 			"ports":
 			[
-				{ "type": "input", "x": 4.8, "y": 29.41, "name": "a" },
-				{ "type": "output", "x": 8.7, "y": 16.74, "name": "nx" },
-				{ "type": "output", "x": 13.37, "y": 16.84, "name": "x" }
+				{ "type": "input", "x": 3.49, "y": 28.7, "name": "a" },
+				{ "type": "output", "x": 7.39, "y": 16.03, "name": "nx" },
+				{ "type": "output", "x": 12.06, "y": 16.13, "name": "x" }
 			]
 		},
 
@@ -191,7 +200,14 @@
 			"notes": "кочерга",
 			"type": "CellLogic",
 			"width": 16.26,
-			"height": 30
+			"height": 30,
+			"ports":
+			[
+				{ "type": "input", "x": 12.21, "y": 28.66, "name": "a" },
+				{ "type": "input", "x": 9.88, "y": 28.57, "name": "b" },
+				{ "type": "input", "x": 7.6, "y": 28.65, "name": "c" },
+				{ "type": "output", "x": 1.6, "y": 16.23, "name": "x" }
+			]
 		},
 
 		"nor3":

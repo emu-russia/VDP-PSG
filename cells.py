@@ -77,9 +77,9 @@ def ProcessCells (op, cells, netlist):
 			elif op == 'unclassify':
 				Unclassify (cells, row, row_num)
 			elif op == 'add_ports':
-				AddPorts (cells, row, row_num)
+				AddPorts (cells, row, row_num, netlist)
 			elif op == 'rem_ports':
-				RemPorts (cells, row, row_num)
+				RemPorts (cells, row, row_num, netlist)
 			elif op == 'list_ports':
 				ListPorts (cells, row, row_num, netlist)
 			elif op == 'resize':
@@ -98,6 +98,26 @@ def ProcessCells (op, cells, netlist):
 
 
 """
+	Групповая операция по самосовмещению ячеек (группа диэдра D2).
+	Значения в разделе `placement` означают следующее: 
+	- e: нормальное положение ячейки, GND снизу 
+	- r: ячейка повернута на 180 градусов, GND сверху
+	- f: ячейка флипнута слева-направо (горизонтально), расположение GND указывается первой операцией (e/r)
+"""
+def Vierergruppe(pos, w, h, word):
+	res = pos
+	for op in word:
+		if op == 'e':
+			continue
+		if op == 'r':
+			res[0] = w - res[0]
+			res[1] = h - res[1]
+		if op == 'f':
+			res[0] = w - res[0]
+	return res
+
+
+"""
 	Найти все порты в указанной области.
 """
 def GetPorts(netlist, x, y, w, h):
@@ -110,6 +130,29 @@ def GetPorts(netlist, x, y, w, h):
 			if entityType == 'ViasInput' or entityType == 'ViasOutput' or entityType == 'ViasInout':
 				ports.append(entity)
 	return ports
+
+
+"""
+	Добавить виас в нетлист.
+"""
+def AddVias(netlist, name, x, y, type):
+	vias_type = "ViasConnect"
+	if type == "input":
+		vias_type = "ViasInput"
+	elif type == "output":
+		vias_type = "ViasOutput"
+	elif type == "inout":
+		vias_type = "ViasInout" 
+	entity = ET.Element("Entity")
+	ET.SubElement(entity, 'Type').text = vias_type
+	ET.SubElement(entity, 'Label').text = name
+	ET.SubElement(entity, 'LambdaX').text = str(x)
+	ET.SubElement(entity, 'LambdaY').text = str(y)
+	ET.SubElement(entity, 'ColorOverride').text = "Black"
+	ET.SubElement(entity, 'LabelAlignment').text = "GlobalSettings"
+	ET.SubElement(entity, 'Visible').text = "true"
+	ET.SubElement(entity, 'Priority').text = str(3)
+	netlist.append (entity)
 
 
 def AddNames(cells, row, row_num):
@@ -139,15 +182,38 @@ def Unclassify(cells, row, row_num):
 		entity.find('Type').text = 'CellOther'
 
 
-def AddPorts(cells, row, row_num):
-	return
+def AddPorts(cells, row, row_num, netlist):
+	cell_num = 0
+	for entity in row:
+		cell_name = cells['map']['rows'][row_num][cell_num]
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		ew = float(entity.find('LambdaWidth').text)
+		eh = float(entity.find('LambdaHeight').text)
+		if 'ports' in cells['cells'][cell_name]: 
+			for port in cells['cells'][cell_name]['ports']:
+				pos = [port['x'], port['y']]
+				word = cells['map']['placement'][row_num][cell_num]
+				pos = Vierergruppe (pos, ew, eh, word)
+				AddVias(netlist, port['name'], ex + pos[0], ey + pos[1], port['type'])
+		cell_num = cell_num + 1
 
 
-def RemPorts(cells, row, row_num):
-	return
+def RemPorts(cells, row, row_num, netlist):
+	cell_num = 0
+	for entity in row:
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		ew = float(entity.find('LambdaWidth').text)
+		eh = float(entity.find('LambdaHeight').text)
+		ports = GetPorts(netlist, ex, ey, ew, eh)
+		for port in ports:
+			netlist.remove(port)
+		cell_num = cell_num + 1
 
 
 def ListPorts(cells, row, row_num, netlist):
+	cell_num = 0
 	for entity in row:
 		ex = float(entity.find('LambdaX').text)
 		ey = float(entity.find('LambdaY').text)
@@ -162,7 +228,11 @@ def ListPorts(cells, row, row_num, netlist):
 			pname = port.find('Label').text
 			px = float(port.find('LambdaX').text)
 			py = float(port.find('LambdaY').text)
-			print ("type: " + ptype + ", name: " + pname + ", x: " + str(px - ex) + ", y: " + str(py - ey) )
+			pos = [px, py]
+			word = cells['map']['placement'][row_num][cell_num]
+			pos = Vierergruppe (pos, ew, eh, word[::-1])
+			print ("type: " + ptype + ", name: " + pname + ", x: " + str(pos[0] - ex) + ", y: " + str(pos[1] - ey) )
+		cell_num = cell_num + 1
 
 
 def Resize(cells, row, row_num):
