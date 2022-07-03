@@ -80,6 +80,10 @@ def ProcessCells (op, cells, netlist):
 				AddPorts (cells, row, row_num)
 			elif op == 'rem_ports':
 				RemPorts (cells, row, row_num)
+			elif op == 'list_ports':
+				ListPorts (cells, row, row_num, netlist)
+			elif op == 'resize':
+				Resize (cells, row, row_num)
 			elif op == 'count':
 				total_cells = total_cells + CountByRow (cells, row, row_num)
 
@@ -91,6 +95,21 @@ def ProcessCells (op, cells, netlist):
 """
 	ProcessCells end.
 """
+
+
+"""
+	Найти все порты в указанной области.
+"""
+def GetPorts(netlist, x, y, w, h):
+	ports = []
+	for entity in netlist:
+		entityType = entity.find('Type').text
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		if ex >= x and ex < (x + w) and ey >= y and ey < (y + h):
+			if entityType == 'ViasInput' or entityType == 'ViasOutput' or entityType == 'ViasInout':
+				ports.append(entity)
+	return ports
 
 
 def AddNames(cells, row, row_num):
@@ -128,6 +147,36 @@ def RemPorts(cells, row, row_num):
 	return
 
 
+def ListPorts(cells, row, row_num, netlist):
+	for entity in row:
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		ew = float(entity.find('LambdaWidth').text)
+		eh = float(entity.find('LambdaHeight').text)
+		ports = GetPorts(netlist, ex, ey, ew, eh)
+		if len(ports) == 0:
+			continue
+		print(entity.find('Label').text + " ports:")
+		for port in ports:
+			ptype = port.find('Type').text
+			pname = port.find('Label').text
+			px = float(port.find('LambdaX').text)
+			py = float(port.find('LambdaY').text)
+			print ("type: " + ptype + ", name: " + pname + ", x: " + str(px - ex) + ", y: " + str(py - ey) )
+
+
+def Resize(cells, row, row_num):
+	cell_num = 0
+	for entity in row:
+		cell_name = cells['map']['rows'][row_num][cell_num]
+		cell = cells['cells'][cell_name]
+		if 'width' in cell:
+			entity.find('LambdaWidth').text = str(cell['width'])
+		if 'height' in cell:
+			entity.find('LambdaHeight').text = str(cell['height'])
+		cell_num = cell_num + 1
+
+
 def CountByRow(cells, row, row_num):
 	count = len(row)
 	print ("row " + str(row_num) + ", cells: " + str(count))
@@ -143,15 +192,17 @@ def Main(args):
 		cells = json.loads(text)
 	netlist = ET.parse(args.xml_file)
 	ProcessCells (args.operation, cells, netlist.getroot())
-	out_xml = open(args.xml_file, "wb")
-	xml_text = ET.tostring(netlist.getroot(), method='xml')
-	out_xml.write(xml_text)
-	out_xml.close()
+	if not (args.operation == "count" or args.operation == "list_ports"):
+		out_xml = open(args.xml_file, "wb")
+		xml_text = ET.tostring(netlist.getroot(), method='xml')
+		out_xml.write(xml_text)
+		out_xml.close()
 
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать ячейки по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты)')
-	parser.add_argument('--op', dest='operation', help='Операция над ячейками.')
+	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать ячейки по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты), list_ports (вывести порты), resize (задать размеры)')
+	parser.add_argument('--op', dest='operation', help='Операция над ячейками')
 	parser.add_argument('--json', dest='json_file', help='JSON с определениями ячеек')
 	parser.add_argument('--xml', dest='xml_file', help='XML файл из Deroute с нетлистом (БУДЕТ ИЗМЕНЁН для всех операций, кроме `count`')
+	parser.add_argument('--lambda', dest='lambda', default=1.0, help='Топологический фактор ячеек (масштаб), в лямбдах. По умолчанию 1.0')
 	Main(parser.parse_args())
