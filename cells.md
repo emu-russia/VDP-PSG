@@ -167,7 +167,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Разряд счётчика.
 
-В PSG carry_out не используется, т.к. все счётчики 1-разрядные. В других частях VDP carry_out используется.
+В PSG carry_out не используется, т.к. все счётчики 1-разрядные. В других частях VDP carry_out используется. catty_in (вход слева) и carry_out (выход справа) разводятся через M1.
 
 |![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)|![image](https://user-images.githubusercontent.com/5828819/176202271-89a9a869-eba8-4442-9162-ad07cdecd52f.png)|
 |---|---|
