@@ -98,6 +98,26 @@ def ProcessCells (op, cells, netlist):
 
 
 """
+	Групповая операция по самосовмещению ячеек (группа диэдра D2).
+	Значения в разделе `placement` означают следующее: 
+	- e: нормальное положение ячейки, GND снизу 
+	- r: ячейка повернута на 180 градусов, GND сверху
+	- f: ячейка флипнута слева-направо (горизонтально), расположение GND указывается первой операцией (e/r)
+"""
+def Vierergruppe(pos, w, h, word):
+	res = pos
+	for op in word:
+		if op == 'e':
+			continue
+		if op == 'r':
+			res[0] = w - res[0]
+			res[1] = h - res[1]
+		if op == 'f':
+			res[0] = w - res[0]
+	return res
+
+
+"""
 	Найти все порты в указанной области.
 """
 def GetPorts(netlist, x, y, w, h):
@@ -148,6 +168,7 @@ def RemPorts(cells, row, row_num):
 
 
 def ListPorts(cells, row, row_num, netlist):
+	cell_num = 0
 	for entity in row:
 		ex = float(entity.find('LambdaX').text)
 		ey = float(entity.find('LambdaY').text)
@@ -162,7 +183,11 @@ def ListPorts(cells, row, row_num, netlist):
 			pname = port.find('Label').text
 			px = float(port.find('LambdaX').text)
 			py = float(port.find('LambdaY').text)
-			print ("type: " + ptype + ", name: " + pname + ", x: " + str(px - ex) + ", y: " + str(py - ey) )
+			pos = [px, py]
+			word = cells['map']['placement'][row_num][cell_num]
+			pos = Vierergruppe (pos, ew, eh, word[::-1])
+			print ("type: " + ptype + ", name: " + pname + ", x: " + str(pos[0] - ex) + ", y: " + str(pos[1] - ey) )
+		cell_num = cell_num + 1
 
 
 def Resize(cells, row, row_num):
