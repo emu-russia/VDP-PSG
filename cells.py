@@ -77,9 +77,9 @@ def ProcessCells (op, cells, netlist):
 			elif op == 'unclassify':
 				Unclassify (cells, row, row_num)
 			elif op == 'add_ports':
-				AddPorts (cells, row, row_num)
+				AddPorts (cells, row, row_num, netlist)
 			elif op == 'rem_ports':
-				RemPorts (cells, row, row_num)
+				RemPorts (cells, row, row_num, netlist)
 			elif op == 'list_ports':
 				ListPorts (cells, row, row_num, netlist)
 			elif op == 'resize':
@@ -132,6 +132,29 @@ def GetPorts(netlist, x, y, w, h):
 	return ports
 
 
+"""
+	Добавить виас в нетлист.
+"""
+def AddVias(netlist, name, x, y, type):
+	vias_type = "ViasConnect"
+	if type == "input":
+		vias_type = "ViasInput"
+	elif type == "output":
+		vias_type = "ViasOutput"
+	elif type == "inout":
+		vias_type = "ViasInout" 
+	entity = ET.Element("Entity")
+	ET.SubElement(entity, 'Type').text = vias_type
+	ET.SubElement(entity, 'Label').text = name
+	ET.SubElement(entity, 'LambdaX').text = str(x)
+	ET.SubElement(entity, 'LambdaY').text = str(y)
+	ET.SubElement(entity, 'ColorOverride').text = "Black"
+	ET.SubElement(entity, 'LabelAlignment').text = "GlobalSettings"
+	ET.SubElement(entity, 'Visible').text = "true"
+	ET.SubElement(entity, 'Priority').text = str(3)
+	netlist.append (entity)
+
+
 def AddNames(cells, row, row_num):
 	row_name = cells['map']['row_names'][row_num]
 	cell_num = 0
@@ -159,12 +182,34 @@ def Unclassify(cells, row, row_num):
 		entity.find('Type').text = 'CellOther'
 
 
-def AddPorts(cells, row, row_num):
-	return
+def AddPorts(cells, row, row_num, netlist):
+	cell_num = 0
+	for entity in row:
+		cell_name = cells['map']['rows'][row_num][cell_num]
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		ew = float(entity.find('LambdaWidth').text)
+		eh = float(entity.find('LambdaHeight').text)
+		if 'ports' in cells['cells'][cell_name]: 
+			for port in cells['cells'][cell_name]['ports']:
+				pos = [port['x'], port['y']]
+				word = cells['map']['placement'][row_num][cell_num]
+				pos = Vierergruppe (pos, ew, eh, word)
+				AddVias(netlist, port['name'], ex + pos[0], ey + pos[1], port['type'])
+		cell_num = cell_num + 1
 
 
-def RemPorts(cells, row, row_num):
-	return
+def RemPorts(cells, row, row_num, netlist):
+	cell_num = 0
+	for entity in row:
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		ew = float(entity.find('LambdaWidth').text)
+		eh = float(entity.find('LambdaHeight').text)
+		ports = GetPorts(netlist, ex, ey, ew, eh)
+		for port in ports:
+			netlist.remove(port)
+		cell_num = cell_num + 1
 
 
 def ListPorts(cells, row, row_num, netlist):
