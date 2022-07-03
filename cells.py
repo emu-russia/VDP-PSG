@@ -81,7 +81,7 @@ def ProcessCells (op, cells, netlist):
 			elif op == 'rem_ports':
 				RemPorts (cells, row, row_num)
 			elif op == 'list_ports':
-				ListPorts (cells, row, row_num)
+				ListPorts (cells, row, row_num, netlist)
 			elif op == 'resize':
 				Resize (cells, row, row_num)
 			elif op == 'count':
@@ -95,6 +95,21 @@ def ProcessCells (op, cells, netlist):
 """
 	ProcessCells end.
 """
+
+
+"""
+	Найти все порты в указанной области.
+"""
+def GetPorts(netlist, x, y, w, h):
+	ports = []
+	for entity in netlist:
+		entityType = entity.find('Type').text
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		if ex >= x and ex < (x + w) and ey >= y and ey < (y + h):
+			if entityType == 'ViasInput' or entityType == 'ViasOutput' or entityType == 'ViasInout':
+				ports.append(entity)
+	return ports
 
 
 def AddNames(cells, row, row_num):
@@ -132,8 +147,22 @@ def RemPorts(cells, row, row_num):
 	return
 
 
-def ListPorts(cells, row, row_num):
-	return
+def ListPorts(cells, row, row_num, netlist):
+	for entity in row:
+		ex = float(entity.find('LambdaX').text)
+		ey = float(entity.find('LambdaY').text)
+		ew = float(entity.find('LambdaWidth').text)
+		eh = float(entity.find('LambdaHeight').text)
+		ports = GetPorts(netlist, ex, ey, ew, eh)
+		if len(ports) == 0:
+			continue
+		print(entity.find('Label').text + " ports:")
+		for port in ports:
+			ptype = port.find('Type').text
+			pname = port.find('Label').text
+			px = float(port.find('LambdaX').text)
+			py = float(port.find('LambdaY').text)
+			print ("type: " + ptype + ", name: " + pname + ", x: " + str(px - ex) + ", y: " + str(py - ey) )
 
 
 def Resize(cells, row, row_num):
