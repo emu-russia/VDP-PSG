@@ -103283,11 +103283,11 @@
   <Entity>
     <Label>A0-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>362.504028</LambdaX>
-    <LambdaY>510.0875</LambdaY>
+    <LambdaY>510.987549</LambdaY>
     <LambdaEndX>6.726202</LambdaEndX>
-    <LambdaEndY>1.42082512</LambdaEndY>
+    <LambdaEndY>2.32082486</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103303,11 +103303,11 @@
   <Entity>
     <Label>A1-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>372.8863</LambdaX>
-    <LambdaY>510.1142</LambdaY>
+    <LambdaY>511.014252</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.90000021</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103323,11 +103323,11 @@
   <Entity>
     <Label>A2-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>386.486267</LambdaX>
-    <LambdaY>510.247528</LambdaY>
+    <LambdaY>511.147583</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.90000021</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103343,11 +103343,11 @@
   <Entity>
     <Label>A6-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>449.686279</LambdaX>
-    <LambdaY>510.44754</LambdaY>
+    <LambdaY>511.4476</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1.2</LambdaEndY>
+    <LambdaEndY>2.2</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103363,11 +103363,11 @@
   <Entity>
     <Label>A7-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>471.686279</LambdaX>
-    <LambdaY>510.780853</LambdaY>
+    <LambdaY>511.3809</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.60000014</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103383,11 +103383,11 @@
   <Entity>
     <Label>A8-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>492.9804</LambdaX>
-    <LambdaY>510.552521</LambdaY>
+    <LambdaY>512.0526</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.49999976</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103403,11 +103403,11 @@
   <Entity>
     <Label>A9-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>515.2471</LambdaX>
-    <LambdaY>510.9525</LambdaY>
+    <LambdaY>512.1525</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.2</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103423,11 +103423,11 @@
   <Entity>
     <Label>A10-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>536.4471</LambdaX>
-    <LambdaY>511.085846</LambdaY>
+    <LambdaY>512.0859</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103443,11 +103443,11 @@
   <Entity>
     <Label>A11-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>558.3137</LambdaX>
-    <LambdaY>510.9525</LambdaY>
+    <LambdaY>512.052551</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103463,11 +103463,11 @@
   <Entity>
     <Label>A12-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>580.1804</LambdaX>
-    <LambdaY>510.685852</LambdaY>
+    <LambdaY>512.085938</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.39999986</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103483,11 +103483,11 @@
   <Entity>
     <Label>A13-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>602.047058</LambdaX>
-    <LambdaY>510.819183</LambdaY>
+    <LambdaY>512.1192</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103503,11 +103503,11 @@
   <Entity>
     <Label>A14-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>627.9529</LambdaX>
-    <LambdaY>510.480865</LambdaY>
+    <LambdaY>511.780945</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1.1</LambdaEndY>
+    <LambdaEndY>2.39999986</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103523,11 +103523,11 @@
   <Entity>
     <Label>A15-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>638.6195</LambdaX>
-    <LambdaY>510.9142</LambdaY>
+    <LambdaY>512.214233</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103543,11 +103543,11 @@
   <Entity>
     <Label>A16-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>652.352844</LambdaX>
-    <LambdaY>510.780884</LambdaY>
+    <LambdaY>512.080933</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103563,11 +103563,11 @@
   <Entity>
     <Label>A20-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>715.019531</LambdaX>
-    <LambdaY>509.980865</LambdaY>
+    <LambdaY>511.280945</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103583,11 +103583,11 @@
   <Entity>
     <Label>A21-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>736.847168</LambdaX>
-    <LambdaY>510.019165</LambdaY>
+    <LambdaY>511.019226</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103603,11 +103603,11 @@
   <Entity>
     <Label>A22-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>758.447144</LambdaX>
-    <LambdaY>510.419159</LambdaY>
+    <LambdaY>511.41922</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103623,11 +103623,11 @@
   <Entity>
     <Label>A23-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>780.1805</LambdaX>
-    <LambdaY>510.419159</LambdaY>
+    <LambdaY>511.41922</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103643,11 +103643,11 @@
   <Entity>
     <Label>A24-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>802.313843</LambdaX>
-    <LambdaY>510.419159</LambdaY>
+    <LambdaY>511.41922</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103663,11 +103663,11 @@
   <Entity>
     <Label>A25-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>824.313843</LambdaX>
-    <LambdaY>510.285828</LambdaY>
+    <LambdaY>511.2859</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103683,11 +103683,11 @@
   <Entity>
     <Label>A26-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>846.0471</LambdaX>
-    <LambdaY>510.419159</LambdaY>
+    <LambdaY>511.41922</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103703,11 +103703,11 @@
   <Entity>
     <Label>A27-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>868.2195</LambdaX>
-    <LambdaY>510.51416</LambdaY>
+    <LambdaY>511.614227</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103723,11 +103723,11 @@
   <Entity>
     <Label>A28-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>893.952759</LambdaX>
-    <LambdaY>510.114166</LambdaY>
+    <LambdaY>511.214233</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103743,11 +103743,11 @@
   <Entity>
     <Label>A29-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>904.4861</LambdaX>
-    <LambdaY>510.114166</LambdaY>
+    <LambdaY>511.214233</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103763,11 +103763,11 @@
   <Entity>
     <Label>A30-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>917.6861</LambdaX>
-    <LambdaY>510.2475</LambdaY>
+    <LambdaY>511.347565</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103783,11 +103783,11 @@
   <Entity>
     <Label>A34-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>979.8194</LambdaX>
-    <LambdaY>510.1142</LambdaY>
+    <LambdaY>511.914276</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.79999948</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103803,11 +103803,11 @@
   <Entity>
     <Label>A35-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1001.55273</LambdaX>
-    <LambdaY>509.980865</LambdaY>
+    <LambdaY>511.780975</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.79999948</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103823,11 +103823,11 @@
   <Entity>
     <Label>A36-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1023.6861</LambdaX>
-    <LambdaY>509.980865</LambdaY>
+    <LambdaY>511.780975</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.79999948</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103843,11 +103843,11 @@
   <Entity>
     <Label>A37-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1045.686</LambdaX>
-    <LambdaY>510.247528</LambdaY>
+    <LambdaY>512.0476</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.79999948</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103863,11 +103863,11 @@
   <Entity>
     <Label>A38-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1067.01941</LambdaX>
-    <LambdaY>509.580872</LambdaY>
+    <LambdaY>511.380981</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.79999948</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103883,11 +103883,11 @@
   <Entity>
     <Label>A39-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1089.15259</LambdaX>
-    <LambdaY>509.714172</LambdaY>
+    <LambdaY>511.514282</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.79999948</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103903,11 +103903,11 @@
   <Entity>
     <Label>A40-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1111.15259</LambdaX>
-    <LambdaY>509.714172</LambdaY>
+    <LambdaY>511.014252</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103923,11 +103923,11 @@
   <Entity>
     <Label>A41-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1132.88586</LambdaX>
-    <LambdaY>509.580841</LambdaY>
+    <LambdaY>510.88092</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103943,11 +103943,11 @@
   <Entity>
     <Label>A42-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1158.45227</LambdaX>
-    <LambdaY>509.447479</LambdaY>
+    <LambdaY>510.747559</LambdaY>
     <LambdaEndX>1.50000012</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103963,11 +103963,11 @@
   <Entity>
     <Label>A43-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1169.019</LambdaX>
-    <LambdaY>509.5808</LambdaY>
+    <LambdaY>510.8809</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -103983,11 +103983,11 @@
   <Entity>
     <Label>A44-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1182.48572</LambdaX>
-    <LambdaY>509.447479</LambdaY>
+    <LambdaY>510.747559</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104003,11 +104003,11 @@
   <Entity>
     <Label>A48-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1245.38135</LambdaX>
-    <LambdaY>509.752441</LambdaY>
+    <LambdaY>510.7525</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104023,11 +104023,11 @@
   <Entity>
     <Label>A49-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1267.51465</LambdaX>
-    <LambdaY>509.352448</LambdaY>
+    <LambdaY>510.3525</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104043,11 +104043,11 @@
   <Entity>
     <Label>A50-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1289.248</LambdaX>
-    <LambdaY>509.352448</LambdaY>
+    <LambdaY>510.3525</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104063,11 +104063,11 @@
   <Entity>
     <Label>A51-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1310.98132</LambdaX>
-    <LambdaY>509.0858</LambdaY>
+    <LambdaY>510.085846</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104083,11 +104083,11 @@
   <Entity>
     <Label>A52-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1333.11462</LambdaX>
-    <LambdaY>509.219116</LambdaY>
+    <LambdaY>510.219177</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104103,11 +104103,11 @@
   <Entity>
     <Label>A53-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1354.5813</LambdaX>
-    <LambdaY>509.0858</LambdaY>
+    <LambdaY>510.085846</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104123,11 +104123,11 @@
   <Entity>
     <Label>A54-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1376.5813</LambdaX>
-    <LambdaY>509.219116</LambdaY>
+    <LambdaY>510.219177</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104143,11 +104143,11 @@
   <Entity>
     <Label>A55-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1398.5813</LambdaX>
-    <LambdaY>509.0858</LambdaY>
+    <LambdaY>510.085846</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.00000024</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104163,11 +104163,11 @@
   <Entity>
     <Label>B12-comp_strong</Label>
     <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>29.0667114</LambdaHeight>
-    <LambdaX>358.965271</LambdaX>
-    <LambdaY>616.687439</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>358.865265</LambdaX>
+    <LambdaY>616.7874</LambdaY>
+    <LambdaEndX>0.9</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104182,12 +104182,12 @@
   </Entity>
   <Entity>
     <Label>B6-notif0</Label>
-    <LambdaWidth>18.5333252</LambdaWidth>
-    <LambdaHeight>29.6000366</LambdaHeight>
-    <LambdaX>221.89859</LambdaX>
-    <LambdaY>616.1541</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>222.798645</LambdaX>
+    <LambdaY>616.654</LambdaY>
+    <LambdaEndX>1.90000021</LambdaEndX>
+    <LambdaEndY>1.50000012</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104202,12 +104202,12 @@
   </Entity>
   <Entity>
     <Label>B7-or</Label>
-    <LambdaWidth>17.06668</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
-    <LambdaX>240.565247</LambdaX>
-    <LambdaY>616.1541</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>241.065277</LambdaX>
+    <LambdaY>616.454041</LambdaY>
+    <LambdaEndX>1.50000012</LambdaEndX>
+    <LambdaEndY>1.30000007</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104222,12 +104222,12 @@
   </Entity>
   <Entity>
     <Label>B8-dlatch</Label>
-    <LambdaWidth>29.1999817</LambdaWidth>
-    <LambdaHeight>30.666687</LambdaHeight>
-    <LambdaX>258.165253</LambdaX>
-    <LambdaY>615.6208</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>258.7653</LambdaX>
+    <LambdaY>615.720764</LambdaY>
+    <LambdaEndX>1.60000014</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104242,12 +104242,12 @@
   </Entity>
   <Entity>
     <Label>B9-notif0</Label>
-    <LambdaWidth>17.6000061</LambdaWidth>
-    <LambdaHeight>30.666687</LambdaHeight>
-    <LambdaX>290.165253</LambdaX>
-    <LambdaY>615.6208</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>290.8653</LambdaX>
+    <LambdaY>615.720764</LambdaY>
+    <LambdaEndX>1.70000017</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104262,12 +104262,12 @@
   </Entity>
   <Entity>
     <Label>B10-or</Label>
-    <LambdaWidth>17.4666748</LambdaWidth>
-    <LambdaHeight>30.4000244</LambdaHeight>
-    <LambdaX>308.031921</LambdaX>
-    <LambdaY>615.887451</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>308.631958</LambdaX>
+    <LambdaY>616.287354</LambdaY>
+    <LambdaEndX>1.60000014</LambdaEndX>
+    <LambdaEndY>1.4000001</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104282,11 +104282,11 @@
   </Entity>
   <Entity>
     <Label>B11-dlatch</Label>
-    <LambdaWidth>30.93335</LambdaWidth>
-    <LambdaHeight>29.2000122</LambdaHeight>
-    <LambdaX>326.298584</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>326.4986</LambdaX>
     <LambdaY>616.687439</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104302,8 +104302,8 @@
   </Entity>
   <Entity>
     <Label>B5-dlatch</Label>
-    <LambdaWidth>28.8000031</LambdaWidth>
-    <LambdaHeight>29.5999756</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>190.965256</LambdaX>
     <LambdaY>616.0209</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104322,11 +104322,11 @@
   </Entity>
   <Entity>
     <Label>B4-or</Label>
-    <LambdaWidth>16.6666565</LambdaWidth>
-    <LambdaHeight>29.06665</LambdaHeight>
-    <LambdaX>172.831924</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>173.131943</LambdaX>
     <LambdaY>616.420837</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104342,12 +104342,12 @@
   </Entity>
   <Entity>
     <Label>B3-notif0</Label>
-    <LambdaWidth>18</LambdaWidth>
-    <LambdaHeight>28.7999878</LambdaHeight>
-    <LambdaX>153.365265</LambdaX>
-    <LambdaY>616.420837</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>154.465332</LambdaX>
+    <LambdaY>616.5208</LambdaY>
+    <LambdaEndX>2.10000014</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104362,12 +104362,12 @@
   </Entity>
   <Entity>
     <Label>B2-dlatch</Label>
-    <LambdaWidth>29.2000046</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>122.298592</LambdaX>
-    <LambdaY>616.420837</LambdaY>
+    <LambdaY>616.9207</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.50000012</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104382,12 +104382,12 @@
   </Entity>
   <Entity>
     <Label>B1-or</Label>
-    <LambdaWidth>15.4666672</LambdaWidth>
-    <LambdaHeight>29.0667114</LambdaHeight>
-    <LambdaX>105.231918</LambdaX>
-    <LambdaY>616.954163</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>104.931923</LambdaX>
+    <LambdaY>616.7542</LambdaY>
+    <LambdaEndX>0.6999999</LambdaEndX>
+    <LambdaEndY>0.799999952</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104402,12 +104402,12 @@
   </Entity>
   <Entity>
     <Label>B0-notif0</Label>
-    <LambdaWidth>18.5333252</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
-    <LambdaX>84.8319244</LambdaX>
-    <LambdaY>616.5542</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>86.93189</LambdaX>
+    <LambdaY>616.8541</LambdaY>
+    <LambdaEndX>3.09999919</LambdaEndX>
+    <LambdaEndY>1.30000007</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104422,12 +104422,12 @@
   </Entity>
   <Entity>
     <Label>B13-notif0</Label>
-    <LambdaWidth>18.5333252</LambdaWidth>
-    <LambdaHeight>29.4666748</LambdaHeight>
-    <LambdaX>385.498566</LambdaX>
-    <LambdaY>616.821045</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>387.198669</LambdaX>
+    <LambdaY>616.6211</LambdaY>
+    <LambdaEndX>2.69999957</LambdaEndX>
+    <LambdaEndY>0.799999952</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -104442,11 +104442,11 @@
   </Entity>
   <Entity>
     <Label>B14-or</Label>
-    <LambdaWidth>16.3999939</LambdaWidth>
-    <LambdaHeight>28.7999878</LambdaHeight>
-    <LambdaX>405.6319</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>405.4319</LambdaX>
     <LambdaY>616.9544</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104462,8 +104462,8 @@
   </Entity>
   <Entity>
     <Label>B15-dlatch</Label>
-    <LambdaWidth>30.93335</LambdaWidth>
-    <LambdaHeight>29.4666748</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>422.698547</LambdaX>
     <LambdaY>616.5544</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104482,11 +104482,11 @@
   </Entity>
   <Entity>
     <Label>B16-notif0</Label>
-    <LambdaWidth>18.666626</LambdaWidth>
-    <LambdaHeight>28.8000488</LambdaHeight>
-    <LambdaX>460.565247</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>461.965332</LambdaX>
     <LambdaY>616.821045</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.39999986</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104502,8 +104502,8 @@
   </Entity>
   <Entity>
     <Label>B17-or</Label>
-    <LambdaWidth>17.06665</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>480.165222</LambdaX>
     <LambdaY>616.5544</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104522,8 +104522,8 @@
   </Entity>
   <Entity>
     <Label>B18-dlatch</Label>
-    <LambdaWidth>30</LambdaWidth>
-    <LambdaHeight>30.1333618</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>497.89856</LambdaX>
     <LambdaY>616.5544</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104542,11 +104542,11 @@
   </Entity>
   <Entity>
     <Label>B19-notif0</Label>
-    <LambdaWidth>18.1333</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
-    <LambdaX>535.232</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>536.5317</LambdaX>
     <LambdaY>616.8211</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.3</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104562,11 +104562,11 @@
   </Entity>
   <Entity>
     <Label>B20-or</Label>
-    <LambdaWidth>16.1333618</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
-    <LambdaX>555.3653</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>554.765442</LambdaX>
     <LambdaY>617.2211</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.399999917</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104582,8 +104582,8 @@
   </Entity>
   <Entity>
     <Label>B21-dlatch</Label>
-    <LambdaWidth>29.333374</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>572.431946</LambdaX>
     <LambdaY>617.2211</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104602,11 +104602,11 @@
   </Entity>
   <Entity>
     <Label>B22-notif0</Label>
-    <LambdaWidth>18.666687</LambdaWidth>
-    <LambdaHeight>29.4666748</LambdaHeight>
-    <LambdaX>609.231934</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>610.9315</LambdaX>
     <LambdaY>617.087769</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.69999957</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104622,8 +104622,8 @@
   </Entity>
   <Entity>
     <Label>B23-or</Label>
-    <LambdaWidth>17.2000122</LambdaWidth>
-    <LambdaHeight>29.6000366</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>629.3653</LambdaX>
     <LambdaY>617.087769</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104642,8 +104642,8 @@
   </Entity>
   <Entity>
     <Label>B24-dlatch</Label>
-    <LambdaWidth>29.333374</LambdaWidth>
-    <LambdaHeight>29.6000366</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>647.231934</LambdaX>
     <LambdaY>617.087769</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104662,8 +104662,8 @@
   </Entity>
   <Entity>
     <Label>B25-comp_strong</Label>
-    <LambdaWidth>15.7332764</LambdaWidth>
-    <LambdaHeight>29.6000366</LambdaHeight>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>678.9015</LambdaX>
     <LambdaY>617.0455</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104682,11 +104682,11 @@
   </Entity>
   <Entity>
     <Label>B26-notif0</Label>
-    <LambdaWidth>18.1333</LambdaWidth>
-    <LambdaHeight>29.4666748</LambdaHeight>
-    <LambdaX>705.4348</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>706.7345</LambdaX>
     <LambdaY>617.4455</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.3</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104702,8 +104702,8 @@
   </Entity>
   <Entity>
     <Label>B27-or</Label>
-    <LambdaWidth>16.1333618</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>725.1681</LambdaX>
     <LambdaY>617.4455</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104722,8 +104722,8 @@
   </Entity>
   <Entity>
     <Label>B28-dlatch</Label>
-    <LambdaWidth>30.2666626</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>742.10144</LambdaX>
     <LambdaY>617.5788</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104742,11 +104742,11 @@
   </Entity>
   <Entity>
     <Label>B29-notif0</Label>
-    <LambdaWidth>18.4000244</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
-    <LambdaX>779.631836</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>780.6316</LambdaX>
     <LambdaY>617.354553</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.00000024</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104762,8 +104762,8 @@
   </Entity>
   <Entity>
     <Label>B30-or</Label>
-    <LambdaWidth>16.666687</LambdaWidth>
-    <LambdaHeight>29.06665</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>799.3652</LambdaX>
     <LambdaY>617.221252</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104782,8 +104782,8 @@
   </Entity>
   <Entity>
     <Label>B31-dlatch</Label>
-    <LambdaWidth>30.5333252</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>817.0985</LambdaX>
     <LambdaY>617.0879</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104802,11 +104802,11 @@
   </Entity>
   <Entity>
     <Label>B32-notif0</Label>
-    <LambdaWidth>18.3999634</LambdaWidth>
-    <LambdaHeight>29.0667114</LambdaHeight>
-    <LambdaX>855.0985</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>855.9983</LambdaX>
     <LambdaY>617.354553</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.90000021</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104822,8 +104822,8 @@
   </Entity>
   <Entity>
     <Label>B33-or</Label>
-    <LambdaWidth>16.4000244</LambdaWidth>
-    <LambdaHeight>29.6000366</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>874.6985</LambdaX>
     <LambdaY>617.354553</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104842,8 +104842,8 @@
   </Entity>
   <Entity>
     <Label>B34-dlatch</Label>
-    <LambdaWidth>29.5999756</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>892.0318</LambdaX>
     <LambdaY>616.9546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104862,11 +104862,11 @@
   </Entity>
   <Entity>
     <Label>B35-notif0</Label>
-    <LambdaWidth>18.5333862</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
-    <LambdaX>929.6318</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>931.1314</LambdaX>
     <LambdaY>616.6879</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.49999976</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104882,8 +104882,8 @@
   </Entity>
   <Entity>
     <Label>B36-or</Label>
-    <LambdaWidth>16.4000244</LambdaWidth>
-    <LambdaHeight>29.8666382</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>949.3651</LambdaX>
     <LambdaY>617.087952</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104902,8 +104902,8 @@
   </Entity>
   <Entity>
     <Label>B37-dlatch</Label>
-    <LambdaWidth>29.2000122</LambdaWidth>
-    <LambdaHeight>29.4666748</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>966.8318</LambdaX>
     <LambdaY>617.087952</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104922,11 +104922,11 @@
   </Entity>
   <Entity>
     <Label>B38-comp_strong</Label>
-    <LambdaWidth>14.3999634</LambdaWidth>
-    <LambdaHeight>29.06665</LambdaHeight>
-    <LambdaX>998.2985</LambdaX>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>997.8986</LambdaX>
     <LambdaY>617.4881</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104942,11 +104942,11 @@
   </Entity>
   <Entity>
     <Label>B39-notif0</Label>
-    <LambdaWidth>17.333252</LambdaWidth>
-    <LambdaHeight>29.1999512</LambdaHeight>
-    <LambdaX>1025.36523</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1025.96509</LambdaX>
     <LambdaY>617.3548</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -104962,8 +104962,8 @@
   </Entity>
   <Entity>
     <Label>B40-or</Label>
-    <LambdaWidth>16.666748</LambdaWidth>
-    <LambdaHeight>29.06665</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1044.29846</LambdaX>
     <LambdaY>617.3548</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -104982,8 +104982,8 @@
   </Entity>
   <Entity>
     <Label>B41-dlatch</Label>
-    <LambdaWidth>28.666748</LambdaWidth>
-    <LambdaHeight>28.93335</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1061.89844</LambdaX>
     <LambdaY>617.221436</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105002,11 +105002,11 @@
   </Entity>
   <Entity>
     <Label>B42-notif0</Label>
-    <LambdaWidth>16.93335</LambdaWidth>
-    <LambdaHeight>28.7999878</LambdaHeight>
-    <LambdaX>1100.36829</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1100.96814</LambdaX>
     <LambdaY>617.311768</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105022,8 +105022,8 @@
   </Entity>
   <Entity>
     <Label>B43-or</Label>
-    <LambdaWidth>16.1333</LambdaWidth>
-    <LambdaHeight>28.93335</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1119.30164</LambdaX>
     <LambdaY>617.0451</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105042,8 +105042,8 @@
   </Entity>
   <Entity>
     <Label>B44-dlatch</Label>
-    <LambdaWidth>29.4666748</LambdaWidth>
-    <LambdaHeight>29.4666748</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1136.50159</LambdaX>
     <LambdaY>616.5118</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105062,11 +105062,11 @@
   </Entity>
   <Entity>
     <Label>B45-notif0</Label>
-    <LambdaWidth>17.333374</LambdaWidth>
-    <LambdaHeight>29.0667114</LambdaHeight>
-    <LambdaX>1175.03491</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1175.53479</LambdaX>
     <LambdaY>616.6451</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105082,8 +105082,8 @@
   </Entity>
   <Entity>
     <Label>B46-or</Label>
-    <LambdaWidth>17.2000732</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1193.16821</LambdaX>
     <LambdaY>616.3784</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105102,8 +105102,8 @@
   </Entity>
   <Entity>
     <Label>B47-dlatch</Label>
-    <LambdaWidth>28.8000488</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1211.63171</LambdaX>
     <LambdaY>616.021667</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105122,11 +105122,11 @@
   </Entity>
   <Entity>
     <Label>B48-notif0</Label>
-    <LambdaWidth>18.2667236</LambdaWidth>
-    <LambdaHeight>28.93335</LambdaHeight>
-    <LambdaX>1248.69836</LambdaX>
+    <LambdaWidth>16.53</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1250.098</LambdaX>
     <LambdaY>616.421631</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.39999986</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBusSupp</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105142,8 +105142,8 @@
   </Entity>
   <Entity>
     <Label>B49-or</Label>
-    <LambdaWidth>16.7999268</LambdaWidth>
-    <LambdaHeight>29.7333374</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1268.43176</LambdaX>
     <LambdaY>616.154968</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105162,11 +105162,11 @@
   </Entity>
   <Entity>
     <Label>B50-dlatch</Label>
-    <LambdaWidth>29.7332764</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
-    <LambdaX>1285.76514</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1285.86511</LambdaX>
     <LambdaY>616.021667</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105182,8 +105182,8 @@
   </Entity>
   <Entity>
     <Label>B51-comp_strong</Label>
-    <LambdaWidth>15.7332764</LambdaWidth>
-    <LambdaHeight>30.1333618</LambdaHeight>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1318.29846</LambdaX>
     <LambdaY>615.8883</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105202,11 +105202,11 @@
   </Entity>
   <Entity>
     <Label>B52-not_strong</Label>
-    <LambdaWidth>10.3999023</LambdaWidth>
-    <LambdaHeight>28.93335</LambdaHeight>
-    <LambdaX>1339.76514</LambdaX>
+    <LambdaWidth>9.3</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1340.365</LambdaX>
     <LambdaY>616.421631</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105222,11 +105222,11 @@
   </Entity>
   <Entity>
     <Label>C0-dlatch</Label>
-    <LambdaWidth>30.2857132</LambdaWidth>
-    <LambdaHeight>29.8571777</LambdaHeight>
-    <LambdaX>61.4156876</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>62.2156754</LambdaX>
     <LambdaY>709.0686</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.80000019</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105242,11 +105242,11 @@
   </Entity>
   <Entity>
     <Label>C1-and</Label>
-    <LambdaWidth>17.0000076</LambdaWidth>
-    <LambdaHeight>29.7142944</LambdaHeight>
-    <LambdaX>92.7014</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>93.1013947</LambdaX>
     <LambdaY>709.2115</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105262,11 +105262,11 @@
   </Entity>
   <Entity>
     <Label>C2-and</Label>
-    <LambdaWidth>16.857132</LambdaWidth>
-    <LambdaHeight>29.4285889</LambdaHeight>
-    <LambdaX>110.272835</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>110.872826</LambdaX>
     <LambdaY>709.4972</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105282,8 +105282,8 @@
   </Entity>
   <Entity>
     <Label>C3-comp_strong</Label>
-    <LambdaWidth>15.5714417</LambdaWidth>
-    <LambdaHeight>29.8571167</LambdaHeight>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>132.272827</LambdaX>
     <LambdaY>709.2115</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105302,12 +105302,12 @@
   </Entity>
   <Entity>
     <Label>C4-dlatch</Label>
-    <LambdaWidth>30.7142639</LambdaWidth>
-    <LambdaHeight>29.8571777</LambdaHeight>
-    <LambdaX>149.844269</LambdaX>
-    <LambdaY>709.3543</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>150.744324</LambdaX>
+    <LambdaY>709.4543</LambdaY>
+    <LambdaEndX>1.90000021</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -105322,11 +105322,11 @@
   </Entity>
   <Entity>
     <Label>C5-and</Label>
-    <LambdaWidth>17.2857056</LambdaWidth>
-    <LambdaHeight>29.1428223</LambdaHeight>
-    <LambdaX>180.987122</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>181.687164</LambdaX>
     <LambdaY>709.6401</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.70000017</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105342,12 +105342,12 @@
   </Entity>
   <Entity>
     <Label>C6-dlatch</Label>
-    <LambdaWidth>29.5714417</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
-    <LambdaX>200.558533</LambdaX>
-    <LambdaY>709.7831</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>200.958557</LambdaX>
+    <LambdaY>709.883057</LambdaY>
+    <LambdaEndX>1.4000001</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -105362,8 +105362,8 @@
   </Entity>
   <Entity>
     <Label>C7-dlatch</Label>
-    <LambdaWidth>29.1428528</LambdaWidth>
-    <LambdaHeight>29.7142334</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>233.41568</LambdaX>
     <LambdaY>709.4974</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105382,8 +105382,8 @@
   </Entity>
   <Entity>
     <Label>C8-and</Label>
-    <LambdaWidth>16.5714111</LambdaWidth>
-    <LambdaHeight>28.4285889</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>263.987122</LambdaX>
     <LambdaY>710.2116</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105402,8 +105402,8 @@
   </Entity>
   <Entity>
     <Label>C9-dlatch</Label>
-    <LambdaWidth>28.5714111</LambdaWidth>
-    <LambdaHeight>28.7142944</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>283.987122</LambdaX>
     <LambdaY>710.2116</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105422,11 +105422,11 @@
   </Entity>
   <Entity>
     <Label>C10-dlatch</Label>
-    <LambdaWidth>29.7142639</LambdaWidth>
-    <LambdaHeight>28.7142944</LambdaHeight>
-    <LambdaX>315.701416</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>315.901428</LambdaX>
     <LambdaY>710.2116</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105442,8 +105442,8 @@
   </Entity>
   <Entity>
     <Label>C11-and</Label>
-    <LambdaWidth>17.1428528</LambdaWidth>
-    <LambdaHeight>28.4285889</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>346.558533</LambdaX>
     <LambdaY>710.2116</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105462,11 +105462,11 @@
   </Entity>
   <Entity>
     <Label>C12-dlatch</Label>
-    <LambdaWidth>29.5714111</LambdaWidth>
-    <LambdaHeight>29.1428833</LambdaHeight>
-    <LambdaX>365.727173</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>365.9272</LambdaX>
     <LambdaY>710.3598</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105482,8 +105482,8 @@
   </Entity>
   <Entity>
     <Label>C13-dlatch</Label>
-    <LambdaWidth>29.2857361</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>398.155731</LambdaX>
     <LambdaY>710.3598</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105502,11 +105502,11 @@
   </Entity>
   <Entity>
     <Label>C14-and</Label>
-    <LambdaWidth>16.8571167</LambdaWidth>
-    <LambdaHeight>28.7142334</LambdaHeight>
-    <LambdaX>428.441467</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>428.641479</LambdaX>
     <LambdaY>710.217</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105522,11 +105522,11 @@
   </Entity>
   <Entity>
     <Label>C17-dlatch</Label>
-    <LambdaWidth>28.1428528</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
-    <LambdaX>477.870026</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>477.77002</LambdaX>
     <LambdaY>710.0741</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.9</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105542,11 +105542,11 @@
   </Entity>
   <Entity>
     <Label>C15-or</Label>
-    <LambdaWidth>16.5714111</LambdaWidth>
-    <LambdaHeight>29.7142944</LambdaHeight>
-    <LambdaX>446.4157</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>446.515717</LambdaX>
     <LambdaY>709.6402</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105563,10 +105563,10 @@
   <Entity>
     <Label>C16-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>464.387146</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>464.487152</LambdaX>
     <LambdaY>709.725952</LambdaY>
-    <LambdaEndX>1.4000001</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>0.799999952</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105582,11 +105582,11 @@
   </Entity>
   <Entity>
     <Label>C18-and</Label>
-    <LambdaWidth>17.2857056</LambdaWidth>
-    <LambdaHeight>29.5714722</LambdaHeight>
-    <LambdaX>506.987122</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>507.387146</LambdaX>
     <LambdaY>709.9259</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105602,11 +105602,11 @@
   </Entity>
   <Entity>
     <Label>C19-or</Label>
-    <LambdaWidth>17.1428833</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
-    <LambdaX>524.7014</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>525.001343</LambdaX>
     <LambdaY>709.4974</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105622,11 +105622,11 @@
   </Entity>
   <Entity>
     <Label>C20-dlatch</Label>
-    <LambdaWidth>29.7142334</LambdaWidth>
-    <LambdaHeight>29.7142944</LambdaHeight>
-    <LambdaX>543.5586</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>544.158447</LambdaX>
     <LambdaY>709.7831</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105642,8 +105642,8 @@
   </Entity>
   <Entity>
     <Label>C21-and</Label>
-    <LambdaWidth>16.5714111</LambdaWidth>
-    <LambdaHeight>29.4285889</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>574.4414</LambdaX>
     <LambdaY>710.0741</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105662,11 +105662,11 @@
   </Entity>
   <Entity>
     <Label>C22-or</Label>
-    <LambdaWidth>16.8571167</LambdaWidth>
-    <LambdaHeight>29.4285278</LambdaHeight>
-    <LambdaX>592.1557</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>592.2557</LambdaX>
     <LambdaY>710.217</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105682,11 +105682,11 @@
   </Entity>
   <Entity>
     <Label>C23-dlatch</Label>
-    <LambdaWidth>29.7142944</LambdaWidth>
-    <LambdaHeight>29.5714111</LambdaHeight>
-    <LambdaX>611.4414</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>611.741333</LambdaX>
     <LambdaY>710.0741</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105702,11 +105702,11 @@
   </Entity>
   <Entity>
     <Label>C24-and</Label>
-    <LambdaWidth>17</LambdaWidth>
-    <LambdaHeight>29.5714111</LambdaHeight>
-    <LambdaX>641.87</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>642.2699</LambdaX>
     <LambdaY>709.7884</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105722,11 +105722,11 @@
   </Entity>
   <Entity>
     <Label>C25-or</Label>
-    <LambdaWidth>17</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
-    <LambdaX>659.87</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>660.1699</LambdaX>
     <LambdaY>710.217</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105743,7 +105743,7 @@
   <Entity>
     <Label>C26-comp_strong</Label>
     <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>677.4414</LambdaX>
     <LambdaY>710.217</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -105763,10 +105763,10 @@
   <Entity>
     <Label>C27-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>698.5155</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>698.715454</LambdaX>
     <LambdaY>709.6118</LambdaY>
-    <LambdaEndX>2.10000014</LambdaEndX>
+    <LambdaEndX>2.3</LambdaEndX>
     <LambdaEndY>0.399999917</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105783,11 +105783,11 @@
   <Entity>
     <Label>C30-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>749.272949</LambdaX>
-    <LambdaY>710.2117</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>749.5729</LambdaX>
+    <LambdaY>709.511841</LambdaY>
+    <LambdaEndX>1.30000007</LambdaEndX>
+    <LambdaEndY>0.299999923</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -105802,11 +105802,11 @@
   </Entity>
   <Entity>
     <Label>C33-or</Label>
-    <LambdaWidth>17</LambdaWidth>
+    <LambdaWidth>16.46</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>799.701538</LambdaX>
+    <LambdaX>800.10144</LambdaX>
     <LambdaY>710.354553</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105822,11 +105822,11 @@
   </Entity>
   <Entity>
     <Label>C28-aoi21</Label>
-    <LambdaWidth>16.7142944</LambdaWidth>
-    <LambdaHeight>29.2857666</LambdaHeight>
-    <LambdaX>709.558655</LambdaX>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>709.4587</LambdaX>
     <LambdaY>710.0688</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.9</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105842,11 +105842,11 @@
   </Entity>
   <Entity>
     <Label>C29-and3</Label>
-    <LambdaWidth>21.1428833</LambdaWidth>
-    <LambdaHeight>29.1428223</LambdaHeight>
-    <LambdaX>726.9872</LambdaX>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>727.2871</LambdaX>
     <LambdaY>710.354553</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105862,11 +105862,11 @@
   </Entity>
   <Entity>
     <Label>C31-aoi21</Label>
-    <LambdaWidth>16.5714722</LambdaWidth>
-    <LambdaHeight>29.5714111</LambdaHeight>
-    <LambdaX>760.130066</LambdaX>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>759.9301</LambdaX>
     <LambdaY>710.354553</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105882,11 +105882,11 @@
   </Entity>
   <Entity>
     <Label>C32-and3</Label>
-    <LambdaWidth>21.7142334</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
-    <LambdaX>777.272949</LambdaX>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>777.8728</LambdaX>
     <LambdaY>710.2117</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105903,7 +105903,7 @@
   <Entity>
     <Label>C34-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>817.687</LambdaX>
     <LambdaY>709.7548</LambdaY>
     <LambdaEndX>1.70000017</LambdaEndX>
@@ -105922,11 +105922,11 @@
   </Entity>
   <Entity>
     <Label>C35-and</Label>
-    <LambdaWidth>17</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
-    <LambdaX>827.9872</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>828.487061</LambdaX>
     <LambdaY>710.4975</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105942,11 +105942,11 @@
   </Entity>
   <Entity>
     <Label>C36-and</Label>
-    <LambdaWidth>17.7142334</LambdaWidth>
-    <LambdaHeight>29.1428223</LambdaHeight>
-    <LambdaX>845.5586</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>846.4584</LambdaX>
     <LambdaY>710.3547</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.90000021</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -105963,11 +105963,11 @@
   <Entity>
     <Label>C37-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>863.9872</LambdaX>
-    <LambdaY>710.3547</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>864.2871</LambdaX>
+    <LambdaY>709.3549</LambdaY>
+    <LambdaEndX>1.30000007</LambdaEndX>
+    <LambdaEndY>-7.4505806E-08</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -105982,11 +105982,11 @@
   </Entity>
   <Entity>
     <Label>C38-aoi21</Label>
-    <LambdaWidth>16.4285889</LambdaWidth>
-    <LambdaHeight>29.4285889</LambdaHeight>
-    <LambdaX>875.13</LambdaX>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>874.7301</LambdaX>
     <LambdaY>709.9261</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106002,11 +106002,11 @@
   </Entity>
   <Entity>
     <Label>C39-and3</Label>
-    <LambdaWidth>20.7142334</LambdaWidth>
-    <LambdaHeight>29</LambdaHeight>
-    <LambdaX>893.0128</LambdaX>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>892.912842</LambdaX>
     <LambdaY>710.074</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.9</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106022,8 +106022,8 @@
   </Entity>
   <Entity>
     <Label>C40-and</Label>
-    <LambdaWidth>16.5714111</LambdaWidth>
-    <LambdaHeight>28.7142334</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>914.5842</LambdaX>
     <LambdaY>710.216858</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -106042,11 +106042,11 @@
   </Entity>
   <Entity>
     <Label>C41-and</Label>
-    <LambdaWidth>17</LambdaWidth>
-    <LambdaHeight>28.4285889</LambdaHeight>
-    <LambdaX>931.869934</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>932.4698</LambdaX>
     <LambdaY>710.3597</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106063,7 +106063,7 @@
   <Entity>
     <Label>C42-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>950.384033</LambdaX>
     <LambdaY>709.517</LambdaY>
     <LambdaEndX>1.80000019</LambdaEndX>
@@ -106082,11 +106082,11 @@
   </Entity>
   <Entity>
     <Label>C43-aoi21</Label>
-    <LambdaWidth>16.1428833</LambdaWidth>
-    <LambdaHeight>29.1428833</LambdaHeight>
-    <LambdaX>961.2731</LambdaX>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>961.0731</LambdaX>
     <LambdaY>710.211731</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106102,11 +106102,11 @@
   </Entity>
   <Entity>
     <Label>C44-and3</Label>
-    <LambdaWidth>21.1428833</LambdaWidth>
-    <LambdaHeight>29.2857666</LambdaHeight>
-    <LambdaX>978.2731</LambdaX>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>979.0729</LambdaX>
     <LambdaY>710.211731</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.80000019</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106123,7 +106123,7 @@
   <Entity>
     <Label>C45-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1001.473</LambdaX>
     <LambdaY>709.9118</LambdaY>
     <LambdaEndX>1.2</LambdaEndX>
@@ -106142,11 +106142,11 @@
   </Entity>
   <Entity>
     <Label>C46-aoi21</Label>
-    <LambdaWidth>15.8571777</LambdaWidth>
-    <LambdaHeight>29.4285278</LambdaHeight>
-    <LambdaX>1012.70166</LambdaX>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1012.50171</LambdaX>
     <LambdaY>709.7832</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106162,8 +106162,8 @@
   </Entity>
   <Entity>
     <Label>C47-and3</Label>
-    <LambdaWidth>20.1428223</LambdaWidth>
-    <LambdaHeight>29.4285278</LambdaHeight>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1029.98743</LambdaX>
     <LambdaY>709.7832</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -106182,11 +106182,11 @@
   </Entity>
   <Entity>
     <Label>C48-and</Label>
-    <LambdaWidth>17.1428223</LambdaWidth>
-    <LambdaHeight>27.8571167</LambdaHeight>
-    <LambdaX>1051.13025</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1051.53015</LambdaX>
     <LambdaY>710.0689</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106202,11 +106202,11 @@
   </Entity>
   <Entity>
     <Label>C49-and</Label>
-    <LambdaWidth>16.2857666</LambdaWidth>
-    <LambdaHeight>28.4285278</LambdaHeight>
-    <LambdaX>1069.27307</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1069.373</LambdaX>
     <LambdaY>710.0689</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106223,10 +106223,10 @@
   <Entity>
     <Label>C50-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1087.41577</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1087.51575</LambdaX>
     <LambdaY>709.4832</LambdaY>
-    <LambdaEndX>2.00000024</LambdaEndX>
+    <LambdaEndX>2.10000014</LambdaEndX>
     <LambdaEndY>0.6999999</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106242,11 +106242,11 @@
   </Entity>
   <Entity>
     <Label>C51-aoi21</Label>
-    <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>28.4285889</LambdaHeight>
-    <LambdaX>1098.55884</LambdaX>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1098.15894</LambdaX>
     <LambdaY>709.6403</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106262,11 +106262,11 @@
   </Entity>
   <Entity>
     <Label>C52-and3</Label>
-    <LambdaWidth>21.2857666</LambdaWidth>
-    <LambdaHeight>28.8571167</LambdaHeight>
-    <LambdaX>1115.27307</LambdaX>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1115.87292</LambdaX>
     <LambdaY>709.3546</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106282,11 +106282,11 @@
   </Entity>
   <Entity>
     <Label>C53-and3</Label>
-    <LambdaWidth>21.4285889</LambdaWidth>
-    <LambdaHeight>29.1428223</LambdaHeight>
-    <LambdaX>1137.27307</LambdaX>
+    <LambdaWidth>21</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1137.473</LambdaX>
     <LambdaY>709.0689</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106302,8 +106302,8 @@
   </Entity>
   <Entity>
     <Label>C54-aoi21</Label>
-    <LambdaWidth>16.2856445</LambdaWidth>
-    <LambdaHeight>29.2857056</LambdaHeight>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1159.41626</LambdaX>
     <LambdaY>709.2117</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -106323,10 +106323,10 @@
   <Entity>
     <Label>C55-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1176.97314</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1177.573</LambdaX>
     <LambdaY>708.626038</LambdaY>
-    <LambdaEndX>1.70000017</LambdaEndX>
+    <LambdaEndX>2.3</LambdaEndX>
     <LambdaEndY>0.6999999</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106342,12 +106342,12 @@
   </Entity>
   <Entity>
     <Label>C56-and3</Label>
-    <LambdaWidth>21.7142334</LambdaWidth>
+    <LambdaWidth>21</LambdaWidth>
     <LambdaHeight>30</LambdaHeight>
-    <LambdaX>1187.55908</LambdaX>
-    <LambdaY>708.7831</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaX>1187.859</LambdaX>
+    <LambdaY>708.883057</LambdaY>
+    <LambdaEndX>1.30000007</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -106362,12 +106362,12 @@
   </Entity>
   <Entity>
     <Label>C57-aoi21</Label>
-    <LambdaWidth>17.4285889</LambdaWidth>
-    <LambdaHeight>30.4285889</LambdaHeight>
-    <LambdaX>1209.51624</LambdaX>
-    <LambdaY>708.7831</LambdaY>
-    <LambdaEndX>1.1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>17.42</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1209.91614</LambdaX>
+    <LambdaY>708.983032</LambdaY>
+    <LambdaEndX>1.50000012</LambdaEndX>
+    <LambdaEndY>1.2</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -106383,10 +106383,10 @@
   <Entity>
     <Label>C58-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1228.516</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1228.616</LambdaX>
     <LambdaY>708.925964</LambdaY>
-    <LambdaEndX>2.10000014</LambdaEndX>
+    <LambdaEndX>2.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -106403,7 +106403,7 @@
   <Entity>
     <Label>C59-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1239.17334</LambdaX>
     <LambdaY>708.6402</LambdaY>
     <LambdaEndX>0.9</LambdaEndX>
@@ -106423,7 +106423,7 @@
   <Entity>
     <Label>C60-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1249.28772</LambdaX>
     <LambdaY>708.3546</LambdaY>
     <LambdaEndX>1.30000007</LambdaEndX>
@@ -106443,7 +106443,7 @@
   <Entity>
     <Label>C61-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1259.98755</LambdaX>
     <LambdaY>708.3546</LambdaY>
     <LambdaEndX>2.00000024</LambdaEndX>
@@ -106463,7 +106463,7 @@
   <Entity>
     <Label>C62-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1270.85925</LambdaX>
     <LambdaY>708.497437</LambdaY>
     <LambdaEndX>1.30000007</LambdaEndX>
@@ -106483,7 +106483,7 @@
   <Entity>
     <Label>C63-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1281.63062</LambdaX>
     <LambdaY>708.6403</LambdaY>
     <LambdaEndX>1.50000012</LambdaEndX>
@@ -106502,8 +106502,8 @@
   </Entity>
   <Entity>
     <Label>C64-nor</Label>
-    <LambdaWidth>12.7143555</LambdaWidth>
-    <LambdaHeight>29.8571167</LambdaHeight>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1292.41638</LambdaX>
     <LambdaY>708.926</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -106522,7 +106522,7 @@
   </Entity>
   <Entity>
     <Label>C65-nor</Label>
-    <LambdaWidth>13</LambdaWidth>
+    <LambdaWidth>12.53</LambdaWidth>
     <LambdaHeight>30</LambdaHeight>
     <LambdaX>1306.27356</LambdaX>
     <LambdaY>709.0689</LambdaY>
@@ -106542,8 +106542,8 @@
   </Entity>
   <Entity>
     <Label>C66-nor</Label>
-    <LambdaWidth>13.1428223</LambdaWidth>
-    <LambdaHeight>29.5714111</LambdaHeight>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1320.27356</LambdaX>
     <LambdaY>708.926</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -106562,8 +106562,8 @@
   </Entity>
   <Entity>
     <Label>C67-nor</Label>
-    <LambdaWidth>12.7142334</LambdaWidth>
-    <LambdaHeight>29.1428223</LambdaHeight>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1334.27356</LambdaX>
     <LambdaY>709.3546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107502,11 +107502,11 @@
   </Entity>
   <Entity>
     <Label>D0-dlatch</Label>
-    <LambdaWidth>29.625</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
-    <LambdaX>59.42285</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>60.4228363</LambdaX>
     <LambdaY>785.0204</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.00000024</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -107522,11 +107522,11 @@
   </Entity>
   <Entity>
     <Label>D1-dlatch</Label>
-    <LambdaWidth>28.875</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
-    <LambdaX>92.17285</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>92.5728455</LambdaX>
     <LambdaY>784.2704</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -107542,8 +107542,8 @@
   </Entity>
   <Entity>
     <Label>D2-dlatch</Label>
-    <LambdaWidth>29.25</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>124.672852</LambdaX>
     <LambdaY>784.6454</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107562,8 +107562,8 @@
   </Entity>
   <Entity>
     <Label>D3-dlatch</Label>
-    <LambdaWidth>29.875</LambdaWidth>
-    <LambdaHeight>29.75</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>156.952148</LambdaX>
     <LambdaY>784.2296</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107582,8 +107582,8 @@
   </Entity>
   <Entity>
     <Label>D4-dlatch</Label>
-    <LambdaWidth>30.5</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>189.577148</LambdaX>
     <LambdaY>784.4796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107602,8 +107602,8 @@
   </Entity>
   <Entity>
     <Label>D5-dlatch</Label>
-    <LambdaWidth>29.875</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>222.202148</LambdaX>
     <LambdaY>784.8546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107622,8 +107622,8 @@
   </Entity>
   <Entity>
     <Label>D6-dlatch</Label>
-    <LambdaWidth>29.5</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>254.327148</LambdaX>
     <LambdaY>784.7296</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107642,8 +107642,8 @@
   </Entity>
   <Entity>
     <Label>D7-dlatch</Label>
-    <LambdaWidth>28.875</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>287.452148</LambdaX>
     <LambdaY>784.6046</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107662,8 +107662,8 @@
   </Entity>
   <Entity>
     <Label>D8-dlatch</Label>
-    <LambdaWidth>29.125</LambdaWidth>
-    <LambdaHeight>28.875</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>319.327148</LambdaX>
     <LambdaY>784.8546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107682,11 +107682,11 @@
   </Entity>
   <Entity>
     <Label>D9-dlatch</Label>
-    <LambdaWidth>28.375</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
-    <LambdaX>351.827148</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>351.427124</LambdaX>
     <LambdaY>784.6046</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -107702,8 +107702,8 @@
   </Entity>
   <Entity>
     <Label>D10-dlatch</Label>
-    <LambdaWidth>29.375</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>384.077148</LambdaX>
     <LambdaY>784.1046</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107722,8 +107722,8 @@
   </Entity>
   <Entity>
     <Label>D11-dlatch</Label>
-    <LambdaWidth>29.125</LambdaWidth>
-    <LambdaHeight>29.75</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>416.452148</LambdaX>
     <LambdaY>783.8546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107742,8 +107742,8 @@
   </Entity>
   <Entity>
     <Label>D12-dlatch</Label>
-    <LambdaWidth>28.75</LambdaWidth>
-    <LambdaHeight>29.75</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>448.702148</LambdaX>
     <LambdaY>783.9796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107762,8 +107762,8 @@
   </Entity>
   <Entity>
     <Label>D13-dlatch</Label>
-    <LambdaWidth>28.625</LambdaWidth>
-    <LambdaHeight>30.25</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>480.952148</LambdaX>
     <LambdaY>784.3546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107782,8 +107782,8 @@
   </Entity>
   <Entity>
     <Label>D14-dlatch</Label>
-    <LambdaWidth>28.75</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>513.422852</LambdaX>
     <LambdaY>784.1454</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107802,8 +107802,8 @@
   </Entity>
   <Entity>
     <Label>D15-dlatch</Label>
-    <LambdaWidth>27.875</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>545.922852</LambdaX>
     <LambdaY>784.3954</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107822,11 +107822,11 @@
   </Entity>
   <Entity>
     <Label>D16-dlatch</Label>
-    <LambdaWidth>28.5</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
-    <LambdaX>577.672852</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>577.3729</LambdaX>
     <LambdaY>784.2704</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -107842,8 +107842,8 @@
   </Entity>
   <Entity>
     <Label>D17-dlatch</Label>
-    <LambdaWidth>28.625</LambdaWidth>
-    <LambdaHeight>29.75</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>610.297852</LambdaX>
     <LambdaY>784.2704</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107862,8 +107862,8 @@
   </Entity>
   <Entity>
     <Label>D18-comp_strong</Label>
-    <LambdaWidth>15</LambdaWidth>
-    <LambdaHeight>28.25</LambdaHeight>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>642.202148</LambdaX>
     <LambdaY>784.8546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107882,11 +107882,11 @@
   </Entity>
   <Entity>
     <Label>D19-comp_strong</Label>
-    <LambdaWidth>14.875</LambdaWidth>
+    <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>663.327148</LambdaX>
+    <LambdaX>663.0272</LambdaX>
     <LambdaY>784.6046</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
@@ -107902,8 +107902,8 @@
   </Entity>
   <Entity>
     <Label>D20-comp_strong</Label>
-    <LambdaWidth>14.875</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>684.327148</LambdaX>
     <LambdaY>784.9796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107922,11 +107922,11 @@
   </Entity>
   <Entity>
     <Label>D21-dlatch</Label>
-    <LambdaWidth>28.25</LambdaWidth>
-    <LambdaHeight>30.625</LambdaHeight>
-    <LambdaX>705.827148</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>705.5272</LambdaX>
     <LambdaY>783.8546</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -107942,8 +107942,8 @@
   </Entity>
   <Entity>
     <Label>D22-dlatch</Label>
-    <LambdaWidth>28</LambdaWidth>
-    <LambdaHeight>30.125</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>737.827148</LambdaX>
     <LambdaY>784.4796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107962,8 +107962,8 @@
   </Entity>
   <Entity>
     <Label>D23-dlatch</Label>
-    <LambdaWidth>28.625</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>769.827148</LambdaX>
     <LambdaY>785.1046</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -107982,11 +107982,11 @@
   </Entity>
   <Entity>
     <Label>D24-dlatch</Label>
-    <LambdaWidth>29.375</LambdaWidth>
-    <LambdaHeight>30.5</LambdaHeight>
-    <LambdaX>801.952148</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>801.6522</LambdaX>
     <LambdaY>784.8546</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108002,8 +108002,8 @@
   </Entity>
   <Entity>
     <Label>D25-dlatch</Label>
-    <LambdaWidth>28.625</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>834.327148</LambdaX>
     <LambdaY>784.8546</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108022,8 +108022,8 @@
   </Entity>
   <Entity>
     <Label>D26-dlatch</Label>
-    <LambdaWidth>29</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>866.452148</LambdaX>
     <LambdaY>784.9796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108042,8 +108042,8 @@
   </Entity>
   <Entity>
     <Label>D27-dlatch</Label>
-    <LambdaWidth>28.875</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>898.952148</LambdaX>
     <LambdaY>785.4796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108062,8 +108062,8 @@
   </Entity>
   <Entity>
     <Label>D28-dlatch</Label>
-    <LambdaWidth>28.375</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>931.547852</LambdaX>
     <LambdaY>785.7704</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108082,8 +108082,8 @@
   </Entity>
   <Entity>
     <Label>D29-dlatch</Label>
-    <LambdaWidth>28.875</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>963.672852</LambdaX>
     <LambdaY>785.5204</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108102,8 +108102,8 @@
   </Entity>
   <Entity>
     <Label>D30-dlatch</Label>
-    <LambdaWidth>27.75</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>996.297852</LambdaX>
     <LambdaY>785.3954</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108122,8 +108122,8 @@
   </Entity>
   <Entity>
     <Label>D31-dlatch</Label>
-    <LambdaWidth>28</LambdaWidth>
-    <LambdaHeight>28.875</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1027.82715</LambdaX>
     <LambdaY>785.4796</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108142,8 +108142,8 @@
   </Entity>
   <Entity>
     <Label>D32-dlatch</Label>
-    <LambdaWidth>28.875</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1059.57715</LambdaX>
     <LambdaY>785.1046</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108162,11 +108162,11 @@
   </Entity>
   <Entity>
     <Label>D33-comp_strong</Label>
-    <LambdaWidth>15.125</LambdaWidth>
+    <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>1092.29785</LambdaX>
+    <LambdaX>1091.99792</LambdaX>
     <LambdaY>785.1454</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108182,11 +108182,11 @@
   </Entity>
   <Entity>
     <Label>D34-comp_strong</Label>
-    <LambdaWidth>14.375</LambdaWidth>
+    <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>1113.42285</LambdaX>
+    <LambdaX>1113.023</LambdaX>
     <LambdaY>785.0204</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108202,11 +108202,11 @@
   </Entity>
   <Entity>
     <Label>D35-comp_strong</Label>
-    <LambdaWidth>15.125</LambdaWidth>
+    <LambdaWidth>16</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>1134.54785</LambdaX>
+    <LambdaX>1134.048</LambdaX>
     <LambdaY>784.7704</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.4999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108222,11 +108222,11 @@
   </Entity>
   <Entity>
     <Label>D36-and</Label>
-    <LambdaWidth>17.125</LambdaWidth>
-    <LambdaHeight>28.625</LambdaHeight>
-    <LambdaX>1155.42285</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1155.32288</LambdaX>
     <LambdaY>784.8954</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.9</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108242,8 +108242,8 @@
   </Entity>
   <Entity>
     <Label>D37-and</Label>
-    <LambdaWidth>16.5</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1182.29785</LambdaX>
     <LambdaY>784.6454</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108262,8 +108262,8 @@
   </Entity>
   <Entity>
     <Label>D38-and</Label>
-    <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>28.875</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1200.29785</LambdaX>
     <LambdaY>784.8954</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108282,8 +108282,8 @@
   </Entity>
   <Entity>
     <Label>D39-and</Label>
-    <LambdaWidth>16.25</LambdaWidth>
-    <LambdaHeight>28.375</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1217.67285</LambdaX>
     <LambdaY>785.0204</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108302,8 +108302,8 @@
   </Entity>
   <Entity>
     <Label>D40-dlatch</Label>
-    <LambdaWidth>28.75</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1234.79785</LambdaX>
     <LambdaY>784.8954</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108322,8 +108322,8 @@
   </Entity>
   <Entity>
     <Label>D41-dlatch</Label>
-    <LambdaWidth>29.25</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1266.92285</LambdaX>
     <LambdaY>784.6454</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108342,11 +108342,11 @@
   </Entity>
   <Entity>
     <Label>D42-dlatch</Label>
-    <LambdaWidth>27.75</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
-    <LambdaX>1300.17285</LambdaX>
+    <LambdaWidth>29.2</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1299.9729</LambdaX>
     <LambdaY>784.7704</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108362,8 +108362,8 @@
   </Entity>
   <Entity>
     <Label>D43-comp_strong</Label>
-    <LambdaWidth>15</LambdaWidth>
-    <LambdaHeight>28.875</LambdaHeight>
+    <LambdaWidth>16</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1332.04785</LambdaX>
     <LambdaY>784.5204</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108383,7 +108383,7 @@
   <Entity>
     <Label>E20-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>846.0303</LambdaX>
     <LambdaY>864.3182</LambdaY>
     <LambdaEndX>1.4000001</LambdaEndX>
@@ -108403,7 +108403,7 @@
   <Entity>
     <Label>E21-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>856.6553</LambdaX>
     <LambdaY>864.3681</LambdaY>
     <LambdaEndX>1.4000001</LambdaEndX>
@@ -108422,8 +108422,8 @@
   </Entity>
   <Entity>
     <Label>E22-sr_bit</Label>
-    <LambdaWidth>21.5</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>870.6304</LambdaX>
     <LambdaY>864.8431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108443,11 +108443,11 @@
   <Entity>
     <Label>E23-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>893.0054</LambdaX>
-    <LambdaY>865.3431</LambdaY>
+    <LambdaY>865.1431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>0.799999952</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -108463,7 +108463,7 @@
   <Entity>
     <Label>E24-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>903.8804</LambdaX>
     <LambdaY>865.2181</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108482,7 +108482,7 @@
   </Entity>
   <Entity>
     <Label>E25-sr_bit</Label>
-    <LambdaWidth>21.625</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>917.6304</LambdaX>
     <LambdaY>865.0931</LambdaY>
@@ -108503,11 +108503,11 @@
   <Entity>
     <Label>E26-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>942.4053</LambdaX>
-    <LambdaY>864.39325</LambdaY>
+    <LambdaY>864.4932</LambdaY>
     <LambdaEndX>1.4000001</LambdaEndX>
-    <LambdaEndY>0.299999923</LambdaEndY>
+    <LambdaEndY>0.399999917</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -108523,7 +108523,7 @@
   <Entity>
     <Label>E27-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>953.2554</LambdaX>
     <LambdaY>865.0931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108542,8 +108542,8 @@
   </Entity>
   <Entity>
     <Label>E28-sr_bit</Label>
-    <LambdaWidth>20.375</LambdaWidth>
-    <LambdaHeight>28.875</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>967.6304</LambdaX>
     <LambdaY>865.0931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108563,7 +108563,7 @@
   <Entity>
     <Label>E29-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>989.105347</LambdaX>
     <LambdaY>864.668152</LambdaY>
     <LambdaEndX>1.1</LambdaEndX>
@@ -108583,7 +108583,7 @@
   <Entity>
     <Label>E30-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>999.4053</LambdaX>
     <LambdaY>864.3182</LambdaY>
     <LambdaEndX>1.4000001</LambdaEndX>
@@ -108602,8 +108602,8 @@
   </Entity>
   <Entity>
     <Label>E31-sr_bit</Label>
-    <LambdaWidth>22</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1013.00537</LambdaX>
     <LambdaY>864.8431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108622,8 +108622,8 @@
   </Entity>
   <Entity>
     <Label>E32-nor3</Label>
-    <LambdaWidth>18.625</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>16.26</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1036.00537</LambdaX>
     <LambdaY>865.2181</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108643,7 +108643,7 @@
   <Entity>
     <Label>E33-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1056.74463</LambdaX>
     <LambdaY>865.0319</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108662,8 +108662,8 @@
   </Entity>
   <Entity>
     <Label>E34-sr_bit</Label>
-    <LambdaWidth>21.125</LambdaWidth>
-    <LambdaHeight>28.875</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1067.74463</LambdaX>
     <LambdaY>865.1569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108682,8 +108682,8 @@
   </Entity>
   <Entity>
     <Label>E35-sr_bit</Label>
-    <LambdaWidth>21.625</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1089.99463</LambdaX>
     <LambdaY>865.0319</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108702,7 +108702,7 @@
   </Entity>
   <Entity>
     <Label>E36-sr_bit</Label>
-    <LambdaWidth>21.5</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>1112.36963</LambdaX>
     <LambdaY>865.0319</LambdaY>
@@ -108722,12 +108722,12 @@
   </Entity>
   <Entity>
     <Label>E37-sr_bit</Label>
-    <LambdaWidth>20.875</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1134.49463</LambdaX>
-    <LambdaY>864.9069</LambdaY>
+    <LambdaY>864.806946</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>0.9</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -108742,8 +108742,8 @@
   </Entity>
   <Entity>
     <Label>E38-sr_bit</Label>
-    <LambdaWidth>21.375</LambdaWidth>
-    <LambdaHeight>28.375</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1156.36963</LambdaX>
     <LambdaY>864.7819</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108763,7 +108763,7 @@
   <Entity>
     <Label>F51-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1324.28027</LambdaX>
     <LambdaY>912.6182</LambdaY>
     <LambdaEndX>1.4000001</LambdaEndX>
@@ -108782,11 +108782,11 @@
   </Entity>
   <Entity>
     <Label>F50-nor3</Label>
-    <LambdaWidth>19.75</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
-    <LambdaX>1303.00537</LambdaX>
+    <LambdaWidth>16.26</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1305.60474</LambdaX>
     <LambdaY>913.2181</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>3.59999871</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108802,11 +108802,11 @@
   </Entity>
   <Entity>
     <Label>F49-nor3</Label>
-    <LambdaWidth>17</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
-    <LambdaX>1284.25537</LambdaX>
+    <LambdaWidth>16.26</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1285.25513</LambdaX>
     <LambdaY>912.8431</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.00000024</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108822,8 +108822,8 @@
   </Entity>
   <Entity>
     <Label>F47-and</Label>
-    <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1200.50537</LambdaX>
     <LambdaY>913.3431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108842,11 +108842,11 @@
   </Entity>
   <Entity>
     <Label>F45-and</Label>
-    <LambdaWidth>16.75</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
-    <LambdaX>1120.36963</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1120.56958</LambdaX>
     <LambdaY>913.7819</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108862,8 +108862,8 @@
   </Entity>
   <Entity>
     <Label>F46-cnt_bit</Label>
-    <LambdaWidth>61.25</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>62</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1137.99463</LambdaX>
     <LambdaY>913.9069</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108882,12 +108882,12 @@
   </Entity>
   <Entity>
     <Label>F48-cnt_bit</Label>
-    <LambdaWidth>63.25</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>62</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1217.36963</LambdaX>
-    <LambdaY>913.4069</LambdaY>
+    <LambdaY>913.5069</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -108902,11 +108902,11 @@
   </Entity>
   <Entity>
     <Label>F43-and</Label>
-    <LambdaWidth>16.5</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
-    <LambdaX>1040.00537</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1040.60522</LambdaX>
     <LambdaY>914.5931</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108922,8 +108922,8 @@
   </Entity>
   <Entity>
     <Label>F44-cnt_bit</Label>
-    <LambdaWidth>61.125</LambdaWidth>
-    <LambdaHeight>28.125</LambdaHeight>
+    <LambdaWidth>62</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1057.50537</LambdaX>
     <LambdaY>914.3431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -108942,11 +108942,11 @@
   </Entity>
   <Entity>
     <Label>F41-and</Label>
-    <LambdaWidth>16.375</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
-    <LambdaX>961.2554</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>961.1554</LambdaX>
     <LambdaY>914.0931</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.9</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108962,11 +108962,11 @@
   </Entity>
   <Entity>
     <Label>F42-cnt_bit</Label>
-    <LambdaWidth>60.375</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
-    <LambdaX>978.5054</LambdaX>
+    <LambdaWidth>62</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>978.3054</LambdaX>
     <LambdaY>914.2181</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -108982,11 +108982,11 @@
   </Entity>
   <Entity>
     <Label>F39-sr_bit</Label>
-    <LambdaWidth>21</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>925.3804</LambdaX>
+    <LambdaX>925.2804</LambdaX>
     <LambdaY>914.4681</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.9</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109002,11 +109002,11 @@
   </Entity>
   <Entity>
     <Label>F40-nor</Label>
-    <LambdaWidth>13.125</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
-    <LambdaX>946.8804</LambdaX>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>947.380249</LambdaX>
     <LambdaY>914.2181</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109022,8 +109022,8 @@
   </Entity>
   <Entity>
     <Label>F37-sr_bit</Label>
-    <LambdaWidth>20.75</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>880.7554</LambdaX>
     <LambdaY>914.0931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109042,11 +109042,11 @@
   </Entity>
   <Entity>
     <Label>F38-sr_bit</Label>
-    <LambdaWidth>21.625</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
-    <LambdaX>902.5054</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>902.9053</LambdaX>
     <LambdaY>914.0931</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109062,8 +109062,8 @@
   </Entity>
   <Entity>
     <Label>F36-sr_bit</Label>
-    <LambdaWidth>20.625</LambdaWidth>
-    <LambdaHeight>28.625</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>858.9946</LambdaX>
     <LambdaY>914.6569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109082,11 +109082,11 @@
   </Entity>
   <Entity>
     <Label>F35-sr_bit</Label>
-    <LambdaWidth>21.25</LambdaWidth>
-    <LambdaHeight>28</LambdaHeight>
-    <LambdaX>836.1196</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>836.2196</LambdaX>
     <LambdaY>914.9069</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109102,11 +109102,11 @@
   </Entity>
   <Entity>
     <Label>F34-sr_bit</Label>
-    <LambdaWidth>20.125</LambdaWidth>
-    <LambdaHeight>28</LambdaHeight>
-    <LambdaX>814.7446</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>814.4447</LambdaX>
     <LambdaY>914.9069</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109122,11 +109122,11 @@
   </Entity>
   <Entity>
     <Label>F33-sr_bit</Label>
-    <LambdaWidth>21.125</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>791.8804</LambdaX>
+    <LambdaX>792.1803</LambdaX>
     <LambdaY>914.0931</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109142,8 +109142,8 @@
   </Entity>
   <Entity>
     <Label>F32-sr_bit</Label>
-    <LambdaWidth>20.625</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>769.8804</LambdaX>
     <LambdaY>914.0931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109162,8 +109162,8 @@
   </Entity>
   <Entity>
     <Label>F31-sr_bit</Label>
-    <LambdaWidth>20.625</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>747.6304</LambdaX>
     <LambdaY>914.0931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109182,8 +109182,8 @@
   </Entity>
   <Entity>
     <Label>F30-sr_bit</Label>
-    <LambdaWidth>20.5</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>725.8696</LambdaX>
     <LambdaY>914.1569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109202,8 +109202,8 @@
   </Entity>
   <Entity>
     <Label>F29-sr_bit</Label>
-    <LambdaWidth>21.125</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>703.2446</LambdaX>
     <LambdaY>914.0319</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109222,8 +109222,8 @@
   </Entity>
   <Entity>
     <Label>F28-sr_bit</Label>
-    <LambdaWidth>21</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>681.2446</LambdaX>
     <LambdaY>913.9069</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109242,8 +109242,8 @@
   </Entity>
   <Entity>
     <Label>F27-sr_bit</Label>
-    <LambdaWidth>21.125</LambdaWidth>
-    <LambdaHeight>28.5</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>659.1196</LambdaX>
     <LambdaY>914.2819</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109262,8 +109262,8 @@
   </Entity>
   <Entity>
     <Label>F26-sr_bit</Label>
-    <LambdaWidth>21</LambdaWidth>
-    <LambdaHeight>28.625</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>636.7554</LambdaX>
     <LambdaY>914.2181</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109282,8 +109282,8 @@
   </Entity>
   <Entity>
     <Label>F25-sr_bit</Label>
-    <LambdaWidth>21.375</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>614.2554</LambdaX>
     <LambdaY>913.8431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109302,8 +109302,8 @@
   </Entity>
   <Entity>
     <Label>F24-sr_bit</Label>
-    <LambdaWidth>20.75</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>592.5054</LambdaX>
     <LambdaY>913.5931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109322,11 +109322,11 @@
   </Entity>
   <Entity>
     <Label>F23-sr_bit</Label>
-    <LambdaWidth>21.75</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
-    <LambdaX>570.0054</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>570.2053</LambdaX>
     <LambdaY>913.3431</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109342,12 +109342,12 @@
   </Entity>
   <Entity>
     <Label>F22-sr_bit</Label>
-    <LambdaWidth>20.375</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
-    <LambdaX>548.8696</LambdaX>
-    <LambdaY>912.9069</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>548.6697</LambdaX>
+    <LambdaY>913.206848</LambdaY>
+    <LambdaEndX>0.799999952</LambdaEndX>
+    <LambdaEndY>1.30000007</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -109362,12 +109362,12 @@
   </Entity>
   <Entity>
     <Label>F21-sr_bit</Label>
-    <LambdaWidth>21.375</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>526.4946</LambdaX>
-    <LambdaY>913.1569</LambdaY>
+    <LambdaY>913.456848</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.30000007</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -109382,8 +109382,8 @@
   </Entity>
   <Entity>
     <Label>F20-sr_bit</Label>
-    <LambdaWidth>20.75</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>504.619629</LambdaX>
     <LambdaY>913.6569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109402,11 +109402,11 @@
   </Entity>
   <Entity>
     <Label>F19-sr_bit</Label>
-    <LambdaWidth>20.625</LambdaWidth>
-    <LambdaHeight>28.75</LambdaHeight>
-    <LambdaX>482.869629</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>482.3696</LambdaX>
     <LambdaY>913.5319</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.4999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109422,7 +109422,7 @@
   </Entity>
   <Entity>
     <Label>F18-sr_bit</Label>
-    <LambdaWidth>21.75</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>459.869629</LambdaX>
     <LambdaY>913.2819</LambdaY>
@@ -109442,8 +109442,8 @@
   </Entity>
   <Entity>
     <Label>F17-sr_bit</Label>
-    <LambdaWidth>20.625</LambdaWidth>
-    <LambdaHeight>29.125</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>438.244629</LambdaX>
     <LambdaY>913.4069</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109462,8 +109462,8 @@
   </Entity>
   <Entity>
     <Label>F16-sr_bit</Label>
-    <LambdaWidth>21.375</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>415.744629</LambdaX>
     <LambdaY>913.1569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109482,8 +109482,8 @@
   </Entity>
   <Entity>
     <Label>F15-sr_bit</Label>
-    <LambdaWidth>20.75</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>393.505371</LambdaX>
     <LambdaY>913.3431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109502,7 +109502,7 @@
   </Entity>
   <Entity>
     <Label>F14-sr_bit</Label>
-    <LambdaWidth>21</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>371.130371</LambdaX>
     <LambdaY>913.5931</LambdaY>
@@ -109522,7 +109522,7 @@
   </Entity>
   <Entity>
     <Label>F13-sr_bit</Label>
-    <LambdaWidth>21.25</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>349.130371</LambdaX>
     <LambdaY>913.3431</LambdaY>
@@ -109542,8 +109542,8 @@
   </Entity>
   <Entity>
     <Label>F12-sr_bit</Label>
-    <LambdaWidth>21</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>326.880371</LambdaX>
     <LambdaY>913.3431</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109562,8 +109562,8 @@
   </Entity>
   <Entity>
     <Label>F11-sr_bit</Label>
-    <LambdaWidth>20.5</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>305.005371</LambdaX>
     <LambdaY>913.2181</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109582,8 +109582,8 @@
   </Entity>
   <Entity>
     <Label>F10-sr_bit</Label>
-    <LambdaWidth>20.5</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>283.005371</LambdaX>
     <LambdaY>913.4681</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109602,11 +109602,11 @@
   </Entity>
   <Entity>
     <Label>F9-sr_bit</Label>
-    <LambdaWidth>20.5</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
-    <LambdaX>261.130371</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>260.930359</LambdaX>
     <LambdaY>913.5931</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109622,8 +109622,8 @@
   </Entity>
   <Entity>
     <Label>F8-sr_bit</Label>
-    <LambdaWidth>20.875</LambdaWidth>
-    <LambdaHeight>29.75</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>238.630371</LambdaX>
     <LambdaY>913.5931</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109642,7 +109642,7 @@
   </Entity>
   <Entity>
     <Label>F7-sr_bit</Label>
-    <LambdaWidth>20.625</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>216.380371</LambdaX>
     <LambdaY>913.7181</LambdaY>
@@ -109662,11 +109662,11 @@
   </Entity>
   <Entity>
     <Label>F6-sr_bit</Label>
-    <LambdaWidth>20.125</LambdaWidth>
-    <LambdaHeight>29.375</LambdaHeight>
-    <LambdaX>194.619629</LambdaX>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>194.419617</LambdaX>
     <LambdaY>913.5319</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109682,8 +109682,8 @@
   </Entity>
   <Entity>
     <Label>F5-sr_bit</Label>
-    <LambdaWidth>20.5</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>172.244629</LambdaX>
     <LambdaY>913.6569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109702,8 +109702,8 @@
   </Entity>
   <Entity>
     <Label>F4-sr_bit</Label>
-    <LambdaWidth>20.875</LambdaWidth>
-    <LambdaHeight>29.25</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>149.869629</LambdaX>
     <LambdaY>913.1569</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109722,8 +109722,8 @@
   </Entity>
   <Entity>
     <Label>F3-sr_bit</Label>
-    <LambdaWidth>20.25</LambdaWidth>
-    <LambdaHeight>29.75</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>128.119629</LambdaX>
     <LambdaY>913.2819</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109742,8 +109742,8 @@
   </Entity>
   <Entity>
     <Label>F2-sr_bit</Label>
-    <LambdaWidth>20.5</LambdaWidth>
-    <LambdaHeight>29.875</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>106.119629</LambdaX>
     <LambdaY>913.2819</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109762,8 +109762,8 @@
   </Entity>
   <Entity>
     <Label>F1-sr_bit</Label>
-    <LambdaWidth>20.25</LambdaWidth>
-    <LambdaHeight>29.625</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>84.11963</LambdaX>
     <LambdaY>913.5319</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109782,8 +109782,8 @@
   </Entity>
   <Entity>
     <Label>F0-sr_bit</Label>
-    <LambdaWidth>20.375</LambdaWidth>
-    <LambdaHeight>28.25</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>61.99463</LambdaX>
     <LambdaY>914.2819</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109803,11 +109803,11 @@
   <Entity>
     <Label>H0-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>61.5779762</LambdaX>
-    <LambdaY>1025.707</LambdaY>
+    <LambdaY>1025.807</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>0.299999923</LambdaEndY>
+    <LambdaEndY>0.399999917</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -109822,11 +109822,11 @@
   </Entity>
   <Entity>
     <Label>G6-and</Label>
-    <LambdaWidth>17.1666718</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
-    <LambdaX>227.577988</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>227.978012</LambdaX>
     <LambdaY>971.7402</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.4000001</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109842,8 +109842,8 @@
   </Entity>
   <Entity>
     <Label>G8-and</Label>
-    <LambdaWidth>16.6666565</LambdaWidth>
-    <LambdaHeight>29.833313</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>283.911316</LambdaX>
     <LambdaY>971.573547</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -109862,11 +109862,11 @@
   </Entity>
   <Entity>
     <Label>G4-and</Label>
-    <LambdaWidth>16.8333282</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
-    <LambdaX>171.411316</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>172.111359</LambdaX>
     <LambdaY>971.7402</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.70000017</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109882,11 +109882,11 @@
   </Entity>
   <Entity>
     <Label>G2-and</Label>
-    <LambdaWidth>16.8333282</LambdaWidth>
-    <LambdaHeight>30.5</LambdaHeight>
-    <LambdaX>117.411316</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>117.211319</LambdaX>
     <LambdaY>971.40686</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109902,11 +109902,11 @@
   </Entity>
   <Entity>
     <Label>G0-and</Label>
-    <LambdaWidth>16.5000038</LambdaWidth>
+    <LambdaWidth>16.46</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>61.4113121</LambdaX>
+    <LambdaX>61.51131</LambdaX>
     <LambdaY>972.40686</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109922,12 +109922,12 @@
   </Entity>
   <Entity>
     <Label>G1-ha</Label>
-    <LambdaWidth>36.3333435</LambdaWidth>
-    <LambdaHeight>29.666687</LambdaHeight>
-    <LambdaX>79.2446442</LambdaX>
-    <LambdaY>971.7402</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>79.44464</LambdaX>
+    <LambdaY>971.840149</LambdaY>
+    <LambdaEndX>1.2</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -109942,11 +109942,11 @@
   </Entity>
   <Entity>
     <Label>G3-ha</Label>
-    <LambdaWidth>35</LambdaWidth>
-    <LambdaHeight>29.166687</LambdaHeight>
-    <LambdaX>135.077988</LambdaX>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>134.577957</LambdaX>
     <LambdaY>971.90686</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.4999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109962,11 +109962,11 @@
   </Entity>
   <Entity>
     <Label>G5-ha</Label>
-    <LambdaWidth>37.16667</LambdaWidth>
-    <LambdaHeight>28.666687</LambdaHeight>
-    <LambdaX>189.244644</LambdaX>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>190.0447</LambdaX>
     <LambdaY>971.90686</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.80000019</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -109982,11 +109982,11 @@
   </Entity>
   <Entity>
     <Label>G7-ha</Label>
-    <LambdaWidth>37.5</LambdaWidth>
-    <LambdaHeight>28.833374</LambdaHeight>
-    <LambdaX>245.411316</LambdaX>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>245.911346</LambdaX>
     <LambdaY>971.7402</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110002,11 +110002,11 @@
   </Entity>
   <Entity>
     <Label>G10-and</Label>
-    <LambdaWidth>15.8333435</LambdaWidth>
-    <LambdaHeight>29.166626</LambdaHeight>
-    <LambdaX>339.922028</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>339.622</LambdaX>
     <LambdaY>971.5932</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.6999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110022,8 +110022,8 @@
   </Entity>
   <Entity>
     <Label>G12-and</Label>
-    <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>30.166687</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>395.088684</LambdaX>
     <LambdaY>970.9265</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110042,11 +110042,11 @@
   </Entity>
   <Entity>
     <Label>G14-and</Label>
-    <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
-    <LambdaX>451.422058</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>450.922028</LambdaX>
     <LambdaY>971.4265</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.4999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110062,12 +110062,12 @@
   </Entity>
   <Entity>
     <Label>H5-and</Label>
-    <LambdaWidth>16.5</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>363.588684</LambdaX>
-    <LambdaY>1025.09314</LambdaY>
+    <LambdaY>1025.39307</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.30000007</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110082,12 +110082,12 @@
   </Entity>
   <Entity>
     <Label>H6-nor</Label>
-    <LambdaWidth>13</LambdaWidth>
-    <LambdaHeight>29.166748</LambdaHeight>
-    <LambdaX>380.588684</LambdaX>
-    <LambdaY>1025.59314</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>381.188721</LambdaX>
+    <LambdaY>1025.19324</LambdaY>
+    <LambdaEndX>1.60000014</LambdaEndX>
+    <LambdaEndY>0.5999999</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110102,8 +110102,8 @@
   </Entity>
   <Entity>
     <Label>H7-sr_bit</Label>
-    <LambdaWidth>20.666687</LambdaWidth>
-    <LambdaHeight>28.666626</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>394.588684</LambdaX>
     <LambdaY>1025.75989</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110122,8 +110122,8 @@
   </Entity>
   <Entity>
     <Label>H3-sr_bit</Label>
-    <LambdaWidth>21.5</LambdaWidth>
-    <LambdaHeight>29.833374</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>330.588684</LambdaX>
     <LambdaY>1025.42651</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110143,11 +110143,11 @@
   <Entity>
     <Label>H4-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>352.755371</LambdaX>
-    <LambdaY>1025.59314</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>352.955383</LambdaX>
+    <LambdaY>1025.29321</LambdaY>
+    <LambdaEndX>1.2</LambdaEndX>
+    <LambdaEndY>0.6999999</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110162,11 +110162,11 @@
   </Entity>
   <Entity>
     <Label>H2-dff</Label>
-    <LambdaWidth>44.8333435</LambdaWidth>
-    <LambdaHeight>29.333252</LambdaHeight>
-    <LambdaX>284.422028</LambdaX>
+    <LambdaWidth>42.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>286.92218</LambdaX>
     <LambdaY>1025.75989</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>3.49999881</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110182,11 +110182,11 @@
   </Entity>
   <Entity>
     <Label>G9-ha</Label>
-    <LambdaWidth>38.5</LambdaWidth>
-    <LambdaHeight>29.166687</LambdaHeight>
-    <LambdaX>300.755371</LambdaX>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>301.55542</LambdaX>
     <LambdaY>971.4265</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.80000019</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110202,11 +110202,11 @@
   </Entity>
   <Entity>
     <Label>G11-ha</Label>
-    <LambdaWidth>37.6666565</LambdaWidth>
-    <LambdaHeight>29.666687</LambdaHeight>
-    <LambdaX>356.255371</LambdaX>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>356.8554</LambdaX>
     <LambdaY>971.4265</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.60000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110222,8 +110222,8 @@
   </Entity>
   <Entity>
     <Label>G16-and</Label>
-    <LambdaWidth>16.5</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>506.744568</LambdaX>
     <LambdaY>971.573669</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110242,11 +110242,11 @@
   </Entity>
   <Entity>
     <Label>G18-and</Label>
-    <LambdaWidth>16.5</LambdaWidth>
-    <LambdaHeight>29.666687</LambdaHeight>
-    <LambdaX>562.7446</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>562.5447</LambdaX>
     <LambdaY>972.2403</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110263,7 +110263,7 @@
   <Entity>
     <Label>H11-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>506.744568</LambdaX>
     <LambdaY>1025.74036</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110282,12 +110282,12 @@
   </Entity>
   <Entity>
     <Label>H12-buf</Label>
-    <LambdaWidth>17.666687</LambdaWidth>
-    <LambdaHeight>29.166748</LambdaHeight>
-    <LambdaX>522.411255</LambdaX>
-    <LambdaY>1026.07361</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>17</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>522.911133</LambdaX>
+    <LambdaY>1026.17358</LambdaY>
+    <LambdaEndX>1.50000012</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110303,10 +110303,10 @@
   <Entity>
     <Label>H13-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>541.311157</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>541.411133</LambdaX>
     <LambdaY>1025.67383</LambdaY>
-    <LambdaEndX>1.4000001</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>0.09999993</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110322,12 +110322,12 @@
   </Entity>
   <Entity>
     <Label>H14-buf</Label>
-    <LambdaWidth>17.5</LambdaWidth>
-    <LambdaHeight>28.666626</LambdaHeight>
-    <LambdaX>554.0779</LambdaX>
-    <LambdaY>1026.24036</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>17</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>554.4778</LambdaX>
+    <LambdaY>1026.34033</LambdaY>
+    <LambdaEndX>1.4000001</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110343,7 +110343,7 @@
   <Entity>
     <Label>H15-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>572.911255</LambdaX>
     <LambdaY>1026.24036</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110363,7 +110363,7 @@
   <Entity>
     <Label>H16-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>587.077637</LambdaX>
     <LambdaY>1025.80713</LambdaY>
     <LambdaEndX>2.00000024</LambdaEndX>
@@ -110383,10 +110383,10 @@
   <Entity>
     <Label>H10-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>495.577942</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>495.677948</LambdaX>
     <LambdaY>1025.907</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110402,11 +110402,11 @@
   </Entity>
   <Entity>
     <Label>G13-ha</Label>
-    <LambdaWidth>38.6666565</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
-    <LambdaX>411.5779</LambdaX>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>412.878</LambdaX>
     <LambdaY>971.073669</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.3</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110422,7 +110422,7 @@
   </Entity>
   <Entity>
     <Label>G15-ha</Label>
-    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaWidth>36.5</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>468.44458</LambdaX>
     <LambdaY>971.1072</LambdaY>
@@ -110442,8 +110442,8 @@
   </Entity>
   <Entity>
     <Label>G22-lfsr_bit</Label>
-    <LambdaWidth>39</LambdaWidth>
-    <LambdaHeight>29.833313</LambdaHeight>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>689.7554</LambdaX>
     <LambdaY>972.2595</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110462,11 +110462,11 @@
   </Entity>
   <Entity>
     <Label>G21-lfsr_bit</Label>
-    <LambdaWidth>36.99994</LambdaWidth>
+    <LambdaWidth>37.5</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>650.255432</LambdaX>
+    <LambdaX>650.0555</LambdaX>
     <LambdaY>972.7595</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110482,8 +110482,8 @@
   </Entity>
   <Entity>
     <Label>G19-ha</Label>
-    <LambdaWidth>38</LambdaWidth>
-    <LambdaHeight>30.333374</LambdaHeight>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>579.755432</LambdaX>
     <LambdaY>972.092834</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110502,12 +110502,12 @@
   </Entity>
   <Entity>
     <Label>G17-ha</Label>
-    <LambdaWidth>37.833374</LambdaWidth>
-    <LambdaHeight>29.833313</LambdaHeight>
-    <LambdaX>523.422058</LambdaX>
-    <LambdaY>971.7595</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>36.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>524.4218</LambdaX>
+    <LambdaY>972.459351</LambdaY>
+    <LambdaEndX>2.00000024</LambdaEndX>
+    <LambdaEndY>1.70000017</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110522,11 +110522,11 @@
   </Entity>
   <Entity>
     <Label>G20-xor</Label>
-    <LambdaWidth>26.333374</LambdaWidth>
-    <LambdaHeight>29.166687</LambdaHeight>
-    <LambdaX>622.422058</LambdaX>
+    <LambdaWidth>25</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>623.621765</LambdaX>
     <LambdaY>972.592834</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110542,12 +110542,12 @@
   </Entity>
   <Entity>
     <Label>H17-buf</Label>
-    <LambdaWidth>17.166687</LambdaWidth>
-    <LambdaHeight>30.333374</LambdaHeight>
+    <LambdaWidth>17</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>600.588745</LambdaX>
-    <LambdaY>1026.42615</LambdaY>
+    <LambdaY>1027.026</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.60000014</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110562,12 +110562,12 @@
   </Entity>
   <Entity>
     <Label>H18-buf</Label>
-    <LambdaWidth>16.166626</LambdaWidth>
-    <LambdaHeight>29.166626</LambdaHeight>
+    <LambdaWidth>17</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>621.255432</LambdaX>
-    <LambdaY>1026.25952</LambdaY>
+    <LambdaY>1026.55945</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.30000007</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110582,12 +110582,12 @@
   </Entity>
   <Entity>
     <Label>H20-nor</Label>
-    <LambdaWidth>11.833374</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>670.922058</LambdaX>
-    <LambdaY>1026.25952</LambdaY>
+    <LambdaY>1026.15955</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>0.9</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110602,8 +110602,8 @@
   </Entity>
   <Entity>
     <Label>H22-sr_bit</Label>
-    <LambdaWidth>20.333313</LambdaWidth>
-    <LambdaHeight>28.833374</LambdaHeight>
+    <LambdaWidth>20.87</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>728.422058</LambdaX>
     <LambdaY>1026.75952</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110622,12 +110622,12 @@
   </Entity>
   <Entity>
     <Label>H19-rs</Label>
-    <LambdaWidth>30.166687</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
-    <LambdaX>639.088745</LambdaX>
-    <LambdaY>1026.42615</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>30</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>639.488647</LambdaX>
+    <LambdaY>1026.6261</LambdaY>
+    <LambdaEndX>1.4000001</LambdaEndX>
+    <LambdaEndY>1.2</LambdaEndY>
     <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110643,7 +110643,7 @@
   <Entity>
     <Label>H24-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>794.21106</LambdaX>
     <LambdaY>1025.27393</LambdaY>
     <LambdaEndX>1.30000007</LambdaEndX>
@@ -110662,12 +110662,12 @@
   </Entity>
   <Entity>
     <Label>H25-not_strong</Label>
-    <LambdaWidth>10.666687</LambdaWidth>
-    <LambdaHeight>29.666626</LambdaHeight>
-    <LambdaX>806.0778</LambdaX>
-    <LambdaY>1025.24048</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>9.3</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>806.777649</LambdaX>
+    <LambdaY>1025.94031</LambdaY>
+    <LambdaEndX>1.70000017</LambdaEndX>
+    <LambdaEndY>1.70000017</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110682,12 +110682,12 @@
   </Entity>
   <Entity>
     <Label>H26-nor3</Label>
-    <LambdaWidth>20</LambdaWidth>
-    <LambdaHeight>29.166626</LambdaHeight>
-    <LambdaX>818.911133</LambdaX>
-    <LambdaY>1026.07385</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>16.26</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>820.910645</LambdaX>
+    <LambdaY>1025.8739</LambdaY>
+    <LambdaEndX>2.99999928</LambdaEndX>
+    <LambdaEndY>0.799999952</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110702,8 +110702,8 @@
   </Entity>
   <Entity>
     <Label>H21-dff</Label>
-    <LambdaWidth>42.833313</LambdaWidth>
-    <LambdaHeight>28.833374</LambdaHeight>
+    <LambdaWidth>42.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>684.2445</LambdaX>
     <LambdaY>1026.4071</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110722,8 +110722,8 @@
   </Entity>
   <Entity>
     <Label>H23-dff</Label>
-    <LambdaWidth>42.166687</LambdaWidth>
-    <LambdaHeight>28.5</LambdaHeight>
+    <LambdaWidth>42.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>750.0778</LambdaX>
     <LambdaY>1026.74048</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110742,11 +110742,11 @@
   </Entity>
   <Entity>
     <Label>G23-lfsr_bit</Label>
-    <LambdaWidth>37</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
-    <LambdaX>731.7445</LambdaX>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>731.0447</LambdaX>
     <LambdaY>972.0738</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.299999923</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110782,11 +110782,11 @@
   </Entity>
   <Entity>
     <Label>G25-lfsr_bit</Label>
-    <LambdaWidth>37.333313</LambdaWidth>
+    <LambdaWidth>37.5</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>812.2444</LambdaX>
+    <LambdaX>811.644531</LambdaX>
     <LambdaY>972.407166</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.399999917</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110802,11 +110802,11 @@
   </Entity>
   <Entity>
     <Label>G26-lfsr_bit</Label>
-    <LambdaWidth>37</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
-    <LambdaX>852.911</LambdaX>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>852.311157</LambdaX>
     <LambdaY>972.407166</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.399999917</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110822,8 +110822,8 @@
   </Entity>
   <Entity>
     <Label>G27-lfsr_bit</Label>
-    <LambdaWidth>36.5</LambdaWidth>
-    <LambdaHeight>29.666687</LambdaHeight>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>892.911</LambdaX>
     <LambdaY>972.073853</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -110842,11 +110842,11 @@
   </Entity>
   <Entity>
     <Label>G28-lfsr_bit</Label>
-    <LambdaWidth>37.333313</LambdaWidth>
-    <LambdaHeight>28.666687</LambdaHeight>
-    <LambdaX>933.7444</LambdaX>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>933.544434</LambdaX>
     <LambdaY>973.073853</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.799999952</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110862,11 +110862,11 @@
   </Entity>
   <Entity>
     <Label>H29-nor</Label>
-    <LambdaWidth>12.666626</LambdaWidth>
-    <LambdaHeight>29.833374</LambdaHeight>
-    <LambdaX>913.84436</LambdaX>
+    <LambdaWidth>12.53</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>914.0443</LambdaX>
     <LambdaY>1026.74048</LambdaY>
-    <LambdaEndX>1.1</LambdaEndX>
+    <LambdaEndX>1.30000007</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110883,10 +110883,10 @@
   <Entity>
     <Label>H30-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>927.7775</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>927.9775</LambdaX>
     <LambdaY>1026.6073</LambdaY>
-    <LambdaEndX>1.70000017</LambdaEndX>
+    <LambdaEndX>1.90000021</LambdaEndX>
     <LambdaEndY>0.6999999</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110903,11 +110903,11 @@
   <Entity>
     <Label>H31-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>938.744263</LambdaX>
-    <LambdaY>1026.3739</LambdaY>
-    <LambdaEndX>1.50000012</LambdaEndX>
-    <LambdaEndY>0.799999952</LambdaEndY>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>938.844238</LambdaX>
+    <LambdaY>1026.47388</LambdaY>
+    <LambdaEndX>1.60000014</LambdaEndX>
+    <LambdaEndY>0.9</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110922,11 +110922,11 @@
   </Entity>
   <Entity>
     <Label>H32-not_strong</Label>
-    <LambdaWidth>12</LambdaWidth>
-    <LambdaHeight>29.166626</LambdaHeight>
-    <LambdaX>952.911</LambdaX>
+    <LambdaWidth>9.3</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>955.0105</LambdaX>
     <LambdaY>1026.57385</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>3.09999919</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110942,12 +110942,12 @@
   </Entity>
   <Entity>
     <Label>H33-not_strong</Label>
-    <LambdaWidth>10</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
-    <LambdaX>966.7444</LambdaX>
-    <LambdaY>1026.57385</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>9.3</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>966.84436</LambdaX>
+    <LambdaY>1026.67383</LambdaY>
+    <LambdaEndX>1.1</LambdaEndX>
+    <LambdaEndY>1.1</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -110963,10 +110963,10 @@
   <Entity>
     <Label>H34-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>980.210938</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>980.4109</LambdaX>
     <LambdaY>1026.80725</LambdaY>
-    <LambdaEndX>1.30000007</LambdaEndX>
+    <LambdaEndX>1.50000012</LambdaEndX>
     <LambdaEndY>0.9</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -110982,11 +110982,11 @@
   </Entity>
   <Entity>
     <Label>H36-and</Label>
-    <LambdaWidth>16.166626</LambdaWidth>
+    <LambdaWidth>16.46</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
-    <LambdaX>1014.92224</LambdaX>
+    <LambdaX>1015.02222</LambdaX>
     <LambdaY>1027.42615</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111002,11 +111002,11 @@
   </Entity>
   <Entity>
     <Label>H35-nor3</Label>
-    <LambdaWidth>18.666687</LambdaWidth>
-    <LambdaHeight>28.166626</LambdaHeight>
-    <LambdaX>995.088867</LambdaX>
+    <LambdaWidth>16.26</LambdaWidth>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>996.4885</LambdaX>
     <LambdaY>1027.25952</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.39999986</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111022,7 +111022,7 @@
   </Entity>
   <Entity>
     <Label>H38-sr_bit</Label>
-    <LambdaWidth>20.833374</LambdaWidth>
+    <LambdaWidth>20.87</LambdaWidth>
     <LambdaHeight>29</LambdaHeight>
     <LambdaX>1045.08887</LambdaX>
     <LambdaY>1027.09277</LambdaY>
@@ -111043,7 +111043,7 @@
   <Entity>
     <Label>H37-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1033.55518</LambdaX>
     <LambdaY>1026.4928</LambdaY>
     <LambdaEndX>2.79999948</LambdaEndX>
@@ -111063,10 +111063,10 @@
   <Entity>
     <Label>H40-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1090.42224</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1090.62219</LambdaX>
     <LambdaY>1026.42615</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111083,10 +111083,10 @@
   <Entity>
     <Label>H41-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1101.25562</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1101.45557</LambdaX>
     <LambdaY>1026.42615</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111102,12 +111102,12 @@
   </Entity>
   <Entity>
     <Label>H39-aon22</Label>
-    <LambdaWidth>23.166626</LambdaWidth>
-    <LambdaHeight>29.666748</LambdaHeight>
-    <LambdaX>1066.42224</LambdaX>
-    <LambdaY>1026.59277</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>23</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1066.52222</LambdaX>
+    <LambdaY>1026.99268</LambdaY>
+    <LambdaEndX>1.1</LambdaEndX>
+    <LambdaEndY>1.4000001</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -111122,11 +111122,11 @@
   </Entity>
   <Entity>
     <Label>G29-lfsr_bit</Label>
-    <LambdaWidth>37.666687</LambdaWidth>
-    <LambdaHeight>31</LambdaHeight>
-    <LambdaX>974.588867</LambdaX>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>974.188965</LambdaX>
     <LambdaY>972.926147</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111142,8 +111142,8 @@
   </Entity>
   <Entity>
     <Label>G30-lfsr_bit</Label>
-    <LambdaWidth>36.5</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1014.58887</LambdaX>
     <LambdaY>972.926147</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111182,8 +111182,8 @@
   </Entity>
   <Entity>
     <Label>G32-lfsr_bit</Label>
-    <LambdaWidth>37.166626</LambdaWidth>
-    <LambdaHeight>29.166626</LambdaHeight>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1095.411</LambdaX>
     <LambdaY>972.907166</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111202,8 +111202,8 @@
   </Entity>
   <Entity>
     <Label>G33-lfsr_bit</Label>
-    <LambdaWidth>37.666626</LambdaWidth>
-    <LambdaHeight>28.833313</LambdaHeight>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1135.74438</LambdaX>
     <LambdaY>972.407166</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111242,12 +111242,12 @@
   </Entity>
   <Entity>
     <Label>H42-and</Label>
-    <LambdaWidth>16</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1116.07764</LambdaX>
-    <LambdaY>1026.24048</LambdaY>
+    <LambdaY>1026.44043</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.2</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -111263,7 +111263,7 @@
   <Entity>
     <Label>H43-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1133.67749</LambdaX>
     <LambdaY>1025.84058</LambdaY>
     <LambdaEndX>1.60000014</LambdaEndX>
@@ -111283,10 +111283,10 @@
   <Entity>
     <Label>H44-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1144.911</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1144.51111</LambdaX>
     <LambdaY>1026.24048</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>0.5999999</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111302,8 +111302,8 @@
   </Entity>
   <Entity>
     <Label>H45-and</Label>
-    <LambdaWidth>15.333374</LambdaWidth>
-    <LambdaHeight>29.166626</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1158.57764</LambdaX>
     <LambdaY>1026.07385</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111323,10 +111323,10 @@
   <Entity>
     <Label>H46-not</Label>
     <LambdaWidth>9.33</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1175.74426</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1175.94421</LambdaX>
     <LambdaY>1025.40723</LambdaY>
-    <LambdaEndX>1.50000012</LambdaEndX>
+    <LambdaEndX>1.70000017</LambdaEndX>
     <LambdaEndY>0.4999999</LambdaEndY>
     <Type>CellNot</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111343,7 +111343,7 @@
   <Entity>
     <Label>H47-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1186.57764</LambdaX>
     <LambdaY>1026.07385</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111362,12 +111362,12 @@
   </Entity>
   <Entity>
     <Label>H48-and</Label>
-    <LambdaWidth>16.333252</LambdaWidth>
-    <LambdaHeight>29.333374</LambdaHeight>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1200.74438</LambdaX>
-    <LambdaY>1025.74048</LambdaY>
+    <LambdaY>1026.24036</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.50000012</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -111383,10 +111383,10 @@
   <Entity>
     <Label>H49-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1217.74438</LambdaX>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1217.94434</LambdaX>
     <LambdaY>1025.57385</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.2</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111402,11 +111402,11 @@
   </Entity>
   <Entity>
     <Label>H50-and</Label>
-    <LambdaWidth>17.333374</LambdaWidth>
-    <LambdaHeight>28.833374</LambdaHeight>
-    <LambdaX>1232.07764</LambdaX>
+    <LambdaWidth>16.46</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1232.17761</LambdaX>
     <LambdaY>1025.9071</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111423,10 +111423,10 @@
   <Entity>
     <Label>G35-lfsr_bit</Label>
     <LambdaWidth>37.5</LambdaWidth>
-    <LambdaHeight>29.5</LambdaHeight>
-    <LambdaX>1216.74438</LambdaX>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>1216.84436</LambdaX>
     <LambdaY>971.907043</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>1.1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
@@ -111442,8 +111442,8 @@
   </Entity>
   <Entity>
     <Label>G36-lfsr_bit</Label>
-    <LambdaWidth>36.666626</LambdaWidth>
-    <LambdaHeight>29.333313</LambdaHeight>
+    <LambdaWidth>37.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>1257.57776</LambdaX>
     <LambdaY>971.907043</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111463,7 +111463,7 @@
   <Entity>
     <Label>G37-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1297.24438</LambdaX>
     <LambdaY>972.240356</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111483,7 +111483,7 @@
   <Entity>
     <Label>G38-nand</Label>
     <LambdaWidth>12.53</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1312.07776</LambdaX>
     <LambdaY>972.240356</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -111503,11 +111503,11 @@
   <Entity>
     <Label>G39-nand3</Label>
     <LambdaWidth>16.26</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
-    <LambdaX>1326.24438</LambdaX>
-    <LambdaY>972.407043</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaHeight>30</LambdaHeight>
+    <LambdaX>1326.64429</LambdaX>
+    <LambdaY>972.307068</LambdaY>
+    <LambdaEndX>1.4000001</LambdaEndX>
+    <LambdaEndY>0.9</LambdaEndY>
     <Type>CellLogic</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115622,8 +115622,8 @@
   </Entity>
   <Entity>
     <Label>H8-cnt_bit</Label>
-    <LambdaWidth>60.7272644</LambdaWidth>
-    <LambdaHeight>30.1817627</LambdaHeight>
+    <LambdaWidth>62</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>416.411926</LambdaX>
     <LambdaY>1025.62122</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -115642,12 +115642,12 @@
   </Entity>
   <Entity>
     <Label>H9-slatch_inv</Label>
-    <LambdaWidth>16.54544</LambdaWidth>
-    <LambdaHeight>29.45459</LambdaHeight>
-    <LambdaX>478.048279</LambdaX>
-    <LambdaY>1026.16663</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaWidth>15.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>478.948334</LambdaX>
+    <LambdaY>1026.36658</LambdaY>
+    <LambdaEndX>1.90000021</LambdaEndX>
+    <LambdaEndY>1.2</LambdaEndY>
     <Type>CellLatch</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115662,12 +115662,12 @@
   </Entity>
   <Entity>
     <Label>H28-dff</Label>
-    <LambdaWidth>42.54541</LambdaWidth>
-    <LambdaHeight>29.45459</LambdaHeight>
+    <LambdaWidth>42.5</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>870.230469</LambdaX>
-    <LambdaY>1026.34851</LambdaY>
+    <LambdaY>1026.54846</LambdaY>
     <LambdaEndX>1</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.2</LambdaEndY>
     <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115682,8 +115682,8 @@
   </Entity>
   <Entity>
     <Label>H27-rs</Label>
-    <LambdaWidth>29.4545288</LambdaWidth>
-    <LambdaHeight>30</LambdaHeight>
+    <LambdaWidth>30</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>839.5032</LambdaX>
     <LambdaY>1025.8031</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -115703,11 +115703,11 @@
   <Entity>
     <Label>A3-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>400.2769</LambdaX>
-    <LambdaY>510.085663</LambdaY>
+    <LambdaY>510.985718</LambdaY>
     <LambdaEndX>2.3</LambdaEndX>
-    <LambdaEndY>0.799999952</LambdaEndY>
+    <LambdaEndY>1.70000017</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115723,11 +115723,11 @@
   <Entity>
     <Label>A4-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>415.142059</LambdaX>
-    <LambdaY>510.37265</LambdaY>
+    <LambdaY>510.9727</LambdaY>
     <LambdaEndX>1.60000014</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.60000014</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115743,11 +115743,11 @@
   <Entity>
     <Label>A5-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>430.137726</LambdaX>
-    <LambdaY>510.4596</LambdaY>
+    <LambdaY>511.259644</LambdaY>
     <LambdaEndX>1.90000021</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>1.80000019</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115763,11 +115763,11 @@
   <Entity>
     <Label>A17-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>665.803345</LambdaX>
-    <LambdaY>510.8466</LambdaY>
+    <LambdaY>512.1466</LambdaY>
     <LambdaEndX>1.60000014</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.3</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115783,11 +115783,11 @@
   <Entity>
     <Label>A18-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>680.660461</LambdaX>
-    <LambdaY>510.741821</LambdaY>
+    <LambdaY>512.0419</LambdaY>
     <LambdaEndX>1.60000014</LambdaEndX>
-    <LambdaEndY>0.799999952</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115803,11 +115803,11 @@
   <Entity>
     <Label>A19-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>695.7128</LambdaX>
-    <LambdaY>510.646576</LambdaY>
+    <LambdaY>511.946625</LambdaY>
     <LambdaEndX>1.70000017</LambdaEndX>
-    <LambdaEndY>0.799999952</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115823,11 +115823,11 @@
   <Entity>
     <Label>A31-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>931.5066</LambdaX>
-    <LambdaY>510.382355</LambdaY>
+    <LambdaY>511.482422</LambdaY>
     <LambdaEndX>2.10000014</LambdaEndX>
-    <LambdaEndY>1.1</LambdaEndY>
+    <LambdaEndY>2.2</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115843,11 +115843,11 @@
   <Entity>
     <Label>A32-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>946.444763</LambdaX>
-    <LambdaY>510.282349</LambdaY>
+    <LambdaY>511.382416</LambdaY>
     <LambdaEndX>1.80000019</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115863,11 +115863,11 @@
   <Entity>
     <Label>A33-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>961.2972</LambdaX>
-    <LambdaY>510.282349</LambdaY>
+    <LambdaY>511.382416</LambdaY>
     <LambdaEndX>1.70000017</LambdaEndX>
-    <LambdaEndY>1</LambdaEndY>
+    <LambdaEndY>2.10000014</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115883,11 +115883,11 @@
   <Entity>
     <Label>A45-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1196.31946</LambdaX>
-    <LambdaY>509.425629</LambdaY>
+    <LambdaY>510.7257</LambdaY>
     <LambdaEndX>2.00000024</LambdaEndX>
-    <LambdaEndY>0.9</LambdaEndY>
+    <LambdaEndY>2.2</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115903,11 +115903,11 @@
   <Entity>
     <Label>A46-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1210.963</LambdaX>
-    <LambdaY>509.5126</LambdaY>
+    <LambdaY>510.812683</LambdaY>
     <LambdaEndX>1.60000014</LambdaEndX>
-    <LambdaEndY>0.9</LambdaEndY>
+    <LambdaEndY>2.2</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115923,11 +115923,11 @@
   <Entity>
     <Label>A47-comp_weak</Label>
     <LambdaWidth>13.61</LambdaWidth>
-    <LambdaHeight>32</LambdaHeight>
+    <LambdaHeight>30</LambdaHeight>
     <LambdaX>1226.04553</LambdaX>
-    <LambdaY>509.773468</LambdaY>
+    <LambdaY>511.073547</LambdaY>
     <LambdaEndX>1.90000021</LambdaEndX>
-    <LambdaEndY>0.9</LambdaEndY>
+    <LambdaEndY>2.2</LambdaEndY>
     <Type>CellBuffer</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
@@ -115942,8 +115942,8 @@
   </Entity>
   <Entity>
     <Label>E0-aon2222</Label>
-    <LambdaWidth>45.4117661</LambdaWidth>
-    <LambdaHeight>28.9411621</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>67.99652</LambdaX>
     <LambdaY>864.3363</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -115962,11 +115962,11 @@
   </Entity>
   <Entity>
     <Label>E1-cgi2a</Label>
-    <LambdaWidth>29.1764679</LambdaWidth>
-    <LambdaHeight>28.9411621</LambdaHeight>
-    <LambdaX>113.996521</LambdaX>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
+    <LambdaX>115.096504</LambdaX>
     <LambdaY>863.9834</LambdaY>
-    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndX>2.10000014</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
     <Type>CellAdder</Type>
     <ColorOverride>Black</ColorOverride>
@@ -115982,8 +115982,8 @@
   </Entity>
   <Entity>
     <Label>E2-aon2222</Label>
-    <LambdaWidth>46</LambdaWidth>
-    <LambdaHeight>29.2940674</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>144.820053</LambdaX>
     <LambdaY>864.2187</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116002,8 +116002,8 @@
   </Entity>
   <Entity>
     <Label>E3-cgi2a</Label>
-    <LambdaWidth>28.8235168</LambdaWidth>
-    <LambdaHeight>29.2941284</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>191.76123</LambdaX>
     <LambdaY>864.2185</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116022,8 +116022,8 @@
   </Entity>
   <Entity>
     <Label>E4-aon2222</Label>
-    <LambdaWidth>45.76471</LambdaWidth>
-    <LambdaHeight>29.1764526</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>222.349457</LambdaX>
     <LambdaY>864.1009</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116043,7 +116043,7 @@
   <Entity>
     <Label>E5-cgi2a</Label>
     <LambdaWidth>28</LambdaWidth>
-    <LambdaHeight>28.9412231</LambdaHeight>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>269.532867</LambdaX>
     <LambdaY>864.1344</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116062,8 +116062,8 @@
   </Entity>
   <Entity>
     <Label>E6-aon2222</Label>
-    <LambdaWidth>45.76471</LambdaWidth>
-    <LambdaHeight>29.0588379</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>299.415222</LambdaX>
     <LambdaY>864.0168</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116082,8 +116082,8 @@
   </Entity>
   <Entity>
     <Label>E7-cgi2a</Label>
-    <LambdaWidth>28.23529</LambdaWidth>
-    <LambdaHeight>28.7059326</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>346.591675</LambdaX>
     <LambdaY>864.2521</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116102,8 +116102,8 @@
   </Entity>
   <Entity>
     <Label>E8-aon2222</Label>
-    <LambdaWidth>45.52942</LambdaWidth>
-    <LambdaHeight>28.8235474</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>376.70932</LambdaX>
     <LambdaY>864.369751</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116122,8 +116122,8 @@
   </Entity>
   <Entity>
     <Label>E9-cgi2a</Label>
-    <LambdaWidth>28.23529</LambdaWidth>
-    <LambdaHeight>29.1765137</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>424.114258</LambdaX>
     <LambdaY>864.2187</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116142,8 +116142,8 @@
   </Entity>
   <Entity>
     <Label>E10-aon2222</Label>
-    <LambdaWidth>46</LambdaWidth>
-    <LambdaHeight>29.2941284</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>453.878967</LambdaX>
     <LambdaY>864.1011</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116162,8 +116162,8 @@
   </Entity>
   <Entity>
     <Label>E11-cgi2a</Label>
-    <LambdaWidth>28.1176758</LambdaWidth>
-    <LambdaHeight>28.9411621</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>501.290649</LambdaX>
     <LambdaY>864.336548</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116182,8 +116182,8 @@
   </Entity>
   <Entity>
     <Label>E12-aon2222</Label>
-    <LambdaWidth>45.29413</LambdaWidth>
-    <LambdaHeight>29.1765137</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>531.290649</LambdaX>
     <LambdaY>864.2189</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116202,8 +116202,8 @@
   </Entity>
   <Entity>
     <Label>E13-cgi2a</Label>
-    <LambdaWidth>28.3529663</LambdaWidth>
-    <LambdaHeight>29.1764526</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>578.2318</LambdaX>
     <LambdaY>864.571838</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116222,8 +116222,8 @@
   </Entity>
   <Entity>
     <Label>E14-aon2222</Label>
-    <LambdaWidth>45.8823853</LambdaWidth>
-    <LambdaHeight>29.2940674</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>608.1212</LambdaX>
     <LambdaY>864.722351</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116242,8 +116242,8 @@
   </Entity>
   <Entity>
     <Label>E15-cgi2a</Label>
-    <LambdaWidth>28.8235474</LambdaWidth>
-    <LambdaHeight>29.1764526</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>655.180054</LambdaX>
     <LambdaY>864.722351</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116262,8 +116262,8 @@
   </Entity>
   <Entity>
     <Label>E16-aon2222</Label>
-    <LambdaWidth>45.6470337</LambdaWidth>
-    <LambdaHeight>29.1764526</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>685.533</LambdaX>
     <LambdaY>864.839966</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116283,7 +116283,7 @@
   <Entity>
     <Label>E17-cgi2a</Label>
     <LambdaWidth>28</LambdaWidth>
-    <LambdaHeight>29.0587769</LambdaHeight>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>732.944763</LambdaX>
     <LambdaY>864.957642</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116302,8 +116302,8 @@
   </Entity>
   <Entity>
     <Label>E18-aon2222</Label>
-    <LambdaWidth>45.76471</LambdaWidth>
-    <LambdaHeight>29.2941284</LambdaHeight>
+    <LambdaWidth>45.4</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>762.5918</LambdaX>
     <LambdaY>865.075256</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116322,8 +116322,8 @@
   </Entity>
   <Entity>
     <Label>E19-cgi2a</Label>
-    <LambdaWidth>28.8235474</LambdaWidth>
-    <LambdaHeight>29.1764526</LambdaHeight>
+    <LambdaWidth>28</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>809.76825</LambdaX>
     <LambdaY>865.192932</LambdaY>
     <LambdaEndX>1</LambdaEndX>
@@ -116342,8 +116342,8 @@
   </Entity>
   <Entity>
     <Label>H1-clkgen</Label>
-    <LambdaWidth>210.428558</LambdaWidth>
-    <LambdaHeight>28</LambdaHeight>
+    <LambdaWidth>210</LambdaWidth>
+    <LambdaHeight>29</LambdaHeight>
     <LambdaX>73.3037338</LambdaX>
     <LambdaY>1026.45752</LambdaY>
     <LambdaEndX>1</LambdaEndX>
