@@ -144,32 +144,57 @@
 	{
 		"not":
 		{
-			"type": "CellNot"
+			"notes": "писюн",
+			"type": "CellNot",
+			"width": 9.33,
+			"height": 32,
 		},
 
 		"nand":
 		{
-			"type": "CellLogic"
+			"notes": "писюн с вывернутым яйцом",
+			"type": "CellLogic",
+			"width": 12.53,
+			"height": 32,
+			"ports":
+			[
+				{ "type": "input", "x": 8.89, "y": 29.67, "name": "a" },
+				{ "type": "input", "x": 6.51, "y": 29.58, "name": "b" },
+				{ "type": "output", "x": 1.74, "y": 18.24, "name": "x" }
+			]
 		},
 
 		"nor":
 		{
+			"notes": "флипнутый снизу-вверх nand",
 			"type": "CellLogic"
 		},
 
 		"comp_weak":
 		{
-			"notes": "Слабый комплементарный буфер",
-			"type": "CellBuffer"
+			"notes": "Слабый комплементарный буфер. писюн в шляпе.",
+			"type": "CellBuffer",
+			"width": 13.61,
+			"height": 32,
+			"ports":
+			[
+				{ "type": "input", "x": 4.8, "y": 29.41, "name": "a" },
+				{ "type": "output", "x": 8.7, "y": 16.74, "name": "nx" },
+				{ "type": "output", "x": 13.37, "y": 16.84, "name": "x" }
+			]
 		},
 
 		"nand3":
 		{
-			"type": "CellLogic"
+			"notes": "кочерга",
+			"type": "CellLogic",
+			"width": 16.26,
+			"height": 32,
 		},
 
 		"nor3":
 		{
+			"notes": "флипнутая кочерга",
 			"type": "CellLogic"
 		},
 
@@ -192,6 +217,7 @@
 
 		"and":
 		{
+			"notes": "флипнутый чел",
 			"type": "CellLogic"
 		},
 
@@ -255,6 +281,7 @@
 
 		"or3":
 		{
+			"notes": "флипнутый длинный чел",
 			"type": "CellLogic"
 		},
 
@@ -272,7 +299,7 @@
 
 		"not_strong":
 		{
-			"notes": "Используется два спаренных инвертора для дополнительного драйва сигнала.",
+			"notes": "Используется два спаренных инвертора для дополнительного драйва сигнала. Мощный писюн",
 			"type": "CellNot"
 		},
 
