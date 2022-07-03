@@ -1,13 +1,14 @@
 {
 	"info":
 	{
-		"descr": "JSON contains all the information about the PSG cells.",
+		"descr": "JSON contains all the information about the PSG cells. All dimensions and coordinates in lambda.",
 		"url": "https://github.com/emu-russia/VDP-PSG/blob/main/cells.md"
 	},
 
 	"map":
 	{
 		"row_names": [ "A", "B", "C", "D", "E", "F", "G", "H" ],
+
 		"rows":
 		[
 			[
@@ -73,6 +74,7 @@
 				"not", "nand", "and", "not", "nand", "and", "not", "nand", "and", "nand", "and"
 			]
 		],
+
 		"placement":
 		[
 			[
@@ -137,7 +139,9 @@
 				"e", "e", "ef", "e", "ef", "e", "ef", "e", "ef", "e", "ef", "e", "e",
 				"ef", "ef", "ef", "e", "ef", "ef", "e", "ef", "ef", "ef", "ef"
 			]
-		]
+		],
+
+		"group_notes": "Значения в разделе `placement` означают следующее: e - нормальное положение ячейки, GND снизу; r - ячейка повернута на 180 градусов, GND сверху; f - ячейка флипнута слева-направо (горизонтально), расположение GND указывается первой операцией (e/r)."
 	},
 
 	"cells":
