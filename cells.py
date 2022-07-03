@@ -80,6 +80,10 @@ def ProcessCells (op, cells, netlist):
 				AddPorts (cells, row, row_num)
 			elif op == 'rem_ports':
 				RemPorts (cells, row, row_num)
+			elif op == 'list_ports':
+				ListPorts (cells, row, row_num)
+			elif op == 'resize':
+				Resize (cells, row, row_num)
 			elif op == 'count':
 				total_cells = total_cells + CountByRow (cells, row, row_num)
 
@@ -128,6 +132,22 @@ def RemPorts(cells, row, row_num):
 	return
 
 
+def ListPorts(cells, row, row_num):
+	return
+
+
+def Resize(cells, row, row_num):
+	cell_num = 0
+	for entity in row:
+		cell_name = cells['map']['rows'][row_num][cell_num]
+		cell = cells['cells'][cell_name]
+		if 'width' in cell:
+			entity.find('LambdaWidth').text = str(cell['width'])
+		if 'height' in cell:
+			entity.find('LambdaHeight').text = str(cell['height'])
+		cell_num = cell_num + 1
+
+
 def CountByRow(cells, row, row_num):
 	count = len(row)
 	print ("row " + str(row_num) + ", cells: " + str(count))
@@ -143,15 +163,17 @@ def Main(args):
 		cells = json.loads(text)
 	netlist = ET.parse(args.xml_file)
 	ProcessCells (args.operation, cells, netlist.getroot())
-	out_xml = open(args.xml_file, "wb")
-	xml_text = ET.tostring(netlist.getroot(), method='xml')
-	out_xml.write(xml_text)
-	out_xml.close()
+	if not (args.operation == "count" or args.operation == "list_ports"):
+		out_xml = open(args.xml_file, "wb")
+		xml_text = ET.tostring(netlist.getroot(), method='xml')
+		out_xml.write(xml_text)
+		out_xml.close()
 
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать ячейки по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты)')
-	parser.add_argument('--op', dest='operation', help='Операция над ячейками.')
+	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать ячейки по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты), list_ports (вывести порты), resize (задать размеры)')
+	parser.add_argument('--op', dest='operation', help='Операция над ячейками')
 	parser.add_argument('--json', dest='json_file', help='JSON с определениями ячеек')
 	parser.add_argument('--xml', dest='xml_file', help='XML файл из Deroute с нетлистом (БУДЕТ ИЗМЕНЁН для всех операций, кроме `count`')
+	parser.add_argument('--lambda', dest='lambda', default=1.0, help='Топологический фактор ячеек (масштаб), в лямбдах. По умолчанию 1.0')
 	Main(parser.parse_args())

@@ -147,7 +147,7 @@
 			"notes": "писюн",
 			"type": "CellNot",
 			"width": 9.33,
-			"height": 32,
+			"height": 32
 		},
 
 		"nand":
@@ -189,7 +189,7 @@
 			"notes": "кочерга",
 			"type": "CellLogic",
 			"width": 16.26,
-			"height": 32,
+			"height": 32
 		},
 
 		"nor3":
