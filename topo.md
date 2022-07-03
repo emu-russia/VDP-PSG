@@ -38,7 +38,7 @@ https://www.icreversing.com/chips/315-5313a
 
 Группа самосовмещений (ячейка `or`):
 
-|ident (земля снизу)|rot (земля сверху)|flip_h (земля снизу)|rot+flip_h (земля сверху|
+|ident (земля снизу)|rot (земля сверху)|flip_h (земля снизу)|rot+flip_h (земля сверху)|
 |---|---|---|---|
 |![image](https://user-images.githubusercontent.com/5828819/176852861-7d7a0f57-d302-4f71-bd27-1cea605fb091.png)|![image](https://user-images.githubusercontent.com/5828819/176852945-8082ee45-692c-42dc-92d7-c90748a3aae1.png)|![image](https://user-images.githubusercontent.com/5828819/176853301-54b26e7c-8166-430b-9e86-bc5045b9614b.png)|![image](https://user-images.githubusercontent.com/5828819/176857460-1020e86c-4dcd-4f58-824e-76e226a66e25.png)|
 
