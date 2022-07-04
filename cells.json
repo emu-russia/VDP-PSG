@@ -66,11 +66,11 @@
 			],
 
 			[
-				"not", "clkgen", "dff",
+				"not", "clkgen", "comp_dff",
 				"sr_bit", "not", "and", "nor", "sr_bit", "cnt_bit", "slatch_inv", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
-				"rs", "nor", "dff", "sr_bit", "dff", "not", "not_strong", "nor3",
-				"rs", "dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor3", "and", "not", "sr_bit", "aon22",
+				"rs", "nor", "comp_dff", "sr_bit", "comp_dff", "not", "not_strong", "nor3",
+				"rs", "comp_dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor3", "and", "not", "sr_bit", "aon22",
 				"not", "nand", "and", "not", "nand", "and", "not", "nand", "and", "nand", "and"
 			]
 		],
@@ -178,7 +178,13 @@
 			"notes": "флипнутый снизу-вверх nand",
 			"type": "CellLogic",
 			"width": 12.53,
-			"height": 30
+			"height": 30,
+			"ports":
+			[
+				{ "type": "input", "x": 8.87, "y": 26.77, "name": "a" },
+				{ "type": "input", "x": 6.52, "y": 26.68, "name": "b" },
+				{ "type": "output", "x": 1.74, "y": 13.98, "name": "x" }
+			]
 		},
 
 		"comp_weak":
@@ -215,14 +221,28 @@
 			"notes": "флипнутая кочерга",
 			"type": "CellLogic",
 			"width": 16.26,
-			"height": 30
+			"height": 30,
+			"ports":
+			[
+				{ "type": "input", "x": 2.71, "y": 27.49, "name": "a" },
+				{ "type": "input", "x": 7.35, "y": 27.39, "name": "b" },
+				{ "type": "input", "x": 9.66, "y": 27.39, "name": "c" },
+				{ "type": "output", "x": 14.61, "y": 15.39, "name": "x" }
+			]
 		},
 
 		"dlatch":
 		{
 			"type": "CellLatch",
-			"width": 29.2,
-			"height": 29
+			"width": 31.2,
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 27.14, "y": 1.71, "name": "a" },
+				{ "type": "input", "x": 21.51, "y": 1.86, "name": "c1" },
+				{ "type": "input", "x": 21.58, "y": 27.05, "name": "nc1" },
+				{ "type": "output", "x": 1.36, "y": 14.08, "name": "q" }
+			]
 		},
 
 		"comp_strong":
@@ -230,15 +250,28 @@
 			"notes": "Поскольку шнуровка для комплемента находится снаружи ячеек, для превращения одиночного `Enable` в два комплементарных сигнала используется этот комплементарный буфер.",
 			"type": "CellBuffer",
 			"width": 16,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 12.85, "y": 5.33, "name": "a" },
+				{ "type": "input", "x": 1.53, "y": 14.41, "name": "x" },
+				{ "type": "output", "x": 6.05, "y": 26.71, "name": "nx" }
+			]
 		},
+
 
 		"or":
 		{
 			"notes": "чел",
 			"type": "CellLogic",
 			"width": 16.46,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 13.53, "y": 2.32, "name": "a" },
+				{ "type": "input", "x": 11.05, "y": 2.33, "name": "b" },
+				{ "type": "output", "x": 1.47, "y": 14.08, "name": "x" }
+			]
 		},
 
 		"and":
@@ -246,14 +279,26 @@
 			"notes": "флипнутый чел",
 			"type": "CellLogic",
 			"width": 16.46,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 2.69, "y": 26.87, "name": "a" },
+				{ "type": "input", "x": 5.01, "y": 26.95, "name": "b" },
+				{ "type": "output", "x": 14.29, "y": 15.75, "name": "x" }
+			]
 		},
 
 		"notif0":
 		{
 			"type": "CellBusSupp",
 			"width": 16.53,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 10.27, "y": 4.24, "name": "a" },
+				{ "type": "input", "x": 1.57, "y": 4.24, "name": "b" },
+				{ "type": "output", "x": 14.97, "y": 14.54, "name": "x" }
+			]
 		},
 
 		"cgi2a":
@@ -268,12 +313,21 @@
 		{
 			"type": "CellLatch",
 			"width": 20.87,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 19.68, "y": 14.48, "name": "in" },
+				{ "type": "input", "x": 15.38, "y": 26.98, "name": "c1" },
+				{ "type": "input", "x": 15.01, "y": 2.48, "name": "nc1" },
+				{ "type": "input", "x": 10.29, "y": 27.16, "name": "c2" },
+				{ "type": "input", "x": 10.47, "y": 2.43, "name": "nc2" },
+				{ "type": "output", "x": 1.65, "y": 14.8, "name": "out" }
+			]
 		},
 
-		"dff":
+		"comp_dff":
 		{
-			"notes": "ещё такая",
+			"notes": "ещё такая. Комплементарный Posedge? DFF",
 			"type": "CellFlipFlop",
 			"width": 42.5,
 			"height": 29
@@ -340,7 +394,18 @@
 			"notes": "Разряд счётчика. В PSG carry_out не используется, т.к. все счётчики 1-разрядные.",
 			"type": "CellAdder",
 			"width": 62,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 4.54, "y": 5.71, "name": "cin" },
+				{ "type": "input", "x": 18.84, "y": 26.2, "name": "r" },
+				{ "type": "input", "x": 29.74, "y": 26.8, "name": "c1" },
+				{ "type": "input", "x": 30.34, "y": 2.1, "name": "nc1" },
+				{ "type": "input", "x": 40.24, "y": 26.5, "name": "c2" },
+				{ "type": "input", "x": 40.54, "y": 2.2, "name": "nc2" },
+				{ "type": "output", "x": 59.0, "y": 5.1, "name": "cout" },
+				{ "type": "output", "x": 60.0, "y": 16.5, "name": "s" }
+			]
 		},
 
 		"aon22":

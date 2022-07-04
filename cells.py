@@ -30,9 +30,9 @@ def ProcessCells (op, cells, netlist):
 		count = 0
 		found = False
 
-		# Найти все ячейки в нетлисте выше TopMin и:
-		#	- Получить самую верхнюю ячейку - это будет начало ряда
-		#   - Получить её высоту
+		# Найти все ячейки в нетлисте y > TopMin и:
+		#	- Получить самую верхнюю ячейку (TopCell) - это будет начало ряда (TopY)
+		#   - Получить её высоту и вычислить промежуток для следующего захода (сделаем аккуратно - высота/2)
 		# 	- Если что-то нашлось - это будет следующий ряд, обработать его в соответствии с массовой операцией. Если не нашлось - выйти.		
 
 		TopY = float("inf")
@@ -53,7 +53,7 @@ def ProcessCells (op, cells, netlist):
 		height = float(TopCell.find('LambdaHeight').text)
 		Gap = height / 2
 
-		# Выбрать ячейки y >= TopMin && y <= (TopY+height+Gap)
+		# Выбрать ячейки y >= TopMin && y < (TopY+height+Gap)
 
 		for entity in netlist:
 			entityType = entity.find('Type').text
@@ -63,9 +63,11 @@ def ProcessCells (op, cells, netlist):
 					row.append(entity)
 					count = count + 1
 
-		# Сортировать по X по возрастанию
+		# Сортировать по X по возрастанию (слева-направо)
 
 		row = sorted(row, key=lambda child: float(child.find('LambdaX').text) )
+
+		# Выполнить операцию над рядом ячеек
 
 		if count:
 			if op == 'add_names':
@@ -273,6 +275,6 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Для продолжения укажите одну из операций: count (посчитать ячейки по рядам), add_names (добавить имена), rem_names (удалить имена), classify (задать типы), unclassify (удалить типы), add_ports (добавить порты), rem_ports (удалить порты), list_ports (вывести порты), resize (задать размеры)')
 	parser.add_argument('--op', dest='operation', help='Операция над ячейками')
 	parser.add_argument('--json', dest='json_file', help='JSON с определениями ячеек')
-	parser.add_argument('--xml', dest='xml_file', help='XML файл из Deroute с нетлистом (БУДЕТ ИЗМЕНЁН для всех операций, кроме `count`')
+	parser.add_argument('--xml', dest='xml_file', help='XML файл из Deroute с нетлистом (БУДЕТ ИЗМЕНЁН для всех операций, кроме `count` и `list_ports`')
 	parser.add_argument('--lambda', dest='lambda', default=1.0, help='Топологический фактор ячеек (масштаб), в лямбдах. По умолчанию 1.0')
 	Main(parser.parse_args())
