@@ -66,11 +66,11 @@
 			],
 
 			[
-				"not", "clkgen", "dff",
+				"not", "clkgen", "comp_dff",
 				"sr_bit", "not", "and", "nor", "sr_bit", "cnt_bit", "slatch_inv", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
-				"rs", "nor", "dff", "sr_bit", "dff", "not", "not_strong", "nor3",
-				"rs", "dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor3", "and", "not", "sr_bit", "aon22",
+				"rs", "nor", "comp_dff", "sr_bit", "comp_dff", "not", "not_strong", "nor3",
+				"rs", "comp_dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor3", "and", "not", "sr_bit", "aon22",
 				"not", "nand", "and", "not", "nand", "and", "not", "nand", "and", "nand", "and"
 			]
 		],
@@ -325,9 +325,9 @@
 			]
 		},
 
-		"dff":
+		"comp_dff":
 		{
-			"notes": "ещё такая",
+			"notes": "ещё такая. Комплементарный Posedge? DFF",
 			"type": "CellFlipFlop",
 			"width": 42.5,
 			"height": 29
