@@ -221,7 +221,7 @@
 		"dlatch":
 		{
 			"type": "CellLatch",
-			"width": 29.2,
+			"width": 31.2,
 			"height": 29
 		},
 
@@ -238,7 +238,13 @@
 			"notes": "чел",
 			"type": "CellLogic",
 			"width": 16.46,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 13.53, "y": 2.32, "name": "a" },
+				{ "type": "input", "x": 11.05, "y": 2.33, "name": "b" },
+				{ "type": "output", "x": 1.47, "y": 14.08, "name": "x" }
+			]			
 		},
 
 		"and":
@@ -253,7 +259,13 @@
 		{
 			"type": "CellBusSupp",
 			"width": 16.53,
-			"height": 29
+			"height": 29,
+			"ports":
+			[
+				{ "type": "input", "x": 10.27, "y": 4.24, "name": "a" },
+				{ "type": "input", "x": 1.57, "y": 4.24, "name": "b" },
+				{ "type": "output", "x": 14.97, "y": 14.54, "name": "x" }
+			]
 		},
 
 		"cgi2a":
