@@ -93,7 +93,7 @@ def ProcessCells (op, cells, netlist):
 		row_num = row_num + 1
 
 	if op == 'count':
-		print ("Total cells: " + str(total_cells))
+		print (f"Total cells: {total_cells}")
 """
 	ProcessCells end.
 """
@@ -233,7 +233,7 @@ def ListPorts(cells, row, row_num, netlist):
 			pos = [px, py]
 			word = cells['map']['placement'][row_num][cell_num]
 			pos = Vierergruppe (pos, ew, eh, word[::-1])
-			print ("type: " + ptype + ", name: " + pname + ", x: " + str(pos[0] - ex) + ", y: " + str(pos[1] - ey) )
+			print (f"type: {ptype}, name: {pname}, x: {pos[0] - ex}, y: {pos[1] - ey}")
 		cell_num = cell_num + 1
 
 
