@@ -21,9 +21,9 @@ The broken off piece has already been photographed at 40x, the first thing to do
 ![vdp-slides](/imgstore/vdp-slides.png)
 
 And then the standard Workflow for learning about chips:
-- Examine the pins (bonus)
 - Trace the wires
 - Remove the top layers of metal
 - Examine the standard cells that are found in this area of the chip
 - Add cells and connect all ports
 - Make a schematic in Logisim
+- Examine the pins (bonus)
