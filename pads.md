@@ -35,9 +35,9 @@ TBD: Пока без схематики, просто коллекция кар�
 
 Для обычных двунаправленных I/O портов.
 
-![image](https://user-images.githubusercontent.com/5828819/175827798-973f8c91-4d2e-4cb9-9d5c-150d283a7a7b.png)
+![image](https://user-images.githubusercontent.com/5828819/177622002-b8cf186f-676d-4bb4-a789-98c2cbc55c2f.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177593408-e761c376-4280-47d4-b097-21fa2b51c9e0.png)
+![image](https://user-images.githubusercontent.com/5828819/177622044-48ddc15b-fbb4-4e58-a9c0-461e34cffa87.png)
 
 ## Терминал Inout+TriState
 
