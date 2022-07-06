@@ -21,7 +21,7 @@ TBD: Пока без схематики, просто коллекция кар�
 
 ## Терминал Output
 
-![image](https://user-images.githubusercontent.com/5828819/175827693-8ca7febe-4233-4f3e-8266-8d5e6087e2ec.png)
+![image](https://user-images.githubusercontent.com/5828819/177621881-32e7b2a7-2d68-40ac-beb5-9ec639c5a78e.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/177593122-86d1e8f1-2c57-42d8-93ba-421cf94bdf6f.png)
 
