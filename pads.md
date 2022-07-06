@@ -15,15 +15,15 @@ TBD: Пока без схематики, просто коллекция кар�
 
 ## Терминал Input
 
-![image](https://user-images.githubusercontent.com/5828819/175827693-8ca7febe-4233-4f3e-8266-8d5e6087e2ec.png)
-
-![image](https://user-images.githubusercontent.com/5828819/177593122-86d1e8f1-2c57-42d8-93ba-421cf94bdf6f.png)
-
-## Терминал Output
-
 ![image](https://user-images.githubusercontent.com/5828819/177574039-d237de48-ed87-4b40-8b99-d4b56eced7de.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/177593251-82b7bf65-76b0-4643-95bf-a0becaa6316c.png)
+
+## Терминал Output
+
+![image](https://user-images.githubusercontent.com/5828819/175827693-8ca7febe-4233-4f3e-8266-8d5e6087e2ec.png)
+
+![image](https://user-images.githubusercontent.com/5828819/177593122-86d1e8f1-2c57-42d8-93ba-421cf94bdf6f.png)
 
 ## Терминал Inout
 
