@@ -8,6 +8,62 @@
 # vias pattern_name, vias_name, offset_x, offset_y, type, reserved
 # Vias types: ViasInput, ViasOutput, ViasInout
 
+# TBD: Ports
+
 pattern not, CellNot, 6.0, 0, 0, "VDPCells/not.jpg"
+
 pattern nor, CellLogic, 6.0, 0, 0, "VDPCells/nor.jpg"
+
 pattern nand, CellLogic, 6.0, 0, 0, "VDPCells/nand.jpg"
+
+pattern and, CellLogic, 6.0, 0, 0, "VDPCells/and.jpg"
+
+pattern and3, CellLogic, 6.0, 0, 0, "VDPCells/and3.jpg"
+
+pattern aoi21, CellLogic, 6.0, 0, 0, "VDPCells/aoi21.jpg"
+
+pattern aon22, CellLogic, 6.0, 0, 0, "VDPCells/aon22.jpg"
+
+pattern aon2222, CellAdder, 6.0, 0, 0, "VDPCells/aon2222.jpg"
+
+pattern buf, CellBuffer, 6.0, 0, 0, "VDPCells/buf.jpg"
+
+pattern cgi2a, CellAdder, 6.0, 0, 0, "VDPCells/cgi2a.jpg"
+
+pattern clkgen, CellOther, 6.0, 0, 0, "VDPCells/clkgen.jpg"
+
+pattern cnt_bit, CellAdder, 6.0, 0, 0, "VDPCells/cnt_bit.jpg"
+
+pattern comp_dff, CellFlipFlop, 6.0, 0, 0, "VDPCells/comp_dff.jpg"
+
+pattern comp_strong, CellBuffer, 6.0, 0, 0, "VDPCells/comp_strong.jpg"
+
+pattern comp_weak, CellBuffer, 6.0, 0, 0, "VDPCells/comp_weak.jpg"
+
+pattern dlatch, CellFlipFlop, 6.0, 0, 0, "VDPCells/dlatch.jpg"
+
+pattern ha, CellAdder, 6.0, 0, 0, "VDPCells/ha.jpg"
+
+pattern lfsr_bit, CellLatch, 6.0, 0, 0, "VDPCells/lfsr_bit.jpg"
+
+pattern nand3, CellLogic, 6.0, 0, 0, "VDPCells/nand3.jpg"
+
+pattern nor3, CellLogic, 6.0, 0, 0, "VDPCells/nor3.jpg"
+
+pattern not_strong, CellNot, 6.0, 0, 0, "VDPCells/not_strong.jpg"
+
+pattern notif0, CellBusSupp, 6.0, 0, 0, "VDPCells/notif0.jpg"
+
+pattern oai21, CellLogic, 6.0, 0, 0, "VDPCells/oai21.jpg"
+
+pattern or, CellLogic, 6.0, 0, 0, "VDPCells/or.jpg"
+
+pattern or3, CellLogic, 6.0, 0, 0, "VDPCells/or3.jpg"
+
+pattern rs, CellFlipFlop, 6.0, 0, 0, "VDPCells/rs.jpg"
+
+pattern slatch_inv, CellLatch, 6.0, 0, 0, "VDPCells/slatch_inv.jpg"
+
+pattern sr_bit, CellLatch, 6.0, 0, 0, "VDPCells/sr_bit.jpg"
+
+pattern xor, CellLogic, 6.0, 0, 0, "VDPCells/xor.jpg"
