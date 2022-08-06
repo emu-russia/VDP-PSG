@@ -67,3 +67,8 @@ pattern slatch_inv, CellLatch, 6.0, 0, 0, "VDPCells/slatch_inv.jpg"
 pattern sr_bit, CellLatch, 6.0, 0, 0, "VDPCells/sr_bit.jpg"
 
 pattern xor, CellLogic, 6.0, 0, 0, "VDPCells/xor.jpg"
+
+# Unknown / Garbage
+
+pattern UNK_MED, CellOther, 6.0, 0, 0, "VDPCells/UNK_MED.jpg"
+pattern GARBAGE, CellOther, 6.0, 0, 0, "VDPCells/GARBAGE.jpg"
