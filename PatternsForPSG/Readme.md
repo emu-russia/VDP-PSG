@@ -23,7 +23,7 @@ This section contains a database of cells for use in the [Patterns](https://gith
 
 ## Как расставляются порты ячеек
 
-Открываем картинку в Deroute и добавляем порты. Не забыть в настройках Deroute выставить лямбду, соответствующую ячейкам.
+Открываем картинку ячейки в Deroute и добавляем порты. Не забыть в настройках Deroute выставить лямбду, соответствующую ячейкам.
 
 ![image](https://user-images.githubusercontent.com/5828819/183293003-ef1cd747-3c70-43cf-828a-643b57fe994f.png)
 
