@@ -246,3 +246,11 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 Используется совместно с `cgi2a` для создания компаратора.
 
 Выход ора подаётся на инвертирующий вход `a` генератора переноса.
+
+## Ячейка 37 - nand4
+
+![image](https://user-images.githubusercontent.com/5828819/183282389-647530b2-966b-4b4d-bc3e-6c4642b0bc9f.png)
+
+## Ячейка 36 - nor4
+
+![image](https://user-images.githubusercontent.com/5828819/183282421-af7dc294-aad3-4b7f-94fc-d0d505e79dba.png)
