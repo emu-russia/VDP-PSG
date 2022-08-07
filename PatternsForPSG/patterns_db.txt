@@ -68,6 +68,10 @@ pattern sr_bit, CellLatch, 6.0, 0, 0, "VDPCells/sr_bit.jpg"
 
 pattern xor, CellLogic, 6.0, 0, 0, "VDPCells/xor.jpg"
 
+pattern nand4, CellLogic, 6.0, 0, 0, "VDPCells/nand4.jpg"
+
+pattern nor4, CellLogic, 6.0, 0, 0, "VDPCells/nor4.jpg"
+
 # Unknown / Garbage
 
 pattern UNK_MED, CellOther, 6.0, 0, 0, "VDPCells/UNK_MED.jpg"
