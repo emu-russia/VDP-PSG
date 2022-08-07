@@ -58,10 +58,21 @@ vias aon2222, h, 10.32, 22.38, ViasInput, 0
 vias aon2222, x, 1.43, 12.11, ViasOutput, 0
 
 pattern buf, CellBuffer, 6.0, 0, 0, "VDPCells/buf.jpg"
+vias buf, a, 2.13, 22.45, ViasInput, 0
+vias buf, x, 11.92, 12.45, ViasOutput, 0
 
 pattern cgi2a, CellAdder, 6.0, 0, 0, "VDPCells/cgi2a.jpg"
+vias cgi2a, a, 20.50, 22.47, ViasInput, 0
+vias cgi2a, b, 14.18, 22.47, ViasInput, 0
+vias cgi2a, c, 10.43, 22.47, ViasInput, 0
+vias cgi2a, x, 1.54, 12.05, ViasOutput, 0
 
 pattern clkgen, CellOther, 6.0, 0, 0, "VDPCells/clkgen.jpg"
+vias clkgen, ph, 2.11, 2.44, ViasInput, 0
+vias clkgen, ck1, 39.20, 17.86, ViasOutput, 0
+vias clkgen, nck1, 62.04, 7.47, ViasOutput, 0
+vias clkgen, ck2, 121.28, 17.36, ViasOutput, 0
+vias clkgen, nck2, 144.28, 5.19, ViasOutput, 0
 
 pattern cnt_bit, CellAdder, 6.0, 0, 0, "VDPCells/cnt_bit.jpg"
 
