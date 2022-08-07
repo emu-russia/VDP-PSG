@@ -47,7 +47,7 @@
 
 			[
 				"aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a", "aon2222", "cgi2a",
-				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit",     "nor3", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
+				"not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit", "not", "nand", "sr_bit",     "nor4", "not", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit"
 			],
 
 			[
@@ -55,22 +55,22 @@
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
 				"sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit", "sr_bit",
-				"nor", "and", "cnt_bit", "and", "cnt_bit", "and", "cnt_bit", "and", "cnt_bit", "nor3", "nor3", "not"
+				"nor", "and", "cnt_bit", "and", "cnt_bit", "and", "cnt_bit", "and", "cnt_bit", "nor3", "nor4", "not"
 			],
 
 			[
 				"and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha", "and", "ha",
 				"xor",
 				"lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit", "lfsr_bit",
-				"nand", "nand", "nand3"
+				"nand", "nand", "nand4"
 			],
 
 			[
 				"not", "clkgen", "comp_dff",
 				"sr_bit", "not", "and", "nor", "sr_bit", "cnt_bit", "slatch_inv", "not", "nand",
 				"buf", "not", "buf", "nand", "not", "buf", "buf", 
-				"rs", "nor", "comp_dff", "sr_bit", "comp_dff", "not", "not_strong", "nor3",
-				"rs", "comp_dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor3", "and", "not", "sr_bit", "aon22",
+				"rs", "nor", "comp_dff", "sr_bit", "comp_dff", "not", "not_strong", "nor4",
+				"rs", "comp_dff", "nor", "not", "nand", "not_strong", "not_strong", "nand", "nor4", "and", "not", "sr_bit", "aon22",
 				"not", "nand", "and", "not", "nand", "and", "not", "nand", "and", "nand", "and"
 			]
 		],
@@ -461,6 +461,20 @@
 			"notes": "Раньше входила в cgi2a, после разбора стало понятно что это отдельная ячейка.",
 			"type": "CellLogic",
 			"width": 45.4,
+			"height": 29
+		},
+
+		"nand4":
+		{
+			"type": "CellLogic",
+			"width": 14.0,
+			"height": 29
+		},
+
+		"nor4":
+		{
+			"type": "CellLogic",
+			"width": 14.0,
 			"height": 29
 		}
 	}
