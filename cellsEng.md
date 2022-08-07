@@ -246,3 +246,11 @@ You can see that the developers left the `~Q` output, but it is not used.
 Used in conjunction with `cgi2a` to create a comparator.
 
 The or output is fed to the inverting `a` input of the carry generator.
+
+## Cell 37 - nand4
+
+![image](https://user-images.githubusercontent.com/5828819/183282389-647530b2-966b-4b4d-bc3e-6c4642b0bc9f.png)
+
+## Cell 36 - nor4
+
+![image](https://user-images.githubusercontent.com/5828819/183282421-af7dc294-aad3-4b7f-94fc-d0d505e79dba.png)
