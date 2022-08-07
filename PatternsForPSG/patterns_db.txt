@@ -1,4 +1,4 @@
-# VDP PSG Cells Library
+# VDP PSG Cells Library (lambda = 6.0)
 
 # Pattern Syntax:
 # pattern name, type, source_lambda, pcount, ncount, image_path
@@ -40,8 +40,22 @@ vias aoi21, c, 10.33, 1.61, ViasInput, 0
 vias aoi21, x, 11.65, 11.32, ViasOutput, 0
 
 pattern aon22, CellLogic, 6.0, 0, 0, "VDPCells/aon22.jpg"
+vias aon22, a, 14.94, 22.76, ViasInput, 0
+vias aon22, b, 13.11, 22.71, ViasInput, 0
+vias aon22, c, 11.29, 22.77, ViasInput, 0
+vias aon22, d, 9.46, 22.70, ViasInput, 0
+vias aon22, x, 1.23, 10.77, ViasOutput, 0
 
 pattern aon2222, CellAdder, 6.0, 0, 0, "VDPCells/aon2222.jpg"
+vias aon2222, a, 35.25, 22.25, ViasInput, 0
+vias aon2222, b, 33.45, 22.18, ViasInput, 0
+vias aon2222, c, 31.43, 22.18, ViasInput, 0
+vias aon2222, d, 29.49, 22.18, ViasInput, 0
+vias aon2222, e, 15.88, 22.39, ViasInput, 0
+vias aon2222, f, 14.28, 22.39, ViasInput, 0
+vias aon2222, g, 12.33, 22.39, ViasInput, 0
+vias aon2222, h, 10.32, 22.38, ViasInput, 0
+vias aon2222, x, 1.43, 12.11, ViasOutput, 0
 
 pattern buf, CellBuffer, 6.0, 0, 0, "VDPCells/buf.jpg"
 
