@@ -40,7 +40,7 @@ pattern comp_strong, CellBuffer, 6.0, 0, 0, "VDPCells/comp_strong.jpg"
 
 pattern comp_weak, CellBuffer, 6.0, 0, 0, "VDPCells/comp_weak.jpg"
 
-pattern dlatch, CellFlipFlop, 6.0, 0, 0, "VDPCells/dlatch.jpg"
+pattern dlatch, CellLatch, 6.0, 0, 0, "VDPCells/dlatch.jpg"
 
 pattern ha, CellAdder, 6.0, 0, 0, "VDPCells/ha.jpg"
 
