@@ -137,14 +137,30 @@ vias nor3, c, 6.02, 2.18, ViasInput, 0
 vias nor3, x, 1.27, 12.37, ViasOutput, 0
 
 pattern not_strong, CellNot, 6.0, 0, 0, "VDPCells/not_strong.jpg"
+vias not_strong, a, 6.21, 22.11, ViasInput, 0
+vias not_strong, x, 1.21, 12.05, ViasOutput, 0
 
 pattern notif0, CellBusSupp, 6.0, 0, 0, "VDPCells/notif0.jpg"
+vias notif0, a, 8.58, 2.11, ViasInput, 0
+vias notif0, ne, 1.85, 2.30, ViasInput, 0
+vias notif0, nx, 12.68, 12.30, ViasOutput, 0
 
 pattern oai21, CellLogic, 6.0, 0, 0, "VDPCells/oai21.jpg"
+vias oai21, a, 1.72, 21.98, ViasInput, 0
+vias oai21, b, 8.00, 21.92, ViasInput, 0
+vias oai21, c, 10.12, 21.85, ViasInput, 0
+vias oai21, x, 11.72, 12.30, ViasOutput, 0
 
 pattern or, CellLogic, 6.0, 0, 0, "VDPCells/or.jpg"
+vias or, a, 8.90, 22.43, ViasInput, 0
+vias or, b, 7.04, 22.50, ViasInput, 0
+vias or, x, 1.59, 11.47, ViasOutput, 0
 
 pattern or3, CellLogic, 6.0, 0, 0, "VDPCells/or3.jpg"
+vias or3, a, 2.87, 1.98, ViasInput, 0
+vias or3, b, 4.86, 1.92, ViasInput, 0
+vias or3, c, 6.72, 1.92, ViasInput, 0
+vias or3, x, 15.63, 12.18, ViasOutput, 0
 
 pattern rs, CellFlipFlop, 6.0, 0, 0, "VDPCells/rs.jpg"
 
