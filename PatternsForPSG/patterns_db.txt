@@ -163,10 +163,24 @@ vias or3, c, 6.72, 1.92, ViasInput, 0
 vias or3, x, 15.63, 12.18, ViasOutput, 0
 
 pattern rs, CellFlipFlop, 6.0, 0, 0, "VDPCells/rs.jpg"
+vias rs, s, 1.66, 22.75, ViasInput, 0
+vias rs, r, 12.87, 22.82, ViasInput, 0
+vias rs, q, 23.20, 10.70, ViasOutput, 0
+vias rs, nq, 21.59, 22.94, ViasOutput, 0
 
 pattern slatch_inv, CellLatch, 6.0, 0, 0, "VDPCells/slatch_inv.jpg"
+vias slatch_inv, a, 5.63, 1.53, ViasInput, 0
+vias slatch_inv, c1, 1.85, 22.18, ViasInput, 0
+vias slatch_inv, nc1, 1.91, 1.60, ViasInput, 0
+vias slatch_inv, nq, 10.95, 11.60, ViasOutput, 0
 
 pattern sr_bit, CellLatch, 6.0, 0, 0, "VDPCells/sr_bit.jpg"
+vias sr_bit, a, 16.72, 22.30, ViasInput, 0
+vias sr_bit, c1, 12.75, 22.43, ViasInput, 0
+vias sr_bit, nc1, 12.49, 1.60, ViasInput, 0
+vias sr_bit, c2, 8.84, 22.43, ViasInput, 0
+vias sr_bit, nc2, 8.77, 1.66, ViasInput, 0
+vias sr_bit, q, 1.46, 12.30, ViasOutput, 0
 
 pattern xor, CellLogic, 6.0, 0, 0, "VDPCells/xor.jpg"
 
