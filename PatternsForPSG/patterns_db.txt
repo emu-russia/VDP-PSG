@@ -75,14 +75,38 @@ vias clkgen, ck2, 121.28, 17.36, ViasOutput, 0
 vias clkgen, nck2, 144.28, 5.19, ViasOutput, 0
 
 pattern cnt_bit, CellAdder, 6.0, 0, 0, "VDPCells/cnt_bit.jpg"
+vias cnt_bit, a, 1.86, 22.47, ViasInput, 0
+vias cnt_bit, b, 17.12, 22.55, ViasInput, 0
+vias cnt_bit, c1, 23.61, 22.73, ViasInput, 0
+vias cnt_bit, nc1, 23.87, 1.41, ViasInput, 0
+vias cnt_bit, c2, 32.38, 22.64, ViasInput, 0
+vias cnt_bit, nc2, 32.65, 1.68, ViasInput, 0
+vias cnt_bit, c, 9.49, 4.84, ViasOutput, 0
+vias cnt_bit, s, 48.96, 14.05, ViasOutput, 0
 
 pattern comp_dff, CellFlipFlop, 6.0, 0, 0, "VDPCells/comp_dff.jpg"
+vias comp_dff, a, 3.58, 22.80, ViasInput, 0
+vias comp_dff, c1, 5.43, 22.80, ViasInput, 0
+vias comp_dff, nc1, 4.74, 1.53, ViasInput, 0
+vias comp_dff, c2, 25.77, 22.56, ViasInput, 0
+vias comp_dff, nc2, 26.28, 1.79, ViasInput, 0
+vias comp_dff, q, 33.65, 14.35, ViasOutput, 0
 
 pattern comp_strong, CellBuffer, 6.0, 0, 0, "VDPCells/comp_strong.jpg"
+vias comp_strong, a, 1.08, 12.11, ViasInput, 0
+vias comp_strong, x, 9.54, 2.11, ViasOutput, 0
+vias comp_strong, nx, 4.03, 22.62, ViasOutput, 0
 
 pattern comp_weak, CellBuffer, 6.0, 0, 0, "VDPCells/comp_weak.jpg"
+vias comp_weak, a, 1.98, 24.29, ViasInput, 0
+vias comp_weak, x, 10.89, 24.42, ViasOutput, 0
+vias comp_weak, nx, 8.07, 24.42, ViasOutput, 0
 
 pattern dlatch, CellLatch, 6.0, 0, 0, "VDPCells/dlatch.jpg"
+vias dlatch, a, 22.68, 21.92, ViasInput, 0
+vias dlatch, c1, 18.00, 22.24, ViasOutput, 0
+vias dlatch, nc1, 17.68, 1.66, ViasOutput, 0
+vias dlatch, q, 1.46, 12.18, ViasOutput, 0
 
 pattern ha, CellAdder, 6.0, 0, 0, "VDPCells/ha.jpg"
 vias ha, a, 26.23, 22.24, ViasInput, 0
