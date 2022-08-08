@@ -183,10 +183,23 @@ vias sr_bit, nc2, 8.77, 1.66, ViasInput, 0
 vias sr_bit, q, 1.46, 12.30, ViasOutput, 0
 
 pattern xor, CellLogic, 6.0, 0, 0, "VDPCells/xor.jpg"
+vias xor, a, 3.07, 22.18, ViasInput, 0
+vias xor, b, 7.75, 2.05, ViasInput, 0
+vias xor, x, 22.43, 11.85, ViasOutput, 0
 
 pattern nand4, CellLogic, 6.0, 0, 0, "VDPCells/nand4.jpg"
+vias nand4, a, 2.94, 22.24, ViasInput, 0
+vias nand4, b, 4.73, 22.30, ViasInput, 0
+vias nand4, c, 6.66, 22.30, ViasInput, 0
+vias nand4, d, 8.45, 22.43, ViasInput, 0
+vias nand4, x, 13.58, 13.07, ViasOutput, 0
 
 pattern nor4, CellLogic, 6.0, 0, 0, "VDPCells/nor4.jpg"
+vias nor4, a, 2.94, 2.30, ViasInput, 0
+vias nor4, b, 4.99, 2.30, ViasInput, 0
+vias nor4, c, 6.91, 2.37, ViasInput, 0
+vias nor4, d, 8.64, 2.37, ViasInput, 0
+vias nor4, x, 13.64, 11.73, ViasOutput, 0
 
 # Unknown / Garbage
 
