@@ -104,8 +104,8 @@ vias comp_weak, nx, 8.07, 24.42, ViasOutput, 0
 
 pattern dlatch, CellLatch, 6.0, 0, 0, "VDPCells/dlatch.jpg"
 vias dlatch, a, 22.68, 21.92, ViasInput, 0
-vias dlatch, c1, 18.00, 22.24, ViasOutput, 0
-vias dlatch, nc1, 17.68, 1.66, ViasOutput, 0
+vias dlatch, c1, 18.00, 22.24, ViasInput, 0
+vias dlatch, nc1, 17.68, 1.66, ViasInput, 0
 vias dlatch, q, 1.46, 12.18, ViasOutput, 0
 
 pattern ha, CellAdder, 6.0, 0, 0, "VDPCells/ha.jpg"
