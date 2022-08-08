@@ -115,10 +115,26 @@ vias ha, c, 12.83, 1.86, ViasOutput, 0
 vias ha, s, 3.17, 12.62, ViasOutput, 0
 
 pattern lfsr_bit, CellLatch, 6.0, 0, 0, "VDPCells/lfsr_bit.jpg"
+vias lfsr_bit, a, 1.91, 2.11, ViasInput, 0
+vias lfsr_bit, b, 5.89, 2.05, ViasInput, 0
+vias lfsr_bit, c, 7.91, 2.08, ViasInput, 0
+vias lfsr_bit, c1, 12.36, 22.62, ViasInput, 0
+vias lfsr_bit, nc1, 12.30, 1.73, ViasInput, 0
+vias lfsr_bit, c2, 20.31, 22.56, ViasInput, 0
+vias lfsr_bit, nc2, 20.50, 1.73, ViasInput, 0
+vias lfsr_bit, q, 29.35, 11.79, ViasOutput, 0
 
 pattern nand3, CellLogic, 6.0, 0, 0, "VDPCells/nand3.jpg"
+vias nand3, a, 9.93, 24.48, ViasInput, 0
+vias nand3, b, 8.07, 24.48, ViasInput, 0
+vias nand3, c, 6.21, 24.48, ViasInput, 0
+vias nand3, x, 1.53, 14.48, ViasOutput, 0
 
 pattern nor3, CellLogic, 6.0, 0, 0, "VDPCells/nor3.jpg"
+vias nor3, a, 9.80, 2.11, ViasInput, 0
+vias nor3, b, 7.87, 2.11, ViasInput, 0
+vias nor3, c, 6.02, 2.18, ViasInput, 0
+vias nor3, x, 1.27, 12.37, ViasOutput, 0
 
 pattern not_strong, CellNot, 6.0, 0, 0, "VDPCells/not_strong.jpg"
 
