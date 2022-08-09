@@ -93,8 +93,8 @@ vias comp_dff, nc2, 26.28, 1.79, ViasInput, 0
 vias comp_dff, q, 33.65, 14.35, ViasOutput, 0
 
 pattern comp_strong, CellBuffer, 6.0, 0, 0, "VDPCells/comp_strong.jpg"
-vias comp_strong, a, 1.08, 12.11, ViasInput, 0
-vias comp_strong, x, 9.54, 2.11, ViasOutput, 0
+vias comp_strong, a, 9.54, 2.11, ViasInput, 0
+vias comp_strong, x, 1.08, 12.11, ViasOutput, 0
 vias comp_strong, nx, 4.03, 22.62, ViasOutput, 0
 
 pattern comp_weak, CellBuffer, 6.0, 0, 0, "VDPCells/comp_weak.jpg"
