@@ -82,12 +82,12 @@ https://www.icreversing.com/chips/315-5313a
 
 Выглядят они так:
 
-Константный `0`:
+Константный `0` (GND сверху):
 
 |![image](https://user-images.githubusercontent.com/5828819/184126459-67473727-e2c8-416a-9de4-8aa743b211da.png)|![image](https://user-images.githubusercontent.com/5828819/184126531-13cc3699-9d93-47cc-8a01-d679ee6c3d27.png)|![image](https://user-images.githubusercontent.com/5828819/184126772-f7cb6d43-75b7-499c-bfb1-50340b359599.png)|
 |---|---|---|
 
-Константный `1`:
+Константный `1` (GND сверху):
 
 |![image](https://user-images.githubusercontent.com/5828819/184126643-c0545d85-1fd4-460f-82b2-5d3ecc3b1ef3.png)|![image](https://user-images.githubusercontent.com/5828819/184126919-0ca2fd29-95e4-4581-96c5-9a3ab72f9990.png)|
 |---|---|
