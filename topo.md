@@ -75,3 +75,19 @@ https://www.icreversing.com/chips/315-5313a
 ![image](https://user-images.githubusercontent.com/5828819/184116668-55414386-a55f-4c5c-984e-625ac3949229.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/184116530-c68b4d8f-894b-4def-ba59-f04c6eb233ed.png)
+
+## Контстантные выходы
+
+В некоторых местах в схему уходят константные значения (Vdd/Vss).
+
+Выглядят они так:
+
+Константный `0`:
+
+![image](https://user-images.githubusercontent.com/5828819/184126459-67473727-e2c8-416a-9de4-8aa743b211da.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184126531-13cc3699-9d93-47cc-8a01-d679ee6c3d27.png)
+
+Константный `1`:
+
+![image](https://user-images.githubusercontent.com/5828819/184126643-c0545d85-1fd4-460f-82b2-5d3ecc3b1ef3.png)
