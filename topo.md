@@ -63,3 +63,15 @@ https://www.icreversing.com/chips/315-5313a
 Исходный файл см. cells.json.
 
 ![image](https://user-images.githubusercontent.com/5828819/176867463-cb188394-577d-4608-badc-3babf42d162a.png)
+
+## Сложное место 1
+
+![image](https://user-images.githubusercontent.com/5828819/184116473-0a559c73-04f9-477a-b29c-6ea19f5d8601.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184116399-5b6009ca-f460-45cf-afac-3bc48c5ff6c8.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184116636-3bea6b60-9854-4c65-9748-caab3aafb119.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184116668-55414386-a55f-4c5c-984e-625ac3949229.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184116530-c68b4d8f-894b-4def-ba59-f04c6eb233ed.png)
