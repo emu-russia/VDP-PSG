@@ -25,7 +25,7 @@ And then the standard Workflow for learning about chips:
 - Remove the top layers of metal
 - Examine the standard cells that are found in this area of the chip
 - Add cells and connect all ports
-- Make a schematic in Logisim
+- Make a schematic in Logisim / HDL
 - Examine the pins (bonus)
 
 Note on the English version: the translation was done with the service [DeepL.com](http://DeepL.com), so it may seem awkward somewhere for native speakers. You are free to contribute your own edits to make it "human".
