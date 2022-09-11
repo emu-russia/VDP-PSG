@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/189532518-c890a300-7e2e-4062-8671-c455de62b732.png)
 
-Сплиттер (фазовый расщепитель):
+Сплиттер (фазовый расщепитель, 353 - это входной not до расщепителя):
 
 ![image](https://user-images.githubusercontent.com/5828819/189533050-574eb151-a585-443c-aa10-63ce3d2917fd.png)
 
