@@ -22,6 +22,10 @@ https://www.icreversing.com/chips/315-5313a
 
 При реверсе не стоит на это обращать внимание. Там где земля - с той стороны N-трансы, там где VDD - с той стороны P-трансы, обычные правила для CMOS.
 
+## Карта ячеек
+
+![PSG_netlist](/imgstore/PSG_netlist.png)
+
 ## Модули
 
 Карта распределения ячеек по модулям, by @nukeykt.
@@ -57,12 +61,6 @@ https://www.icreversing.com/chips/315-5313a
 Группа самосовмещений ячеек является простейшей группой диэдра D2 (`Vierergruppe`).
 
 ![image](https://user-images.githubusercontent.com/5828819/176861596-9f27ad7b-82f0-4c9a-888c-5250f60a61ae.png)
-
-## Тепловая карта ячеек
-
-Исходный файл см. cells.json.
-
-![image](https://user-images.githubusercontent.com/5828819/176867463-cb188394-577d-4608-badc-3babf42d162a.png)
 
 ## Сложное место 1
 
