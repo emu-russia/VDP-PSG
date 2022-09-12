@@ -22,6 +22,10 @@ Another unusual feature is the use of n-pockets instead of the usual p:
 
 When reversing, you don't need to pay attention to this. Where ground is on the N side, where VDD is on the P side, the usual rules for CMOS.
 
+## Cell Map
+
+![PSG_netlist](/imgstore/PSG_netlist.png)
+
 ## Modules
 
 Cell allocation map by module, by @nukeykt.
@@ -57,9 +61,3 @@ Not all cells allow such tricks, but only complementarily symmetric ones like no
 The self-alignment group of cells is the simplest group of the dihedral D2 (`Vierergruppe`).
 
 ![image](https://user-images.githubusercontent.com/5828819/176861596-9f27ad7b-82f0-4c9a-888c-5250f60a61ae.png)
-
-## Cell Heat Map
-
-See cells.json for the source file.
-
-![image](https://user-images.githubusercontent.com/5828819/176867463-cb188394-577d-4608-badc-3babf42d162a.png)
