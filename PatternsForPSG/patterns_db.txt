@@ -57,9 +57,9 @@ vias aon2222, g, 12.33, 22.39, ViasInput, 0
 vias aon2222, h, 10.32, 22.38, ViasInput, 0
 vias aon2222, x, 1.43, 12.11, ViasOutput, 0
 
-pattern buf, CellBuffer, 6.0, 0, 0, "VDPCells/buf.jpg"
-vias buf, a, 2.13, 22.45, ViasInput, 0
-vias buf, x, 11.92, 12.45, ViasOutput, 0
+pattern not_super, CellNot, 6.0, 0, 0, "VDPCells/not_super.jpg"
+vias not_super, a, 2.13, 22.45, ViasInput, 0
+vias not_super, x, 11.92, 12.45, ViasOutput, 0
 
 pattern cgi2a, CellAdder, 6.0, 0, 0, "VDPCells/cgi2a.jpg"
 vias cgi2a, a, 20.50, 22.47, ViasInput, 0
