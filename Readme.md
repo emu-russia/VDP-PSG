@@ -1,30 +1,31 @@
 # VDP PSG
 
-Это небольшой проект по восстановлению схемы VDP PSG.
+This is a small project to rebuild the VDP PSG circuit.
 
-## История
+## History
 
-Не так давно мы получили VDP сеги для анализа. Чип был повреждён при вскрытии, но по какому-то магическому стечению обстоятельств отломившийся кусок чётко содержит весь PSG. Это судьба!
+Not so long ago we received a VDP of a Sega for analysis. The chip was damaged during the opening, but by some magical coincidence the broken off piece clearly contains the whole PSG. This is destiny!
 
 ![vdp-damaged-chip](/imgstore/vdp-damaged-chip.png)
 
-## Вводная
+## Introduction
 
-Чипы сеги в основном спроектированы с применением технологии стандартных ячеек. 2 слоя металла. То есть типовой подход середины 90-х.
+Sega chips are basically designed with standard cell technology. 2 layers of metal. That is the typical approach of the mid-90s.
 
-EDIT: VDP (и PSG) построен по технологии CMOS, 1 слой металла.
+EDIT: VDP (and PSG) is built with CMOS technology, 1 layer of metal.
 
-Проект обещает быть несложным и интересным.
+The project promises to be uncomplicated and interesting.
 
-Отколовшийся кусок уже сфотографирован на 40x, в первую очередь нужно сшить слайды:
+The broken off piece has already been photographed at 40x, the first thing to do is stitch the slides together:
 
 ![vdp-slides](/imgstore/vdp-slides.png)
 
-Ну а затем стандартный Workflow по изучению микросхем:
-- Выполнить трассировку проводов
-- Снять верхние слои металла
-- Изучить стандартные ячейки, которые встречаются в этой области чипа
-- Добавить ячейки и соединить все порты
-- Сделать схему в Logisim / HDL
-- Изучить схемы терминалов (бонус)
-- PSG VGM Player(?) (https://vgmrips.net/wiki/VGM_Specification)
+And then the standard Workflow for learning about chips:
+- Trace the wires
+- Remove the top layers of metal
+- Examine the standard cells that are found in this area of the chip
+- Add cells and connect all ports
+- Make a schematic in Logisim / HDL
+- Examine the pins (bonus)
+
+Note on the English version: the translation was done with the service [DeepL.com](http://DeepL.com), so it may seem awkward somewhere for native speakers. You are free to contribute your own edits to make it "human".
