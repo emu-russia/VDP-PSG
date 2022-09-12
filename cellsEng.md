@@ -114,9 +114,11 @@ Used for the noise channel. The cell is a shift register with feedback. The outp
 
 You don't have to worry about the deep meaning of the cell and why there is an aoi embedded inside. Do it the same way and it will work.
 
-## Cell 13 - buf
+## Cell 13 - not_super
 
-|![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![image](https://user-images.githubusercontent.com/5828819/176180754-899c75fa-0af2-42f9-a165-b9d24792c974.png)|
+Super-inverter.
+
+|![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![image](https://user-images.githubusercontent.com/5828819/189680332-3e811082-2d59-4c38-99ea-d90b290538fd.png)|
 |---|---|---|
 
 ## Cell 14+15 - clkgen
