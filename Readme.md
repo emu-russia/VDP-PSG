@@ -1,5 +1,7 @@
 # VDP PSG
 
+:warning: The signal names will NOT change. Live with it!
+
 This is a small project to rebuild the VDP PSG circuit.
 
 ## History
