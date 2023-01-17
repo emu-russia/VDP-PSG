@@ -13,6 +13,6 @@ Port groups at the bottom:
 
 The SOUND output is common to all four channels and goes directly to the `SOUND` terminal:
 
-![image](/imstore/177565232-0ce7a949-0d31-4bbc-a9c0-457cbd9f13bc.png)
+![image](/imgstore/177565232-0ce7a949-0d31-4bbc-a9c0-457cbd9f13bc.png)
 
 The schematic will be obtained after clarifying where on the topology the N and where the P tran are.
