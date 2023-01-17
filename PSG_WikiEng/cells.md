@@ -209,7 +209,7 @@ Occurs in the `G` row.
 
 ## Cell 22 - xor
 
-|![image](/imstore/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](/imstore/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|![Cell22_topo](/imgstore/Cell22_topo.png)|![image](/imstore/176373559-127b9114-b944-4a54-af8c-263289dfe1b4.png)|![image](/imstore/176373596-dae9d4c7-592c-4829-99ff-055d552ea4be.png)|
+|![image](/imstore/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](/imstore/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|![Cell22_topo](/imgstore/Cell22_topo.jpg)|![image](/imstore/176373559-127b9114-b944-4a54-af8c-263289dfe1b4.png)|![image](/imstore/176373596-dae9d4c7-592c-4829-99ff-055d552ea4be.png)|
 |---|---|---|---|---|
 
 In a single copy, in the middle of the `G` row.
