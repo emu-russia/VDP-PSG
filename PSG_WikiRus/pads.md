@@ -15,19 +15,19 @@
 
 ## Терминал Input
 
-![image](https://user-images.githubusercontent.com/5828819/177574039-d237de48-ed87-4b40-8b99-d4b56eced7de.png)
+![image](/imstore/177574039-d237de48-ed87-4b40-8b99-d4b56eced7de.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177593251-82b7bf65-76b0-4643-95bf-a0becaa6316c.png)
+![image](/imstore/177593251-82b7bf65-76b0-4643-95bf-a0becaa6316c.png)
 
 ## Терминал Output
 
-![image](https://user-images.githubusercontent.com/5828819/177621881-32e7b2a7-2d68-40ac-beb5-9ec639c5a78e.png)
+![image](/imstore/177621881-32e7b2a7-2d68-40ac-beb5-9ec639c5a78e.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177593122-86d1e8f1-2c57-42d8-93ba-421cf94bdf6f.png)
+![image](/imstore/177593122-86d1e8f1-2c57-42d8-93ba-421cf94bdf6f.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177602665-83bdf15b-7e3c-49dc-9472-a32949f701e4.png)
+![image](/imstore/177602665-83bdf15b-7e3c-49dc-9472-a32949f701e4.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177604431-708bcec8-8d9f-4540-a803-12a3339fb28d.png)
+![image](/imstore/177604431-708bcec8-8d9f-4540-a803-12a3339fb28d.png)
 
 Вначале идут 2 слабых инвертора, потом 1 спаренный - помощнее. На выходе стоит большой суперинвертор. В итоге получается цепочка из четырёх `not`.
 
@@ -37,18 +37,18 @@ https://www.youtube.com/watch?v=8dPum-XwP38
 
 Для обычных двунаправленных I/O портов.
 
-![image](https://user-images.githubusercontent.com/5828819/177622002-b8cf186f-676d-4bb4-a789-98c2cbc55c2f.png)
+![image](/imstore/177622002-b8cf186f-676d-4bb4-a789-98c2cbc55c2f.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177622044-48ddc15b-fbb4-4e58-a9c0-461e34cffa87.png)
+![image](/imstore/177622044-48ddc15b-fbb4-4e58-a9c0-461e34cffa87.png)
 
 ## Терминал Inout+TriState
 
 Используется для шин, которые могут находится в третьем состоянии (`z`).
 
-![image](https://user-images.githubusercontent.com/5828819/177622165-e8c789b6-e382-487b-b181-10ec6ea9a176.png)
+![image](/imstore/177622165-e8c789b6-e382-487b-b181-10ec6ea9a176.png)
 
-![image](https://user-images.githubusercontent.com/5828819/177593661-c6aa9c68-350c-4879-806b-88099d4d8fcf.png)
+![image](/imstore/177593661-c6aa9c68-350c-4879-806b-88099d4d8fcf.png)
 
 Часть где поли сильно сточился с более лучшим фокусом:
 
-![image](https://user-images.githubusercontent.com/5828819/177594127-040d8a4a-9d88-43b8-adf4-d6321fa1eb24.png)
+![image](/imstore/177594127-040d8a4a-9d88-43b8-adf4-d6321fa1eb24.png)
